@@ -40,8 +40,8 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [x] S2 Astro init dans `site/`, layout, thème doux, mode sombre, noindex
 - [x] S3 Bouton fixe + page trousse de crise
 - [x] S4 Workflow GitHub Actions → Pages, premier déploiement vérifié
-- [~] S5 Service worker + manifest (hors ligne)
-- [~] S6 Journal des signaux (localStorage) + version imprimable
+- [x] S5 Service worker + manifest (hors ligne)
+- [x] S6 Journal des signaux (localStorage) + version imprimable
 
 ### Phase 4 — Modules (rédacteurs en parallèle + relecture)
 - [x] M1 Comprendre tes crises

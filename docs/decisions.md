@@ -66,3 +66,22 @@ Le **repo est public** : le contenu Markdown est lisible sur GitHub de toute fa�
 - Vérification automatique avant déploiement : `npm run check:dist` (noindex sur chaque page, aucun sitemap, aucune ressource externe chargée).
 - Node : version LTS en CI (`lts/*`) ; Astro exige Node ≥ 22.12.
 - `package-lock.json` commité ; la CI utilise `npm ci`.
+
+## 6. Hors ligne (PWA)
+
+- **Manifeste** `site/public/manifest.webmanifest` : `start_url` et `scope` = `/anxiety-tips/`, `display: standalone`, couleurs du thème clair. Icônes : `favicon.svg` (`purpose: any`) + `icon-192.png` / `icon-512.png` (la 512 sert aussi de `maskable` : fond plein, motif dans la zone sûre). Les PNG sont produits par `site/scripts/make-icons.mjs` (Node seul, sans dépendance) et **commités** ; le script ne tourne pas au build.
+- **Service worker maison** `site/public/sw.js` (pas de Workbox : quelques dizaines de lignes suffisent, aucune dépendance) :
+  - à l'installation, met en cache **tout le site** ; la liste et la version sont écrites dans `dist/sw.js` après le build par l'intégration `site/integrations/sw-precache.mjs` ;
+  - version de cache = empreinte (SHA-256) du contenu du build : le cache n'est renouvelé que si un fichier change ; les anciens caches sont supprimés à l'activation ;
+  - pages : **réseau d'abord** (contenu à jour en ligne), repli sur le cache hors ligne ; si le réseau ne répond pas en 4 s, la copie locale est servie ;
+  - autres fichiers : cache d'abord ;
+  - enregistré par un petit script inline dans `Base.astro`, **seulement sur le site construit** (pas en `astro dev`).
+- `npm run check:dist` vérifie aussi que `sw.js` contient la version du build et chaque page.
+
+## 7. Journal et contacts personnels (données 100 % locales)
+
+- Stockage : `localStorage` du navigateur uniquement (clés `vague-journal-v1`, `vague-contacts-v1`). Aucune requête réseau, aucun compte. Un seul fichier JS vanilla : `site/public/local.js`.
+- Les questions du journal sont définies une seule fois dans `site/src/lib/journal.ts` (page `/journal/` et grille papier `/journal/imprimer/`). Aucun chiffre ni score : des mots et des pastilles de couleur douce, toujours accompagnées de texte.
+- Export/import en fichier JSON local ; « Tout effacer » avec confirmation (efface le journal, pas les contacts).
+- Les contacts (1 à 3, nom + numéro) ne sont **jamais** dans le code ni le repo : saisis sur `/trousse/`, affichés en gros boutons `tel:` sur `/trousse/` et `/aide/`.
+- Limite connue : si le navigateur efface ses données (ou en navigation privée), le journal disparaît ; d'où l'export en fichier et la grille papier.

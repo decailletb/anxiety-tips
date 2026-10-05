@@ -1,0 +1,58 @@
+---
+// « Mes contacts » : 1 à 3 numéros personnels gardés uniquement sur ce téléphone (localStorage).
+// Aucun numéro n'est jamais dans le code ni dans le repo. Affichage par public/local.js.
+import { url } from '../lib/url';
+
+interface Props {
+  // true sur la trousse : formulaire pour ajouter/modifier. false sur l'aide : boutons seulement.
+  editable?: boolean;
+}
+const { editable = false } = Astro.props;
+const slots = [0, 1, 2];
+---
+
+<section class="my-contacts" aria-labelledby="my-contacts-title">
+  <h2 id="my-contacts-title">Mes contacts</h2>
+  <noscript>
+    <p class="notice">Tes contacts personnels s’affichent ici quand JavaScript est activé.</p>
+  </noscript>
+  <div class="contact-list" data-contacts-list></div>
+  {
+    editable ? (
+      <>
+        <p class="contacts-empty" data-contacts-empty data-needs-js hidden>
+          Tu peux garder ici 1 à 3 personnes à appeler en un geste : ta sage-femme, ta maternité, une proche.
+        </p>
+        <details class="contacts-edit" data-needs-js hidden>
+          <summary>Ajouter ou modifier mes contacts</summary>
+          <form id="contacts-form" class="contacts-form">
+            <p class="privacy-note">Enregistrés seulement sur ce téléphone. Rien n’est envoyé nulle part.</p>
+            {slots.map((i) => (
+              <fieldset>
+                <legend>Contact {i + 1}</legend>
+                <div class="field">
+                  <label for={`contact-name-${i}`}>Nom</label>
+                  <input id={`contact-name-${i}`} name={`name${i}`} type="text" maxlength="40" autocomplete="off" />
+                </div>
+                <div class="field">
+                  <label for={`contact-tel-${i}`}>Numéro</label>
+                  <input id={`contact-tel-${i}`} name={`tel${i}`} type="tel" inputmode="tel" maxlength="30" autocomplete="off" />
+                </div>
+              </fieldset>
+            ))}
+            <div class="actions">
+              <button type="submit" class="btn btn-primary">Enregistrer</button>
+              <p class="status" role="status" aria-live="polite"></p>
+            </div>
+          </form>
+        </details>
+      </>
+    ) : (
+      <p class="contacts-empty" data-contacts-empty data-needs-js hidden>
+        Tu peux enregistrer tes propres contacts (sage-femme, maternité, une proche) dans la{' '}
+        <a href={url('trousse/')}>trousse de crise</a>.
+      </p>
+    )
+  }
+</section>
+<script is:inline src={url('local.js')} defer></script>
