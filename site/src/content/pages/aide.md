@@ -28,10 +28,6 @@ D'abord ton médecin habituel. S'il est injoignable, la **centrale des médecins
 
 **[Periparto Suisse](https://periparto.ch/fr)** : des personnes qui connaissent bien l'anxiété pendant la grossesse. Conseil gratuit et confidentiel, certains jours de la semaine. Ce n'est pas une ligne de crise.
 
-## Tes contacts
-
-Les contacts que tu as enregistrés sur la page [trousse](../trousse/) apparaissent aussi ici. Ils restent uniquement sur ton téléphone.
-
 ---
 
 Numéros vérifiés le 5 octobre 2026. Ils peuvent changer : revérifie-les de temps en temps, un jour calme.
