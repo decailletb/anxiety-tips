@@ -2,7 +2,7 @@
 
 ## Statut global
 
-- Phase en cours : **4 — modules** + S5/S6 (≈ 55 %)
+- Phase en cours : **5 — finitions** (≈ 85 %)
 - Branche active : `main` (lots sur branches dédiées)
 - Site cible : https://decailletb.github.io/anxiety-tips/
 
@@ -55,7 +55,7 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [x] M9 Ta trousse de crise
 - [x] M10 Lectures recommandées
 - [x] M11 Quand demander de l'aide
-- [~] M12 Relecture de tous les modules
+- [x] M12 Relecture de tous les modules
 
 ### Phase 5 — Finitions
 - [ ] F1 Hors ligne testé (trousse au minimum)
