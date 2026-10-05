@@ -2,7 +2,7 @@
 
 ## Statut global
 
-- Phase en cours : **1 — recherche** + **3 — squelette site** (≈ 8 %)
+- Phase en cours : **1 (fin) + 2 — guide** + **3 — squelette site** (≈ 20 %)
 - Branche active : `main` (lots sur branches dédiées)
 - Site cible : https://decailletb.github.io/anxiety-tips/
 
@@ -25,15 +25,15 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [x] R4 `sommeil.md` (compatible grossesse)
 - [x] R5 `etre-seule.md`
 - [x] R6 `signaux-precoces-et-trousse-de-crise.md` (journal, patterns, ancrage, respiration douce)
-- [~] R7 `ressources-suisse.md` (numéros vérifiés) + `livres.md` (disponibles en Suisse, FR)
-- [ ] R8 Contrôle croisé grossesse sur toutes les fiches + vérifier liens non ouverts (R2 : PDF Russ Harris, Shortform, Lieberman 2007)
+- [x] R7 `ressources-suisse.md` (numéros vérifiés) + `livres.md` (disponibles en Suisse, FR)
+- [x] R8 Contrôle croisé grossesse sur toutes les fiches + vérifier liens non ouverts (R2 : PDF Russ Harris, Shortform, Lieberman 2007)
 
 ### Phase 2 — Livrable 1 (`docs/guide-direct.md`)
-- [ ] G1 Plan + trousse de crise + section aide
-- [ ] G2 Sections ruminations, boule au ventre, contraste nausées
-- [ ] G3 Sections nourriture/poids, sommeil, être seule
-- [ ] G4 Signaux précoces + journal + livres
-- [ ] G5 Relecture (relecteur) + corrections
+- [x] G1 Plan + trousse de crise + section aide
+- [x] G2 Sections ruminations, boule au ventre, contraste nausées
+- [x] G3 Sections nourriture/poids, sommeil, être seule
+- [x] G4 Signaux précoces + journal + livres
+- [x] G5 Relecture (relecteur) + corrections
 
 ### Phase 3 — Squelette du site (parallèle à phase 2)
 - [x] S1 `docs/decisions.md` (techno, robots, alternatives)
@@ -74,6 +74,8 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 | 2026-10-05 | Hook `.githooks/commit-msg` (format Angular + mots interdits), activé par `core.hooksPath` | Garde-fou local en plus de la config |
 | 2026-10-05 | Techno pressentie : Astro statique (détail dans `docs/decisions.md`, tâche S1) | Markdown simple, zéro JS par défaut, déploiement Pages officiel |
 | 2026-10-05 | Sous-agents lancés via `general-purpose` + « lis `.claude/agents/<nom>.md` » si non chargés | Agents créés en cours de session |
+| 2026-10-05 | Aide rapide : « ne plus garder aliments ni liquides depuis environ une journée » (repère NHS grossesse) | Durée, pas quantité alimentaire ; plus sûr que « plusieurs jours » |
+| 2026-10-05 | Pas de maternité nommée dans le contenu publié : « la maternité où tu es suivie » + numéro perso stockable en local sur le site | Vie privée (repo public), évite de révéler une région |
 
 ## Blocages
 
@@ -81,6 +83,6 @@ Aucun.
 
 ## Reprise
 
-- Prochaine action : lancer R1–R7 (chercheurs, branche `docs/research`) et S1–S2 (dev-site, branche `feat/site-skeleton`) en parallèle.
+- Prochaine action : guide en rédaction (branche `docs/guide-direct`, fichier `docs/guide-direct.md`) ; R7 (ressources suisses, livres) et S1–S4 (site, branche `feat/site-skeleton`) en cours. Si R7 absente : relancer chercheur R7.
 - Fichiers : `PROGRESS.md`, `research/*`.
-- Branche active : `docs/research` (recherche) ; `feat/site-skeleton` (site, worktree). Si une fiche research/ manque ou est incomplète, relancer le chercheur correspondant.
+- Branche active : `docs/guide-direct`.

@@ -98,7 +98,7 @@ Périmètre : l'anxiété et les ruminations montent quand la personne est seule
   1. Dire simplement : « Je suis dans un moment. Tu peux t'asseoir à côté de moi ? » ou « Tu peux me tenir la main ? »
   2. S'asseoir côte à côte, épaule contre épaule ou main dans la main, sans forcément parler.
   3. Caler sa respiration sur celle, lente, de l'autre, quelques instants.
-  4. Faire ensemble une petite activité tranquille (thé, série, marche).
+  4. Faire ensemble une petite activité tranquille (boisson habituelle, pas de tisane « calmante » ; série, marche).
   5. Noter ce qui a aidé (pour la technique 3 : le recréer à distance).
 - Quand : pendant ; après une crise vécue seule, pour « redescendre ».
 - Grossesse : compatible.
