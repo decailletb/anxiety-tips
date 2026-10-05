@@ -77,6 +77,7 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 
 | Date | Décision | Raison |
 |---|---|---|
+| 2026-10-05 | Runs de déploiement bloqués (job `deploy` sans runner ~40 min) : annulés puis relancés via `gh workflow run deploy.yml --ref main` → OK | Incident côté runners GitHub, aucune règle bloquante dans l'environnement `github-pages` |
 | 2026-10-05 | Recadrage : grossesse = filtre de sécurité seulement ; crise = mode rumination, pas d'urgence ; Periparto et Bardacke retirés ; nouvelle trousse orientée « décrocher » | Retour de l'utilisateur |
 | 2026-10-05 | Thème clair « jour » par défaut, sombre en option manuelle | Retour de l'utilisateur |
 | 2026-10-05 | Attribution désactivée via `attribution` (commit/pr vides, sessionUrl false) + `includeCoAuthoredBy: false` | Forme compatible avec la version installée (doc settings-reference) |
@@ -111,6 +112,7 @@ Aucun.
 - Conventions : commits Angular, aucune attribution (config + hook `commit-msg`), branches par lot fusionnées dans `main`.
 
 ### Limites connues
+- Si un déploiement reste « queued » longtemps : `gh run cancel <id>` puis `gh workflow run deploy.yml --ref main`.
 - Tests navigateur faits avec Chromium uniquement (pas de Safari iOS réel ni de lecteur d'écran).
 - Le journal et les contacts vivent dans le navigateur : effacés si les données du site sont effacées ou en navigation privée (export fichier + grille papier proposés).
 - Un `robots.txt` de site de projet n'est pas lu par les robots ; la non-indexation repose sur la balise meta (voir `docs/decisions.md`). Le repo étant public, son contenu reste lisible sur GitHub.
