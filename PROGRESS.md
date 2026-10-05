@@ -36,10 +36,10 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [ ] G5 Relecture (relecteur) + corrections
 
 ### Phase 3 — Squelette du site (parallèle à phase 2)
-- [~] S1 `docs/decisions.md` (techno, robots, alternatives)
-- [~] S2 Astro init dans `site/`, layout, thème doux, mode sombre, noindex
-- [ ] S3 Bouton fixe + page trousse de crise
-- [ ] S4 Workflow GitHub Actions → Pages, premier déploiement vérifié
+- [x] S1 `docs/decisions.md` (techno, robots, alternatives)
+- [x] S2 Astro init dans `site/`, layout, thème doux, mode sombre, noindex
+- [x] S3 Bouton fixe + page trousse de crise
+- [x] S4 Workflow GitHub Actions → Pages, premier déploiement vérifié
 - [ ] S5 Service worker + manifest (hors ligne)
 - [ ] S6 Journal des signaux (localStorage) + version imprimable
 
