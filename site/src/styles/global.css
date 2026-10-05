@@ -106,6 +106,17 @@ body {
   width: 1.4em;
   height: 1.4em;
 }
+.site-nav {
+  margin-left: auto;
+}
+.site-nav a {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--tap);
+  padding: 0 0.75rem;
+  color: var(--accent);
+  font-weight: 600;
+}
 
 main {
   padding-top: var(--space);
@@ -373,4 +384,471 @@ a {
     transition: none !important;
     scroll-behavior: auto !important;
   }
+}
+
+/* ---------- Formulaires, boutons (journal, contacts) ---------- */
+:root {
+  --tone0-bg: #e3ece4;
+  --tone0-line: #46684f;
+  --tone1-bg: #f4ead6;
+  --tone1-line: #8a6a2e;
+  --tone2-bg: #f4e0de;
+  --tone2-line: #9b4f4a;
+  --info-bg: #e2eaf2;
+  --info-line: #3f6585;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --tone0-bg: #2b3631;
+    --tone0-line: #a9c7b1;
+    --tone1-bg: #3a3326;
+    --tone1-line: #dcc28e;
+    --tone2-bg: #3d2c2b;
+    --tone2-line: #e3aaa4;
+    --info-bg: #26313b;
+    --info-line: #a6c1da;
+  }
+}
+
+[hidden] {
+  display: none !important;
+}
+.visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.privacy-note,
+.notice {
+  background: var(--accent-soft);
+  border-radius: var(--radius);
+  padding: 0.8rem 1rem;
+}
+.notice {
+  border-left: 5px solid var(--blue);
+}
+.gentle {
+  font-style: italic;
+  color: var(--muted);
+}
+
+.field {
+  margin: 0 0 1.25rem;
+}
+.field label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.35rem;
+}
+input[type="date"],
+input[type="text"],
+input[type="tel"],
+textarea {
+  width: 100%;
+  min-height: var(--tap);
+  padding: 0.6rem 0.8rem;
+  font: inherit;
+  color: var(--text);
+  background: var(--surface);
+  border: 2px solid var(--border);
+  border-radius: 10px;
+}
+textarea {
+  resize: vertical;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: var(--tap);
+  padding: 0.5rem 1.25rem;
+  font: inherit;
+  font-weight: 600;
+  color: var(--accent);
+  background: var(--surface);
+  border: 2px solid var(--accent);
+  border-radius: 999px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.btn-primary {
+  background: var(--cta-bg);
+  border-color: var(--cta-bg);
+  color: var(--cta-text);
+  min-width: 12rem;
+}
+.btn-quiet {
+  color: var(--muted);
+  border-color: var(--border);
+}
+.file-btn {
+  position: relative;
+}
+.file-btn input {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  opacity: 0;
+  cursor: pointer;
+}
+.file-btn:focus-within {
+  outline: 3px solid var(--focus);
+  outline-offset: 3px;
+}
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem 1rem;
+  margin-top: 1.5rem;
+}
+.status {
+  margin: 0;
+  color: var(--accent);
+  font-weight: 600;
+}
+.data-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.75rem;
+}
+
+/* Questions : gros boutons à choix unique */
+.choice {
+  border: 0;
+  padding: 0;
+  margin: 0 0 1.4rem;
+}
+.choice legend {
+  font-weight: 650;
+  padding: 0;
+  margin-bottom: 0.5rem;
+}
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+.chip {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 3.25rem;
+  min-width: 5.5rem;
+  padding: 0.4rem 1.1rem;
+  background: var(--surface);
+  border: 2px solid var(--border);
+  border-radius: 999px;
+  cursor: pointer;
+}
+.chip input {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+.chip:has(input:checked) {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  font-weight: 650;
+}
+/* La coche dit « choisi » sans compter sur la couleur */
+.chip:has(input:checked) span::before {
+  content: "✓ ";
+}
+.chip:has(input:focus-visible) {
+  outline: 3px solid var(--focus);
+  outline-offset: 3px;
+}
+
+/* Mes dernières semaines */
+.days {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 1.5rem;
+}
+.day {
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--border);
+}
+.day + .day {
+  margin-top: 0;
+}
+.day-name {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--tap);
+  padding: 0 0.25rem;
+  font: inherit;
+  font-weight: 650;
+  color: var(--accent);
+  background: none;
+  border: 0;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
+}
+.day-name::first-letter {
+  text-transform: uppercase;
+}
+.day-nothing {
+  margin-left: 0.5rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+.day-chips {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0;
+  margin: 0.25rem 0 0;
+}
+.day-chips li + li {
+  margin-top: 0;
+}
+.pill {
+  padding: 0.15rem 0.7rem;
+  border-radius: 999px;
+  border-left: 5px solid;
+  font-size: 0.95rem;
+}
+.pill-name {
+  color: var(--muted);
+}
+.tone-0 {
+  background: var(--tone0-bg);
+  border-color: var(--tone0-line);
+}
+.tone-1 {
+  background: var(--tone1-bg);
+  border-color: var(--tone1-line);
+}
+.tone-2 {
+  background: var(--tone2-bg);
+  border-color: var(--tone2-line);
+}
+.tone-info {
+  background: var(--info-bg);
+  border-color: var(--info-line);
+}
+.dot {
+  display: inline-block;
+  width: 0.9em;
+  height: 0.9em;
+  border-radius: 50%;
+  border: 2px solid;
+  vertical-align: -0.1em;
+}
+.legend-note {
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+.day-note {
+  margin: 0.4rem 0 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+  overflow-wrap: anywhere;
+}
+
+/* Grille papier */
+.grid-scroll {
+  overflow-x: auto;
+}
+.paper-grid {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.95rem;
+}
+.paper-grid th,
+.paper-grid td {
+  border: 1px solid var(--border);
+  padding: 0.3rem 0.4rem;
+  text-align: center;
+}
+.paper-grid .opt {
+  text-align: left;
+  font-weight: 400;
+  white-space: nowrap;
+}
+.paper-grid .q-row th {
+  text-align: left;
+  background: var(--accent-soft);
+  font-weight: 650;
+}
+.paper-grid .box {
+  display: inline-block;
+  width: 1.1em;
+  height: 1.1em;
+  border: 1.5px solid var(--text);
+  border-radius: 3px;
+}
+.paper-grid .note-row td {
+  height: 4.5rem;
+}
+.date-line {
+  color: var(--muted);
+  font-weight: 400;
+}
+
+/* Mes contacts (l'emporte sur le style des numéros de la page aide) */
+.my-contacts h2 {
+  margin-top: 2.5rem;
+}
+.contact-list {
+  display: grid;
+  gap: 0.75rem;
+}
+.my-contacts a.contact-btn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 4rem;
+  margin: 0;
+  padding: 0.75rem 1.25rem;
+  background: var(--accent-soft);
+  border: 2px solid var(--accent);
+  border-radius: var(--radius);
+  color: var(--accent);
+  font-size: 1rem;
+  font-weight: 400;
+  text-decoration: none;
+}
+.contact-name {
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+.contact-tel {
+  color: var(--text);
+  font-size: 1.1rem;
+}
+.contacts-edit {
+  margin-top: 1.25rem;
+}
+.contacts-edit summary {
+  display: flex;
+  align-items: center;
+  min-height: var(--tap);
+  color: var(--blue);
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+.contacts-form fieldset {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.75rem 1rem 0;
+  margin: 0 0 1rem;
+}
+.contacts-form legend {
+  font-weight: 650;
+  padding: 0 0.3rem;
+}
+/* Sur la trousse, les paragraphes géants ne s'appliquent pas ici */
+.trousse .my-contacts p {
+  font-size: 1rem;
+}
+
+/* ---------- Impression ---------- */
+@media print {
+  :root {
+    color-scheme: light;
+    --bg: #fff;
+    --surface: #fff;
+    --text: #000;
+    --muted: #333;
+    --border: #777;
+    --accent: #000;
+    --accent-soft: #eee;
+  }
+  body {
+    padding: 0;
+    font-size: 11pt;
+    background: #fff;
+    color: #000;
+  }
+  .site-header,
+  .site-footer,
+  .crisis-btn,
+  .skip,
+  .no-print,
+  .notice,
+  .privacy-note,
+  .my-contacts {
+    display: none !important;
+  }
+  .wrap {
+    max-width: none;
+    padding: 0;
+  }
+  main {
+    padding-top: 0;
+  }
+  a {
+    color: #000;
+  }
+  .day {
+    break-inside: avoid;
+    padding: 0.2rem 0;
+  }
+  .day-name {
+    min-height: 0;
+    text-decoration: none;
+    color: #000;
+  }
+  .pill,
+  .dot {
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+  .print-sheet h1 {
+    margin-top: 0;
+  }
+  .grid-scroll {
+    overflow: visible;
+  }
+  .print-sheet {
+    page: grille;
+  }
+  .print-intro {
+    margin-bottom: 0.5rem;
+  }
+  .paper-grid {
+    font-size: 9pt;
+    line-height: 1.15;
+  }
+  .paper-grid th,
+  .paper-grid td {
+    border-color: #555;
+    padding: 0.05rem 0.3rem;
+  }
+  .paper-grid .note-row td {
+    height: 3.5rem;
+  }
+  .paper-grid .day-col {
+    width: 11%;
+  }
+  .paper-grid tbody {
+    break-inside: avoid;
+  }
+}
+@page {
+  margin: 12mm;
+}
+/* La grille papier tient sur une page A4 en paysage */
+@page grille {
+  size: A4 landscape;
+  margin: 10mm;
 }

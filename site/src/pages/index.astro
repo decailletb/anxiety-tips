@@ -22,4 +22,11 @@ const modules = (await getCollection('modules')).sort((a, b) => a.data.order - b
       ))
     }
   </ol>
+
+  <p class="journal-link">
+    <a class="module-card" href={url('journal/')}>
+      <strong>Mon journal</strong>
+      <span>Une minute par jour pour repérer tes signaux. Gardé seulement sur ton téléphone.</span>
+    </a>
+  </p>
 </Base>

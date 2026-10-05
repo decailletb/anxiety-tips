@@ -1,0 +1,20 @@
+{
+  "id": "/anxiety-tips/",
+  "name": "Traverser la vague",
+  "short_name": "La vague",
+  "description": "Des outils simples pour traverser les moments d’anxiété. Fonctionne hors ligne.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "/anxiety-tips/",
+  "scope": "/anxiety-tips/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f3ec",
+  "theme_color": "#f7f3ec",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

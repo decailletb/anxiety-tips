@@ -2,6 +2,7 @@
 // 1. chaque page .html contient <meta name="robots" content="noindex, nofollow">
 // 2. aucun fichier sitemap
 // 3. aucune ressource externe chargée (script, style, police, image, iframe...)
+// 4. sw.js contient la version du build et la liste de toutes les pages (hors ligne)
 // Usage : npm run check:dist (après npm run build). Code de sortie 1 si un problème.
 import { readdirSync, readFileSync, statSync } from 'node:fs';
 import { join, relative } from 'node:path';
@@ -41,9 +42,34 @@ for (const f of files) {
   }
 }
 
+// 4. service worker : version de build écrite et chaque page présente dans la liste hors ligne
+const swFile = join(dist, 'sw.js');
+let swPages = 0;
+try {
+  const sw = readFileSync(swFile, 'utf8');
+  const version = sw.match(/\/\*SW_VERSION\*\/\s*'([^']*)'/);
+  const list = sw.match(/\/\*SW_PRECACHE\*\/\s*(\[.*?\])\s*\/\*END\*\//);
+  if (!version || version[1] === 'dev') errors.push('sw.js : version de build absente (intégration sw-precache ?)');
+  if (!list) errors.push('sw.js : liste hors ligne absente');
+  else {
+    const entries = JSON.parse(list[1]);
+    for (const f of htmlFiles) {
+      const rel = relative(dist, f).split(/[\\/]/).join('/');
+      if (rel === '404.html') continue;
+      const page = rel === 'index.html' ? './' : rel.replace(/index\.html$/, '');
+      if (!entries.includes(page)) errors.push(`sw.js : page absente de la liste hors ligne : ${page}`);
+      else swPages++;
+    }
+  }
+} catch {
+  errors.push('sw.js absent de dist/');
+}
+
 if (errors.length) {
   console.error('Vérification de dist/ : ÉCHEC');
   for (const e of errors) console.error(' - ' + e);
   process.exit(1);
 }
-console.log(`Vérification de dist/ : OK (${htmlFiles.length} pages avec noindex, pas de sitemap, aucune ressource externe).`);
+console.log(
+  `Vérification de dist/ : OK (${htmlFiles.length} pages avec noindex, pas de sitemap, aucune ressource externe, ${swPages} pages hors ligne).`,
+);
