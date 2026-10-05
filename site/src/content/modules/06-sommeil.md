@@ -1,16 +1,16 @@
 ---
 title: "Le sommeil"
 order: 6
-summary: "Remplacer l'effort de dormir par quelque chose de neutre, et laisser les soucis au carnet du soir."
+summary: "La nuit, la boucle tourne plus fort : laisser les soucis au carnet du soir et remplacer l'effort de dormir par du neutre."
 ---
 
 ## En bref
 
-Plus on cherche à dormir, plus le sommeil s'éloigne. Insister ajoute de la tension.
+La nuit, plus rien ne distrait. La boucle tourne plus fort, et les questions semblent plus graves qu'en journée.
 
-Les pensées qui tournent la nuit se gèrent mieux **avant** le coucher. Au lit, on remplace l'effort par quelque chose de neutre.
+Plus on cherche à dormir, plus le sommeil s'éloigne. Les pensées se posent mieux **avant** le coucher. Au lit, on remplace l'effort par quelque chose de neutre.
 
-Bonne nouvelle : rester allongée au calme repose déjà. Une nuit difficile n'est un danger ni pour toi ni pour le bébé.
+Bonne nouvelle : rester allongée au calme repose déjà. Une nuit moins bonne se rattrape.
 
 ## Exercices
 
@@ -27,7 +27,7 @@ Bonne nouvelle : rester allongée au calme repose déjà. Une nuit difficile n'e
 5. Ferme le carnet. Le travail est fini pour aujourd'hui.
 6. Si une pensée revient la nuit : « C'est déjà noté. J'y reviens demain. » Puis une de tes phrases.
 
-**Quand :** avant, le soir. Pendant, la nuit, pour les phrases.
+**Quand :** avant, le soir. La nuit, pour les phrases.
 
 ### Le mélange de mots
 
@@ -42,7 +42,7 @@ Bonne nouvelle : rester allongée au calme repose déjà. Une nuit difficile n'e
 5. Si un mot ramène un souci, laisse-le tomber et prends le suivant.
 6. Si l'esprit repart, reviens au mot, sans te juger.
 
-**Quand :** pendant, à l'endormissement ou lors d'un réveil la nuit. Évite les mots liés au corps, à la santé ou au bébé s'ils relancent l'inquiétude.
+**Quand :** à l'endormissement ou lors d'un réveil la nuit. Évite les mots liés à tes soucis du moment.
 
 ### Rester éveillée tranquillement
 
@@ -56,32 +56,33 @@ Bonne nouvelle : rester allongée au calme repose déjà. Une nuit difficile n'e
 4. Dis-toi doucement : « Je reste juste éveillée. Le sommeil viendra quand il sera prêt. »
 5. Ne lutte pas : tu arrêtes simplement de chercher le sommeil.
 
-**Quand :** pendant, au coucher ou lors d'un réveil.
+**Quand :** au coucher ou lors d'un réveil.
 
 ### Se lever quand ça tourne trop
 
-**Pourquoi ça t'aide :** lutter longtemps dans le lit finit par associer le lit à l'agitation. Te lever un moment casse ce lien, avec un geste simple, sans réfléchir.
+**Pourquoi ça t'aide :** tourner longtemps dans le lit finit par associer le lit à la boucle. Te lever un moment casse ce lien, avec un geste simple, sans réfléchir.
 
 **Comment :**
 
-1. Quand ça tourne ou que tu t'énerves de ne pas dormir, lève-toi doucement, sans regarder l'heure.
+1. Quand ça tourne ou que tu t'agaces de ne pas dormir, lève-toi doucement, sans regarder l'heure.
 2. Va dans un coin préparé à l'avance : plaid, coussin, lumière douce.
 3. Fais quelque chose de calme et un peu ennuyeux : lecture légère, musique douce, linge à plier. Pas d'écran lumineux.
 4. Reviens au lit quand tes paupières sont lourdes.
 5. Recommence si besoin, sans t'en vouloir.
 
-**Quand :** pendant. Pas de chronomètre : le repère, c'est « quand ça tourne trop ». Si tu es très fatiguée ou mal installée, tu peux aussi rester allongée au calme.
+**Quand :** la nuit. Pas de chronomètre : le repère, c'est « quand ça tourne trop ». Si tu es fatiguée ou bien installée, tu peux aussi rester allongée au calme.
 
-> Le lendemain, garde tes activités prévues, à un rythme doux.
+> Le lendemain, garde tes activités prévues, à un rythme doux. Pas besoin de « compenser » : ne réduis pas ton temps au lit, et pas de somnifères, plantes ou tisanes « pour dormir ».
 >
-> Confort physique (position, coussins, crampes, remontées acides) ou nuits qui restent difficiles : parles-en à ta sage-femme ou à ton/ta gynécologue.
+> Inconfort physique la nuit ou nuits qui restent difficiles : parles-en à ta sage-femme.
 
 ## À retenir
 
-- Plus tu cherches le sommeil, plus il recule : remplace l'effort par du neutre.
+- La nuit, la boucle tourne plus fort : ce n'est pas le moment de résoudre.
 - Les soucis se posent le soir, sur papier. La nuit, « c'est déjà noté ».
+- Plus tu cherches le sommeil, plus il recule : remplace l'effort par du neutre.
 - Se reposer au calme, c'est déjà récupérer.
-- Si les pensées tournent aussi le jour, le module [Les ruminations](../04-ruminations/) peut t'aider. En pleine crise, ouvre ta [trousse](../../trousse/).
+- Si ça tourne aussi le jour, le module [Les ruminations](../04-ruminations/) peut t'aider. Et ta [trousse](../../trousse/) reste à portée.
 
 ## Sources
 
@@ -92,4 +93,3 @@ Bonne nouvelle : rester allongée au calme repose déjà. Une nuit difficile n'e
 - [The Conversation – What is cognitive shuffling?](https://theconversation.com/what-is-cognitive-shuffling-and-does-it-really-help-you-get-to-sleep-two-sleep-scientists-explain-256444) (EN)
 - [Espie – Paradoxical intention therapy](https://www.med.upenn.edu/cbti/assets/user-content/documents/Espie_ParadoxicalIntentionTherapy-BTSD.pdf) (EN)
 - [CHUV – L'hygiène du sommeil](https://www.chuv.ch/fr/sommeil/cirs-home/patients-et-familles/bien-dormir/lhygiene-du-sommeil) (FR)
-- [NHS – Tiredness and sleep problems in pregnancy](https://www.nhs.uk/pregnancy/common-symptoms/tiredness/) (EN)
