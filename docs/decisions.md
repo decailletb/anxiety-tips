@@ -61,6 +61,8 @@ Le **repo est public** : le contenu Markdown est lisible sur GitHub de toute fa�
 ## 5. Conventions techniques
 
 - `base: '/anxiety-tips'`, `site: 'https://decailletb.github.io'`, `trailingSlash: 'always'` (GitHub Pages sert `dossier/index.html` ; URLs toujours terminées par `/`, cohérent avec `build.format: 'directory'`).
-- Tous les liens internes passent par `import.meta.env.BASE_URL`.
+- Tous les liens internes passent par `import.meta.env.BASE_URL` (aide `site/src/lib/url.ts`).
+- CSS intégré dans chaque page (`build.inlineStylesheets: 'always'`, quelques Ko) : une page = un seul fichier, aucune requête bloquante, et chaque page mise en cache reste complète hors ligne.
+- Vérification automatique avant déploiement : `npm run check:dist` (noindex sur chaque page, aucun sitemap, aucune ressource externe chargée).
 - Node : version LTS en CI (`lts/*`) ; Astro exige Node ≥ 22.12.
 - `package-lock.json` commité ; la CI utilise `npm ci`.
