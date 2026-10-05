@@ -1,20 +1,23 @@
-/* Thème doux, mobile d'abord. Polices système uniquement, aucune ressource externe. */
+/* Thème « jour » : clair et lumineux par défaut, mobile d'abord.
+   Mode nuit seulement si on l'active à la main (html[data-theme="dark"]), voir docs/decisions.md.
+   Polices système uniquement, aucune ressource externe. */
 
 :root {
-  color-scheme: light dark;
+  color-scheme: light;
 
-  /* Clair : sable, sauge, bleu doux */
-  --bg: #f7f3ec;
-  --surface: #fffdf8;
-  --text: #2b2f2c;
-  --muted: #5b625d;
-  --border: #ddd5c7;
-  --accent: #46684f;       /* sauge foncée : liens, titres */
-  --accent-soft: #e3ece4;  /* sauge très claire : fonds */
-  --blue: #3f6585;         /* bleu doux */
-  --focus: #2f5f8a;
-  --cta-bg: #3d5f48;       /* bouton trousse */
-  --cta-text: #ffffff;
+  /* Jour : crème lumineux, vert d'eau, bleu ciel, pêche douce (contrastes AA vérifiés) */
+  --bg: #fffaf2;
+  --surface: #ffffff;
+  --text: #22313a;
+  --muted: #4b5b64;
+  --border: #e8dfd0;
+  --accent: #1c6b66;       /* vert d'eau foncé : titres, cartes */
+  --accent-soft: #e2f4f0;  /* vert d'eau très clair : fonds */
+  --blue: #1f5f8f;         /* bleu ciel foncé : liens */
+  --focus: #1f5f8f;
+  --cta-bg: #ffd3b6;       /* bouton trousse : pêche douce */
+  --cta-text: #4a2410;
+  --cta-border: #c97a4c;
 
   --font: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   --measure: 36em;
@@ -24,20 +27,21 @@
   --cta-height: 4rem;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #1b201e;
-    --surface: #242a27;
-    --text: #e9e5dd;
-    --muted: #b3b8b2;
-    --border: #3a423e;
-    --accent: #a9c7b1;
-    --accent-soft: #2b3631;
-    --blue: #a6c1da;
-    --focus: #b9d4ee;
-    --cta-bg: #a9c7b1;
-    --cta-text: #16201a;
-  }
+/* Mode nuit : option manuelle, mémorisée dans ce navigateur */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #1b201e;
+  --surface: #242a27;
+  --text: #e9e5dd;
+  --muted: #b3b8b2;
+  --border: #3a423e;
+  --accent: #a9c7b1;
+  --accent-soft: #2b3631;
+  --blue: #a6c1da;
+  --focus: #b9d4ee;
+  --cta-bg: #a9c7b1;
+  --cta-text: #16201a;
+  --cta-border: #a9c7b1;
 }
 
 *,
@@ -274,9 +278,70 @@ a {
 
 .site-footer {
   margin-top: 3rem;
-  padding: 1.5rem 0;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
   color: var(--muted);
   font-size: 0.95rem;
+}
+
+/* Interrupteur « Mode nuit » (affiché seulement si JavaScript est actif) */
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: var(--tap);
+  padding: 0.4rem 1.1rem;
+  font: inherit;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--accent);
+  background: var(--surface);
+  border: 2px solid var(--border);
+  border-radius: 999px;
+  cursor: pointer;
+}
+.theme-toggle svg {
+  width: 1.2em;
+  height: 1.2em;
+  flex: none;
+}
+
+/* Encadré (citation Markdown « > ») : pleine largeur, fond doux */
+blockquote {
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem 0.1rem;
+  background: var(--accent-soft);
+  border-left: 5px solid var(--accent);
+  border-radius: var(--radius);
+}
+blockquote ul,
+blockquote ol {
+  padding-left: 1.2rem;
+}
+
+/* Tableaux des modules : colonnes égales, texte qui passe à la ligne (pas de défilement) */
+article table {
+  width: 100%;
+  margin: 1.5rem 0;
+  table-layout: fixed;
+  overflow-wrap: break-word;
+  border-collapse: collapse;
+  font-size: 1.05rem;
+  line-height: 1.45;
+}
+article th,
+article td {
+  padding: 0.65rem 0.75rem;
+  border: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+}
+article thead th {
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+article tbody td {
+  background: var(--surface);
 }
 
 /* Bouton « Trousse de crise » : fixe, en bas à droite (zone du pouce) */
@@ -294,11 +359,12 @@ a {
   justify-content: center;
   background: var(--cta-bg);
   color: var(--cta-text);
+  border: 2px solid var(--cta-border);
   font-size: 1.15rem;
   font-weight: 650;
   text-decoration: none;
   border-radius: 999px;
-  box-shadow: 0 6px 20px rgb(0 0 0 / 0.18);
+  box-shadow: 0 6px 18px rgb(74 36 16 / 0.16);
 }
 .crisis-btn svg {
   width: 1.5em;
@@ -388,26 +454,24 @@ a {
 
 /* ---------- Formulaires, boutons (journal, contacts) ---------- */
 :root {
-  --tone0-bg: #e3ece4;
-  --tone0-line: #46684f;
-  --tone1-bg: #f4ead6;
-  --tone1-line: #8a6a2e;
-  --tone2-bg: #f4e0de;
-  --tone2-line: #9b4f4a;
-  --info-bg: #e2eaf2;
-  --info-line: #3f6585;
+  --tone0-bg: #e2f4f0;
+  --tone0-line: #1c6b66;
+  --tone1-bg: #fff0d6;
+  --tone1-line: #a06a10;
+  --tone2-bg: #ffe3dc;
+  --tone2-line: #b4513f;
+  --info-bg: #e1effa;
+  --info-line: #1f5f8f;
 }
-@media (prefers-color-scheme: dark) {
-  :root {
-    --tone0-bg: #2b3631;
-    --tone0-line: #a9c7b1;
-    --tone1-bg: #3a3326;
-    --tone1-line: #dcc28e;
-    --tone2-bg: #3d2c2b;
-    --tone2-line: #e3aaa4;
-    --info-bg: #26313b;
-    --info-line: #a6c1da;
-  }
+:root[data-theme="dark"] {
+  --tone0-bg: #2b3631;
+  --tone0-line: #a9c7b1;
+  --tone1-bg: #3a3326;
+  --tone1-line: #dcc28e;
+  --tone2-bg: #3d2c2b;
+  --tone2-line: #e3aaa4;
+  --info-bg: #26313b;
+  --info-line: #a6c1da;
 }
 
 [hidden] {
@@ -479,7 +543,7 @@ textarea {
 }
 .btn-primary {
   background: var(--cta-bg);
-  border-color: var(--cta-bg);
+  border-color: var(--cta-border);
   color: var(--cta-text);
   min-width: 12rem;
 }
@@ -589,6 +653,7 @@ textarea {
   display: inline-flex;
   align-items: center;
   min-height: var(--tap);
+  min-width: var(--tap);
   padding: 0 0.25rem;
   font: inherit;
   font-weight: 650;
@@ -763,7 +828,8 @@ textarea {
 
 /* ---------- Impression ---------- */
 @media print {
-  :root {
+  :root,
+  :root[data-theme="dark"] {
     color-scheme: light;
     --bg: #fff;
     --surface: #fff;
@@ -785,6 +851,7 @@ textarea {
   .skip,
   .no-print,
   .notice,
+  .theme-toggle,
   .privacy-note,
   .my-contacts {
     display: none !important;

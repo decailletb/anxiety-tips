@@ -19,7 +19,7 @@ site/                    Le site (Astro, statique)
   src/content/pages/     ← trousse.md (trousse de crise) et aide.md
   src/pages/             Gabarits des pages (accueil, module, trousse, aide, journal)
   src/layouts/           Mise en page commune (noindex, bouton trousse, hors ligne)
-  src/styles/global.css  Couleurs, typographie, mode sombre
+  src/styles/global.css  Couleurs (thème jour, mode nuit en option), typographie
   public/                Fichiers servis tels quels (sw.js, manifest, icônes, local.js)
   scripts/               Vérifications avant déploiement
 .github/workflows/       Déploiement automatique vers GitHub Pages

@@ -29,9 +29,18 @@ const registerSw = import.meta.env.PROD;
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="robots" content="noindex, nofollow" />
     <meta name="description" content={description} />
-    <meta name="theme-color" content="#f7f3ec" media="(prefers-color-scheme: light)" />
-    <meta name="theme-color" content="#1b201e" media="(prefers-color-scheme: dark)" />
-    <meta name="color-scheme" content="light dark" />
+    <!-- Thème « jour » par défaut, quel que soit le réglage du téléphone. Mode nuit = option manuelle. -->
+    <meta name="theme-color" content="#fffaf2" />
+    <meta name="color-scheme" content="light" />
+    <!-- Avant l'affichage, pour éviter un flash clair si le mode nuit a été choisi. Sans JS : clair. -->
+    <script is:inline>
+      try {
+        if (localStorage.getItem('vague-theme') === 'dark') {
+          document.documentElement.dataset.theme = 'dark';
+          document.querySelector('meta[name="theme-color"]').content = '#1b201e';
+        }
+      } catch (e) {}
+    </script>
     <link rel="icon" href={url('favicon.svg')} type="image/svg+xml" />
     <link rel="apple-touch-icon" href={url('icon-192.png')} />
     <link rel="manifest" href={url('manifest.webmanifest')} />
@@ -53,13 +62,46 @@ const registerSw = import.meta.env.PROD;
         </nav>
       </div>
     </header>
+    <!-- Juste après l'en-tête : atteint tôt au clavier ; affiché fixe en bas d'écran. -->
+    <nav aria-label={isTrousse ? 'Retour' : 'Trousse de crise'}>
+      <CrisisButton back={isTrousse} />
+    </nav>
     <main id="contenu" class="wrap">
       <slot />
     </main>
     <footer class="site-footer wrap">
       <p>Un petit guide personnel. Prends ce qui t’aide, laisse le reste.</p>
+      <button type="button" class="theme-toggle" aria-pressed="false" data-theme-toggle hidden>
+        <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z" />
+        </svg>
+        <span>Mode nuit</span>
+      </button>
     </footer>
-    <CrisisButton back={isTrousse} />
+    <script is:inline>
+      // Interrupteur « Mode nuit » : choix mémorisé dans ce navigateur seulement.
+      (function () {
+        var btn = document.querySelector('[data-theme-toggle]');
+        var root = document.documentElement;
+        var meta = document.querySelector('meta[name="theme-color"]');
+        function apply(dark) {
+          if (dark) root.dataset.theme = 'dark';
+          else delete root.dataset.theme;
+          meta.content = dark ? '#1b201e' : '#fffaf2';
+          btn.setAttribute('aria-pressed', String(dark));
+        }
+        apply(root.dataset.theme === 'dark');
+        btn.hidden = false;
+        btn.addEventListener('click', function () {
+          var dark = root.dataset.theme !== 'dark';
+          apply(dark);
+          try {
+            if (dark) localStorage.setItem('vague-theme', 'dark');
+            else localStorage.removeItem('vague-theme');
+          } catch (e) {}
+        });
+      })();
+    </script>
     {
       registerSw && (
         <script is:inline define:vars={{ sw }}>
