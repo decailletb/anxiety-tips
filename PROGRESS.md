@@ -20,7 +20,7 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 
 ### Phase 1 — Recherche (`research/`, chercheurs en parallèle)
 - [~] R1 `ruminations.md`
-- [~] R2 `boule-au-ventre-et-sens-des-sensations.md` (inclut contraste nausées / boule au ventre)
+- [x] R2 `boule-au-ventre-et-sens-des-sensations.md` (inclut contraste nausées / boule au ventre)
 - [~] R3 `nourriture-et-poids.md` (qualitatif, grossesse)
 - [~] R4 `sommeil.md` (compatible grossesse)
 - [~] R5 `etre-seule.md`
