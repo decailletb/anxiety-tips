@@ -1,20 +1,20 @@
 ---
 title: "Quand être seule est difficile"
 order: 8
-summary: "Préparer des appuis et reprendre confiance, petit à petit, dans les moments seule."
+summary: "Seule, la boucle a plus de place : préparer des appuis et reprendre confiance, petit à petit."
 ---
 
 ## En bref
 
-Seule, ton attention n'a plus d'appui extérieur : pas de voix, pas de bruit, pas de tâche partagée. Les pensées prennent toute la place.
+Seule, ton attention n'a plus d'appui extérieur : pas de voix, pas de bruit, pas de tâche partagée. La boucle a plus de place pour tourner.
 
-Avoir du mal à être seule quand l'anxiété monte, ce n'est **pas un défaut**. C'est une réaction humaine. L'idée : préparer des appuis, puis reprendre confiance par petites étapes.
+Avoir plus de mal à être seule pendant une phase de rumination, ce n'est **pas un défaut**. C'est une réaction humaine. L'idée : préparer des appuis, puis reprendre confiance par petites étapes.
 
 ## Exercices
 
 ### Ta carte « moments seule »
 
-**Pourquoi ça t'aide :** en crise, choisir quoi faire est difficile. Une liste écrite un jour calme décide à ta place, et un temps vide devient un temps occupé.
+**Pourquoi ça t'aide :** quand ça tourne dans ta tête, choisir quoi faire est difficile. Une liste écrite un jour calme décide à ta place, et un temps vide devient un temps occupé.
 
 **Comment :**
 
@@ -22,7 +22,7 @@ Avoir du mal à être seule quand l'anxiété monte, ce n'est **pas un défaut**
 2. Fais deux colonnes : « chez moi » et « dehors ». Dans « dehors », note deux ou trois lieux refuges proches : café, bibliothèque, parc, marché.
 3. Ajoute une playlist « refuge » préparée à l'avance.
 4. Mets la carte où tu la vois : frigo, téléphone, porte-monnaie.
-5. Quand ça monte, fais la première ligne quelques minutes, sans te demander si « ça marche ».
+5. Quand tu remarques que ça tourne, fais la première ligne quelques minutes, sans te demander si « ça marche ».
 
 **Quand :** avant (préparer), pendant (utiliser), après (cocher ce qui a aidé).
 
@@ -32,8 +32,8 @@ Avoir du mal à être seule quand l'anxiété monte, ce n'est **pas un défaut**
 
 **Comment :**
 
-1. Un jour calme, convenez avec deux ou trois proches d'un signal simple : « Je suis dans un moment, tu peux m'envoyer un mot ? »
-2. Appel bref : parlez d'autre chose que de l'angoisse, d'un détail de la journée.
+1. Un jour calme, convenez avec deux ou trois proches d'un signal simple : « Je suis dans une phase, tu peux m'envoyer un mot ? »
+2. Appel bref : parlez d'autre chose que de tes soucis, d'un détail de la journée.
 3. Ou appel vidéo, téléphone posé : chacun fait sa tâche, presque sans parler.
 4. Personne de disponible ? Mets une voix calme et familière : émission, podcast, livre audio.
 5. Termine sur une petite action : « Maintenant, je vais marcher un peu. »
@@ -42,14 +42,14 @@ Avoir du mal à être seule quand l'anxiété monte, ce n'est **pas un défaut**
 
 ### Le rituel de départ et de retour
 
-**Pourquoi ça t'aide :** le moment où l'autre part est souvent celui où l'angoisse décolle. Un rituel toujours identique rend ce passage prévisible.
+**Pourquoi ça t'aide :** le moment où l'autre part est souvent celui où la boucle redémarre. Un rituel toujours identique rend ce passage prévisible.
 
 **Comment :**
 
 1. Au départ : un câlin, une phrase toujours la même, l'heure approximative du retour.
 2. Juste après la porte, lance tout de suite la première action prévue : musique, carte, sortie.
 3. Garde à portée un objet doux qui « porte » la présence de l'autre : pull, plaid léger, coussin.
-4. Au retour : un court moment ensemble, puis raconte **une chose qui a marché**, plutôt que le détail de l'angoisse.
+4. Au retour : un court moment ensemble, puis raconte **une chose qui a marché**, plutôt que le détail de tes pensées.
 
 **Quand :** avant (départ), pendant, après (retour).
 
@@ -59,13 +59,13 @@ Avoir du mal à être seule quand l'anxiété monte, ce n'est **pas un défaut**
 
 **Comment :**
 
-1. Un jour où l'anxiété est basse, choisis un moment seule court et réaliste.
+1. Un jour plus tranquille, choisis un moment seule court et réaliste.
 2. Prévois ce que tu feras pendant, et quand ça se termine.
 3. Pendant, laisse l'inconfort être là sans appeler tout de suite. Utilise ta carte.
 4. Après, note la réussite, même partielle, et ce qui a aidé.
 5. Allonge un peu le moment seulement quand l'étape d'avant est devenue facile.
 
-**Quand :** avant, les jours calmes. En pleine crise forte, pas d'exercice : utilise la présence à distance ou la [trousse](../../trousse/).
+**Quand :** avant, les jours calmes. Pendant une phase où ça tourne beaucoup, pas besoin d'exercice : utilise la présence à distance ou la [trousse](../../trousse/).
 
 > **Pour la personne qui t'accompagne**
 >
@@ -82,7 +82,7 @@ Avoir du mal à être seule quand l'anxiété monte, ce n'est **pas un défaut**
 
 ## À retenir
 
-- Avoir du mal à être seule en phase anxieuse, c'est humain, pas un défaut.
+- Seule, la boucle a plus de place. Avoir du mal à l'être pendant une phase, c'est humain.
 - Prépare tes appuis quand ça va : carte, lieux refuges, présence à distance.
 - Un rituel simple rend les départs plus doux.
 - Reprends confiance par petits moments seule choisis, les jours calmes.

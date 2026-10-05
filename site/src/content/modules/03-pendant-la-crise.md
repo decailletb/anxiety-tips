@@ -1,86 +1,88 @@
 ---
-title: "Pendant la crise"
+title: "Vivre pendant une phase"
 order: 3
-summary: "Quatre outils simples pour le moment où ça monte : nommer et souffler doux, revenir aux sens, occuper ton corps, demander une présence."
+summary: "Ne pas attendre d'aller mieux pour vivre : garder tes activités, ranger les soucis à leur rendez-vous, lâcher la vérification, rester en lien."
 ---
 
 ## En bref
 
-Quand la vague est là, pas besoin de comprendre. Tu fais une petite chose, puis la suivante. Ces outils passent par le corps et les sens, des portes qui restent ouvertes même quand la logique est fermée.
+Une phase de rumination peut durer. Tu n'as pas besoin d'aller mieux pour continuer à vivre.
 
-Choisis-en un seul. S'il n'aide pas, passe au suivant.
+L'idée : garder ta journée telle qu'elle est, donner aux soucis un moment à eux, et ne pas nourrir la boucle. Avec de la douceur pour toi.
+
+Choisis un exercice. Garde ce qui t'aide.
 
 ## Exercices
 
-### Nommer et souffler doux
+### Garder tes activités, sans attendre d'aller mieux
 
-**Pourquoi ça t'aide :** nommer ce qui arrive calme un peu l'alarme. Une expiration plus longue que l'inspiration aide ensuite le corps à ralentir, sans effort de réflexion.
-
-**Comment :**
-
-1. Dis-toi : « C'est l'anxiété. Elle redescend. »
-2. Inspire doucement par le nez, sans forcer.
-3. Souffle lentement, un peu plus longtemps que l'inspiration.
-4. Enchaîne sans pause : ne bloque jamais ton souffle.
-5. Si la tête tourne, respire normalement.
-6. Continue quelques respirations, puis reviens à ce que tu faisais.
-
-**Quand :** pendant, dès que ça monte.
-
-### Revenir aux sens
-
-**Pourquoi ça t'aide :** les sens n'existent qu'au présent, là où la peur et les « et si… » n'habitent pas. Décrire ce qui t'entoure occupe l'attention sans rien demander à la logique.
+**Pourquoi ça t'aide :** quand tu annules ou mets ta vie en pause, la rumination prend toute la place. Faire ce qui était prévu, même sans envie, donne à ton esprit autre chose à tenir. L'envie revient souvent après, pas avant.
 
 **Comment :**
 
-1. Nomme cinq choses que tu vois, une par une.
-2. Puis quatre choses que tu peux toucher : le tissu, la table, tes pieds au sol.
-3. Puis trois sons, même lointains.
-4. Si c'est trop long, arrête-toi après les choses que tu vois. C'est déjà bien.
+1. Regarde ce qui était prévu aujourd'hui : travail, repas, une sortie, un appel.
+2. Garde-le, même si tu n'as pas la tête à ça.
+3. Si c'est trop, fais-en une version plus petite plutôt que d'annuler.
+4. Pendant l'activité, si l'esprit repart, ramène-le à ce que tu fais.
+5. Le soir, note une chose que tu as faite malgré la phase.
 
-**Quand :** pendant.
+**Quand :** pendant, chaque jour de la phase.
 
-### Occuper tes mains, ou faire quelques pas
+### Un rendez-vous soucis chaque jour
 
-**Pourquoi ça t'aide :** rester immobile à écouter ce qui se passe en toi amplifie la vague. Faire quelque chose avec ton corps tourne l'attention vers l'extérieur, sans avoir à raisonner.
-
-**Comment :**
-
-1. Lève-toi et relâche les épaules.
-2. Fais quelques pas tranquilles, dans l'appartement ou dehors, à un rythme où tu peux encore parler.
-3. Ou prends une tâche simple pour les mains : plier du linge, ranger un tiroir, dessiner.
-4. Décris dans ta tête ce que font tes pieds ou tes mains.
-5. Si l'esprit repart, reviens aux gestes, sans te juger.
-
-**Quand :** pendant. Bois un peu, évite d'avoir trop chaud, arrête-toi si tu ne te sens pas bien.
-
-### Écrire à quelqu'un, puis la prochaine petite chose
-
-**Pourquoi ça t'aide :** une présence apaise, même à distance et même sans parler de l'angoisse. Et une seule petite action te ramène au concret, là où il y a toujours un pas possible.
+**Pourquoi ça t'aide :** une pensée inquiète semble urgente. Lui dire « Pas maintenant. À mon rendez-vous. » la déplace sans la combattre. Souvent, à l'heure du rendez-vous, elle compte déjà moins.
 
 **Comment :**
 
-1. Écris à un proche : « Tu peux m'appeler ? » ou « Je suis dans un moment, tu peux m'envoyer un mot ? »
-2. Si vous parlez, parle d'autre chose : un détail de ta journée, de la sienne.
-3. Pendant que tu attends la réponse, choisis la prochaine petite chose : un verre d'eau, ouvrir une fenêtre, t'asseoir ailleurs.
-4. Fais-la. Une seule.
-5. Puis la suivante, si besoin.
+1. Choisis un moment fixe chaque jour, court, pas juste avant de dormir.
+2. Dans la journée, quand un souci arrive, note-le en quelques mots dans un carnet ou ton téléphone.
+3. Ferme le carnet. Reviens à ce que tu faisais.
+4. Au rendez-vous, relis la liste. Pour chaque souci : y a-t-il une petite action possible ? Si oui, note-la. Sinon, laisse-le.
+5. Quand le temps est fini, tu fermes. Ce qui reste attendra demain.
 
-**Quand :** pendant. Un jour calme, prépare tes contacts sur la page [trousse](../../trousse/).
+**Quand :** pendant la phase, tous les jours. Tu peux aussi le garder en dehors des phases.
+
+### Lâcher la réassurance et la vérification
+
+**Pourquoi ça t'aide :** chercher à être rassurée, relire, vérifier sur internet, demander encore : ça soulage un instant, puis le doute revient plus fort. Moins tu nourris la boucle, plus elle se desserre.
+
+**Comment :**
+
+1. Repère ton geste à toi : chercher en ligne, demander à un proche, refaire le point dans ta tête.
+2. Quand l'envie arrive, dis-toi : « C'est la rumination qui demande. »
+3. Retarde le geste un peu. Fais autre chose entre-temps.
+4. Si tu le fais quand même, ce n'est pas grave. Essaie juste d'en faire un peu moins la prochaine fois.
+5. Avec tes proches, si tu veux, convenez qu'ils te répondent avec douceur : « On en parle à ton rendez-vous soucis ? »
+
+**Quand :** pendant. Un jour calme, repère tes gestes de vérification les plus fréquents.
+
+### Une activité qui absorbe, un contact par jour
+
+**Pourquoi ça t'aide :** une activité qui demande un peu d'attention laisse moins de place à la boucle. Et un lien avec quelqu'un, même bref, rend la phase moins lourde à porter seule. La douceur envers toi évite d'ajouter un reproche à l'anxiété.
+
+**Comment :**
+
+1. Choisis une activité qui occupe les mains et la tête : cuisiner, jardiner, un puzzle, ranger, dessiner, marcher tranquillement dehors.
+2. Fais-la sans viser un résultat. Juste pour être dedans.
+3. Chaque jour, prends un contact : un message, un appel, un café. Pas besoin de parler de l'anxiété.
+4. Quand tu te reproches d'être « encore là-dedans », parle-toi comme à une amie : « C'est une phase. Elle passera. »
+5. Le soir, une petite chose agréable pour toi, même modeste.
+
+**Quand :** pendant, au fil de la journée.
 
 ## À retenir
 
-- Pas besoin de comprendre : une petite chose, puis la suivante.
-- Souffle doux, expiration longue, jamais de pause. Si la tête tourne, respire normalement.
-- Les sens, les mains et les pas ramènent au présent.
-- Demander une présence, c'est un outil. Si rien n'apaise depuis longtemps : [quand demander de l'aide](../../aide/).
+- Tu n'as pas besoin d'aller mieux pour vivre ta journée.
+- Les soucis ont leur rendez-vous. En dehors, tu notes et tu fermes le carnet.
+- Se rassurer et vérifier, c'est nourrir la boucle. Un peu moins à chaque fois.
+- Une activité qui absorbe, un contact par jour, de la douceur pour toi.
+- Ta [trousse](../../trousse/) résume tout ça en sept lignes.
 
 ## Sources
 
-- [NHS – Breathing exercises for stress](https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/) (EN)
-- [Cleveland Clinic – 5-4-3-2-1 grounding technique](https://health.clevelandclinic.org/54321-grounding-technique) (EN)
-- [Commission de la santé mentale du Canada – Astuces pratiques pour réduire l'anxiété](https://commissionsantementale.ca/resource/astuces-pratiques-pour-reduire-lanxiete/) (FR)
+- [NHS Every Mind Matters – Tackling your worries](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/tackling-your-worries/) (EN)
+- [Oxford Health NHS – Worry time](https://www.oxfordhealth.nhs.uk/camhs/self-care/sleep/anxiety-worry/worry-time/) (EN)
+- [OCD Action – Reassurance](https://ocdaction.org.uk/resources/reassurance/) (EN)
+- [Harvard Health – Break the cycle](https://www.health.harvard.edu/mind-and-mood/break-the-cycle) (EN)
 - [Anna Freud Centre – Distraction techniques](https://www.annafreud.org/resources/children-and-young-peoples-wellbeing/self-care/distraction-techniques/) (EN)
-- [NHS – Exercise in pregnancy](https://www.nhs.uk/pregnancy/keeping-well/exercise/) (EN)
-- [APS Observer – I need to hold your hand (Coan)](https://www.psychologicalscience.org/observer/i-need-to-hold-your-hand-the-social-regulation-of-emotion) (EN)
-- [Watkins & Moberly 2009 – Concreteness training](https://pmc.ncbi.nlm.nih.gov/articles/PMC2807031) (EN)
+- [PositivePsychology.com – Self-compassion exercises](https://positivepsychology.com/self-compassion-exercises-worksheets/) (EN)

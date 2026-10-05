@@ -66,10 +66,18 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [x] F6 Vérification du site publié (noindex sur chaque page)
 - [ ] F7 Rapport final
 
+### Phase 6 — Recadrage demandé par l'utilisateur
+- [x] C1 Règles + brief `research/cadrage-v2.md` (anxiété non liée à la grossesse ; crise = mode rumination en continuant à fonctionner)
+- [x] C2 Réécriture guide + modules + trousse + aide (branche `docs/rumination-reframe`)
+- [x] C3 Relecture du recadrage
+- [~] C4 Thème clair « jour » par défaut, mode nuit optionnel (branche `fix/mobile-a11y-polish`)
+
 ## Décisions
 
 | Date | Décision | Raison |
 |---|---|---|
+| 2026-10-05 | Recadrage : grossesse = filtre de sécurité seulement ; crise = mode rumination, pas d'urgence ; Periparto et Bardacke retirés ; nouvelle trousse orientée « décrocher » | Retour de l'utilisateur |
+| 2026-10-05 | Thème clair « jour » par défaut, sombre en option manuelle | Retour de l'utilisateur |
 | 2026-10-05 | Attribution désactivée via `attribution` (commit/pr vides, sessionUrl false) + `includeCoAuthoredBy: false` | Forme compatible avec la version installée (doc settings-reference) |
 | 2026-10-05 | Hook `.githooks/commit-msg` (format Angular + mots interdits), activé par `core.hooksPath` | Garde-fou local en plus de la config |
 | 2026-10-05 | Techno pressentie : Astro statique (détail dans `docs/decisions.md`, tâche S1) | Markdown simple, zéro JS par défaut, déploiement Pages officiel |

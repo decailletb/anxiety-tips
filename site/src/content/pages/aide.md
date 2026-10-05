@@ -4,32 +4,24 @@ title: Quand demander de l'aide
 
 Parfois, les outils ne suffisent pas. C'est normal. Demander de l'aide n'est pas un échec : c'est un outil de plus. Et un proche peut toujours appeler pour toi.
 
-## Parler à quelqu'un, maintenant
+## Parler à quelqu'un
 
 - **[143 – La Main Tendue](tel:143)** : à n'importe quelle heure, jour et nuit. Gratuit, anonyme. Pas besoin que ce soit « grave ».
 - Tu préfères écrire ? [Le chat de La Main Tendue sur 143.ch](https://www.143.ch/fr).
 
-## Ton corps ou ta grossesse
+## Si c'est trop lourd
 
-- **Une inquiétude pour ton corps ou ta grossesse** : saignements, douleur dans le bas du ventre, fièvre, sensation inhabituelle qui t'inquiète. Appelle **la maternité où tu es suivie**, jour et nuit, ou **ta sage-femme**. Le numéro est sur tes documents de grossesse. Même pour être rassurée, c'est leur rôle.
-- **Tu n'arrives plus à garder ni aliments ni liquides depuis environ une journée**, ou tu te sens très faible en te levant. Appelle **la maternité où tu es suivie** ou **ta sage-femme**, sans attendre.
+- **Des idées noires, ou l'impression de ne plus tenir** : le [143](tel:143), jour et nuit. Ou les **urgences psychiatriques de ton canton** ([liste sur santepsy.ch](https://santepsy.ch/urgences/)).
+- **Un danger pour ta vie** : le **[144](tel:144)**, partout en Suisse, jour et nuit.
 
-## Un souci de santé qui ne peut pas attendre
+## Ta santé
 
-D'abord ton médecin habituel. S'il est injoignable, la **centrale des médecins de garde de ton canton** ([liste par canton](https://www.planetesante.ch/Liens-utiles/Centrales-et-medecins-de-garde)).
-
-## Si tu ne peux plus tenir
-
-- **Des idées noires, ou l'impression que tu ne peux plus tenir** : le [143](tel:143), jour et nuit. Ou les **urgences psychiatriques de ton canton** ([liste sur santepsy.ch](https://santepsy.ch/urgences/)).
-- **Un danger pour ta vie ou ta santé, ou l'idée de passer à l'acte** : le **[144](tel:144)**, partout en Suisse, jour et nuit.
-- Dans le doute, appelle : la personne au bout du fil t'aide à évaluer.
-
-## Pour en parler, en journée
-
-**[Periparto Suisse](https://periparto.ch/fr)** : des personnes qui connaissent bien l'anxiété pendant la grossesse. Conseil gratuit et confidentiel, certains jours de la semaine. Ce n'est pas une ligne de crise.
+- **Un souci de santé qui ne peut pas attendre** : d'abord ton médecin habituel. S'il est injoignable, la **centrale des médecins de garde de ton canton** ([liste par canton](https://www.planetesante.ch/Liens-utiles/Centrales-et-medecins-de-garde)).
+- **Ton corps ou ton appétit t'inquiètent** : ta sage-femme.
+- **Si tu n'arrives plus à manger ni boire depuis environ une journée** : ta sage-femme ou ton médecin.
 
 ---
 
 Numéros vérifiés le 5 octobre 2026. Ils peuvent changer : revérifie-les de temps en temps, un jour calme.
 
-**Sources :** [143.ch – La Main Tendue](https://www.143.ch/fr) · [santepsy.ch – Urgences](https://santepsy.ch/urgences/) · [Planète Santé – Centrales et médecins de garde](https://www.planetesante.ch/Liens-utiles/Centrales-et-medecins-de-garde) · [Periparto Suisse](https://periparto.ch/fr) · [NHS – Severe vomiting in pregnancy](https://www.nhs.uk/pregnancy/related-conditions/complications/severe-vomiting/)
+**Sources :** [143.ch – La Main Tendue](https://www.143.ch/fr) · [santepsy.ch – Urgences](https://santepsy.ch/urgences/) · [Planète Santé – Centrales et médecins de garde](https://www.planetesante.ch/Liens-utiles/Centrales-et-medecins-de-garde)
