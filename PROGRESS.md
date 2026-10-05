@@ -2,7 +2,7 @@
 
 ## Statut global
 
-- Phase en cours : **1 — recherche** + **3 — squelette site** (≈ 8 %)
+- Phase en cours : **1 (fin) + 2 — guide** + **3 — squelette site** (≈ 20 %)
 - Branche active : `main` (lots sur branches dédiées)
 - Site cible : https://decailletb.github.io/anxiety-tips/
 
@@ -29,10 +29,10 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [ ] R8 Contrôle croisé grossesse sur toutes les fiches + vérifier liens non ouverts (R2 : PDF Russ Harris, Shortform, Lieberman 2007)
 
 ### Phase 2 — Livrable 1 (`docs/guide-direct.md`)
-- [ ] G1 Plan + trousse de crise + section aide
-- [ ] G2 Sections ruminations, boule au ventre, contraste nausées
-- [ ] G3 Sections nourriture/poids, sommeil, être seule
-- [ ] G4 Signaux précoces + journal + livres
+- [~] G1 Plan + trousse de crise + section aide
+- [~] G2 Sections ruminations, boule au ventre, contraste nausées
+- [~] G3 Sections nourriture/poids, sommeil, être seule
+- [~] G4 Signaux précoces + journal + livres
 - [ ] G5 Relecture (relecteur) + corrections
 
 ### Phase 3 — Squelette du site (parallèle à phase 2)
@@ -81,6 +81,6 @@ Aucun.
 
 ## Reprise
 
-- Prochaine action : lancer R1–R7 (chercheurs, branche `docs/research`) et S1–S2 (dev-site, branche `feat/site-skeleton`) en parallèle.
+- Prochaine action : guide en rédaction (branche `docs/guide-direct`, fichier `docs/guide-direct.md`) ; R7 (ressources suisses, livres) et S1–S4 (site, branche `feat/site-skeleton`) en cours. Si R7 absente : relancer chercheur R7.
 - Fichiers : `PROGRESS.md`, `research/*`.
-- Branche active : `docs/research` (recherche) ; `feat/site-skeleton` (site, worktree). Si une fiche research/ manque ou est incomplète, relancer le chercheur correspondant.
+- Branche active : `docs/guide-direct`.
