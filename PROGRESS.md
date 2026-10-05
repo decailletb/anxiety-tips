@@ -2,7 +2,7 @@
 
 ## Statut global
 
-- Phase en cours : **1 (fin) + 2 — guide** + **3 — squelette site** (≈ 20 %)
+- Phase en cours : **4 — modules** + S5/S6 (≈ 55 %)
 - Branche active : `main` (lots sur branches dédiées)
 - Site cible : https://decailletb.github.io/anxiety-tips/
 
@@ -44,17 +44,17 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [~] S6 Journal des signaux (localStorage) + version imprimable
 
 ### Phase 4 — Modules (rédacteurs en parallèle + relecture)
-- [ ] M1 Comprendre tes crises
-- [ ] M2 Repérer les signaux précoces
-- [ ] M3 Pendant la crise
-- [ ] M4 Les ruminations
-- [ ] M5 La boule au ventre
-- [ ] M6 Le sommeil
-- [ ] M7 La nourriture, avec douceur
-- [ ] M8 Quand être seule est difficile
-- [ ] M9 Ta trousse de crise
-- [ ] M10 Lectures recommandées
-- [ ] M11 Quand demander de l'aide
+- [~] M1 Comprendre tes crises
+- [~] M2 Repérer les signaux précoces
+- [~] M3 Pendant la crise
+- [~] M4 Les ruminations
+- [~] M5 La boule au ventre
+- [~] M6 Le sommeil
+- [~] M7 La nourriture, avec douceur
+- [~] M8 Quand être seule est difficile
+- [~] M9 Ta trousse de crise
+- [~] M10 Lectures recommandées
+- [~] M11 Quand demander de l'aide
 - [ ] M12 Relecture de tous les modules
 
 ### Phase 5 — Finitions
@@ -83,6 +83,6 @@ Aucun.
 
 ## Reprise
 
-- Prochaine action : guide en rédaction (branche `docs/guide-direct`, fichier `docs/guide-direct.md`) ; R7 (ressources suisses, livres) et S1–S4 (site, branche `feat/site-skeleton`) en cours. Si R7 absente : relancer chercheur R7.
+- Prochaine action : modules en rédaction (branche `docs/site-modules`, fichiers `site/src/content/modules/*.md`, `site/src/content/pages/{trousse,aide}.md`) ; S5/S6 sur `feat/offline-and-journal` (worktree). Puis M12 relecture.
 - Fichiers : `PROGRESS.md`, `research/*`.
-- Branche active : `docs/guide-direct`.
+- Branche active : `docs/site-modules`.
