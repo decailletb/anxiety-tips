@@ -1,6 +1,6 @@
 # Règles permanentes du projet
 
-Projet : guide Markdown (`docs/guide-direct.md`) + petit site « formation » personnel (GitHub Pages, non indexé) pour aider **une personne** à mieux **traverser** ses crises d'anxiété (ruminations, boule au ventre, sommeil, nourriture, difficulté à rester seule). La personne est **enceinte**. Pays : **Suisse**. Langue du contenu : **français**, tutoiement.
+Projet : guide Markdown (`docs/guide-direct.md`) + petit site « formation » personnel (GitHub Pages, non indexé) pour aider **une personne** à mieux **traverser** ses crises d'anxiété (ruminations, boule au ventre, sommeil, nourriture, difficulté à rester seule). La personne est enceinte, mais son anxiété **n'a rien à voir avec la grossesse** (elle existait avant) : la grossesse n'est qu'un filtre de sécurité sur les techniques, jamais un thème. Pays : **Suisse**. Langue du contenu : **français**, tutoiement.
 
 Ce fichier suffit à un agent neuf pour reprendre le travail. Lire ensuite `PROGRESS.md`.
 
@@ -33,14 +33,16 @@ Ce fichier suffit à un agent neuf pour reprendre le travail. Lire ensuite `PROG
 1. **Ni psychothérapie ni médication** proposées (déjà essayées, hors sujet).
 2. **Pas de cours théorique.** Techniques actives, concrètes, utilisables **pendant** la crise quand la logique ne marche plus. Pour chaque outil : **pourquoi** (adapté à ce profil), **comment** (étapes courtes), **quand** (avant / pendant / après).
 3. **Nourriture et poids** : qualitatif et bienveillant uniquement. **Aucun** chiffre, calorie, pesée, plan alimentaire, règle de quantité.
-4. **Grossesse** : tout doit être compatible. Exclure ou signaler : respiration avec rétention prolongée, hyperventilation, froid/chaleur intenses (eau glacée, sauna, bain très chaud), efforts intenses, compléments, plantes, tisanes « calmantes », huiles essentielles. Pour corps / appétit / poids pendant la grossesse : renvoyer à la **sage-femme ou au/à la gynécologue** (suivi de grossesse, pas de la thérapie).
+4. **Grossesse = filtre de sécurité silencieux, pas un thème.** Ne pas présenter l'anxiété comme liée à la grossesse ; pas de liste de symptômes de grossesse, pas de ressources périnatales, pas de livre sur la naissance ; mentionner la grossesse le moins possible (une ligne quand c'est utile). Tout doit être compatible. Exclure ou signaler : respiration avec rétention prolongée, hyperventilation, froid/chaleur intenses (eau glacée, sauna, bain très chaud), efforts intenses, compléments, plantes, tisanes « calmantes », huiles essentielles. Pour corps / appétit / poids : renvoyer en une ligne à la **sage-femme ou au/à la gynécologue** (suivi de grossesse, pas de la thérapie).
 5. **Filet de sécurité** : une seule section courte et calme « Quand demander de l'aide rapidement », numéros suisses **vérifiés en ligne** (voir `research/ressources-suisse.md`).
 6. **Droit d'auteur** : paraphrase uniquement, aucune reproduction de passage protégé, sources (liens) en fin de module.
 7. **Vie privée (repo PUBLIC)** : aucun prénom, aucune donnée identifiante, aucun détail médical personnel. On s'adresse à « toi » sans raconter d'histoire personnelle. Ne jamais copier le brief initial dans le repo.
 
 Ton : tutoiement, chaleureux, direct, rassurant, **jamais alarmant**. Phrases courtes. Langage du quotidien.
 
-Profil à garder en tête (formulé sans détail identifiant) : anxiété par phases avec ruminations ; fonctionnement déjà compris rationnellement, mais en crise « la logique ne marche plus » ; boule au ventre ; difficulté à être seule ; tension autour du sommeil et de la nourriture (peur de ne pas manger sans faim, peur de perdre du poids) ; pas d'anxiété sociale ni de crise de panique ; déclencheur de début de crise inconnu. Piste clé : une sensation digestive inquiète beaucoup alors que des nausées de grossesse n'ont pas inquiété → travailler le **sens attribué** à la sensation (connue/expliquée vs inconnue, attendue vs menaçante, contrôle), étiquetage, « je connais cette sensation ».
+**Ce qu'est une « crise » ici (essentiel)** : pas un état aigu ni une incapacité. C'est un **mode** dans lequel elle se retrouve **bloquée à ruminer**, pendant une phase, **tout en continuant à fonctionner** (travail, quotidien). Les outils visent donc à **décrocher de la boucle** au fil de la journée et à continuer de vivre pendant la phase, pas à gérer une urgence. Ton calme et quotidien, pas de vocabulaire d'urgence (« si la tête tourne », « en pleine crise tu ne peux plus rien faire »…).
+
+Profil à garder en tête (formulé sans détail identifiant) : anxiété ancienne, par phases, centrée sur les ruminations ; fonctionnement déjà compris rationnellement, mais en crise « la logique ne marche plus » ; boule au ventre ; difficulté à être seule ; tension autour du sommeil et de la nourriture (peur de ne pas manger sans faim, peur de perdre du poids) ; pas d'anxiété sociale ni de crise de panique ; déclencheur de début de crise inconnu. Piste clé (un exemple, pas le cœur du sujet) : une sensation digestive inquiète beaucoup alors que des nausées de grossesse n'ont pas inquiété → travailler le **sens attribué** à la sensation (connue/expliquée vs inconnue, attendue vs menaçante, contrôle), étiquetage, « je connais cette sensation ».
 
 ## 5. Structure du repo
 
