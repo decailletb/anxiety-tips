@@ -47,8 +47,8 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [~] M1 Comprendre tes crises
 - [x] M2 Repérer les signaux précoces
 - [~] M3 Pendant la crise
-- [~] M4 Les ruminations
-- [~] M5 La boule au ventre
+- [x] M4 Les ruminations
+- [x] M5 La boule au ventre
 - [x] M6 Le sommeil
 - [x] M7 La nourriture, avec douceur
 - [x] M8 Quand être seule est difficile
