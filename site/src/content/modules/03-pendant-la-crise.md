@@ -1,7 +1,7 @@
 ---
 title: "Vivre pendant une phase"
 order: 3
-summary: "Pendant une phase de rumination, on n'attend pas d'aller mieux pour vivre : on garde ses activités, on range les soucis à une heure fixe, on lâche la vérification et on reste en lien."
+summary: "Ne pas attendre d'aller mieux pour vivre : garder tes activités, ranger les soucis à leur rendez-vous, lâcher la vérification, rester en lien."
 ---
 
 ## En bref
@@ -30,7 +30,7 @@ Choisis un exercice. Garde ce qui t'aide.
 
 ### Un rendez-vous soucis chaque jour
 
-**Pourquoi ça t'aide :** une pensée inquiète semble urgente. Lui dire « pas maintenant, à 18 h » la déplace sans la combattre. Souvent, à l'heure du rendez-vous, elle compte déjà moins.
+**Pourquoi ça t'aide :** une pensée inquiète semble urgente. Lui dire « Pas maintenant. À mon rendez-vous. » la déplace sans la combattre. Souvent, à l'heure du rendez-vous, elle compte déjà moins.
 
 **Comment :**
 

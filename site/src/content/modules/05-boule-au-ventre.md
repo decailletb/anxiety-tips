@@ -8,7 +8,7 @@ summary: "Une sensation réelle, souvent liée à la boucle : ce qui compte, c'e
 
 La boule au ventre accompagne souvent le [mode rumination](../04-ruminations/). Les pensées tournent en boucle, le ventre se serre.
 
-La sensation est réelle. Mais elle n'est pas un danger. C'est ton alarme qui met la digestion en pause.
+La sensation est réelle. Mais elle n'est pas un danger. C'est de la tension : quand tu rumines, le corps se tend et la digestion ralentit.
 
 Tu sais déjà vivre une sensation digestive sans t'inquiéter, comme des nausées. Ce qui change, ce n'est pas la sensation. C'est **ce que tu lui fais dire**.
 
@@ -33,10 +33,10 @@ Si une douleur est différente ou inhabituelle, demande à ta sage-femme.
 **Comment :**
 
 1. Un jour calme, prends une carte ou une note sur ton téléphone.
-2. Son nom : « Ma boule d'alarme ».
-3. D'où elle vient : « Mon alarme met la digestion en pause. »
+2. Son nom : « Ma boule de tension ».
+3. D'où elle vient : « Quand je rumine, mon corps se tend et la digestion ralentit. »
 4. Ce qu'elle n'est pas : « Un danger. »
-5. Comment elle finit : « Elle monte, elle plafonne, elle redescend. Je l'ai déjà vue partir. »
+5. Comment elle finit : « Elle va et vient. Je l'ai déjà vue partir. »
 6. Ce qui l'aide : « Main sur le ventre, souffle doux, quelques pas. »
 
 **Quand :** avant (tu la prépares), pendant (tu la relis), après (tu ajoutes ce qui a aidé). C'est une carte fixe, pas un carnet de symptômes.
@@ -48,7 +48,7 @@ Si une douleur est différente ou inhabituelle, demande à ta sage-femme.
 **Comment :**
 
 1. Remarque : « Tiens, la boule. »
-2. Dis-toi : « Je connais cette sensation. C'est mon alarme, pas un danger. »
+2. Dis-toi : « Je connais cette sensation. C'est de la tension, pas un danger. »
 3. Décris-la comme une curieuse : où elle est, sa taille (une noix, un poing), ses bords.
 4. Termine par : « D'accord. Je te laisse là. »
 5. Continue ce que tu faisais, même plus lentement.
@@ -72,9 +72,9 @@ Si une douleur est différente ou inhabituelle, demande à ta sage-femme.
 
 Tu aimes la chaleur ? Une bouillotte **tiède** dans sa housse, par-dessus un vêtement, dans le bas du dos.
 
-### Surfer la vague
+### Laisser passer la vague
 
-**Pourquoi ça t'aide :** combattre ou vérifier la sensation entretient l'alarme. La laisser monter et redescendre lui donne une fin. Et tu le constates par toi-même.
+**Pourquoi ça t'aide :** combattre ou vérifier la sensation l'entretient. La laisser monter et redescendre lui donne une fin. Et tu le constates par toi-même.
 
 **Comment :**
 
@@ -82,7 +82,7 @@ Tu aimes la chaleur ? Une bouillotte **tiède** dans sa housse, par-dessus un v�
 2. Respire doucement et regarde-la monter, sans rien faire contre.
 3. Au plus haut : « C'est le sommet. Après, ça descend. »
 4. Observe la descente, même lente.
-5. À la fin : « Je l'ai surfée. »
+5. À la fin : « Elle est passée. »
 
 **Quand :** pendant. Après, tu peux noter ce qui a aidé sur ta carte.
 

@@ -14,15 +14,15 @@ Ici, pas de règles, pas de comptes. Juste des façons plus douces de traverser 
 
 ## Exercices
 
-### « C'est le mode qui met la faim en pause »
+### « L'anxiété met la faim en pause »
 
 **Pourquoi ça t'aide :** c'est la même piste que pour la [boule au ventre](../05-boule-au-ventre/). Une faim qui s'éteint devient une sensation **connue et expliquée**, plus une menace.
 
 **Comment :**
 
 1. Remarque : « Je n'ai pas faim, et ça m'inquiète. »
-2. Dis-toi : « Je connais cette sensation. C'est le mode rumination qui coupe la faim. »
-3. Ajoute : « C'est attendu. Ça revient quand ça se calme. »
+2. Dis-toi : « Je connais cette sensation. L'anxiété met la faim en pause. »
+3. Ajoute : « C'est temporaire. Ça revient quand ça se calme. »
 4. Fais une petite chose simple : une gorgée de ta boisson habituelle, une activité calme.
 
 **Quand :** pendant une phase, au moment où la pensée arrive. Prépare la phrase avant, sur ton téléphone ou un papier.
@@ -35,7 +35,7 @@ Ici, pas de règles, pas de comptes. Juste des façons plus douces de traverser 
 
 1. Remarque : « Je suis en mode rumination, sur la nourriture. »
 2. Dis-toi : « J'ai la pensée que je vais perdre du poids. » (module [Les ruminations](../04-ruminations/))
-3. Si elle revient, note-la pour ton rendez-vous des soucis, puis ferme le carnet.
+3. Si elle revient, note-la pour ton rendez-vous soucis, puis ferme le carnet.
 4. Reviens à ce que font tes mains.
 
 **Quand :** pendant, chaque fois que la pensée revient.
@@ -86,10 +86,10 @@ Le suivi du poids, c'est le rôle de ta sage-femme.
 ## À retenir
 
 - La nourriture et le poids sont des thèmes où la boucle aime se fixer.
-- Une faim qui s'éteint pendant une phase, c'est attendu, et passager.
+- Une faim qui s'éteint pendant une phase, c'est l'anxiété qui la met en pause : c'est temporaire.
 - Pas besoin de répondre à la pensée : « J'ai la pensée que… », puis tes mains.
 - Tu proposes, tu n'obliges pas. Assez bien suffit.
-- Si tu n'arrives plus du tout à garder ce que tu manges ou bois, regarde la page [Quand demander de l'aide](../../aide/).
+- Si tu n'arrives plus à manger ni boire, regarde la page [Quand demander de l'aide](../../aide/).
 
 ## Sources
 

@@ -32,7 +32,7 @@ Avoir plus de mal à être seule pendant une phase de rumination, ce n'est **pas
 
 **Comment :**
 
-1. Un jour calme, convenez avec deux ou trois proches d'un signal simple : « Je suis dans un moment, tu peux m'envoyer un mot ? »
+1. Un jour calme, convenez avec deux ou trois proches d'un signal simple : « Je suis dans une phase, tu peux m'envoyer un mot ? »
 2. Appel bref : parlez d'autre chose que de tes soucis, d'un détail de la journée.
 3. Ou appel vidéo, téléphone posé : chacun fait sa tâche, presque sans parler.
 4. Personne de disponible ? Mets une voix calme et familière : émission, podcast, livre audio.

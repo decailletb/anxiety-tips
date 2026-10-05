@@ -75,7 +75,7 @@ On ne se surveille pas toute la journée. On observe **un court moment, toujours
 3. « Dès que je les remarque, je… » : deux ou trois actions simples. Par exemple :
    - me dire « Je suis en mode rumination » ;
    - garder ma routine et mes activités, sans attendre d'aller mieux ;
-   - fixer mon [rendez-vous des soucis](../04-ruminations/) du jour ;
+   - fixer mon [rendez-vous soucis](../04-ruminations/) du jour ;
    - prévoir du contact avec quelqu'un ;
    - sortir marcher un peu.
 4. « Si la boucle tourne plus fort » : ma [trousse](../../trousse/).

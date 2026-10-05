@@ -22,7 +22,7 @@ Les phases passent. Tu peux les traverser en continuant ta vie.
 
 **Comment :**
 
-1. Remarque les signes : la même question qui revient, aucune décision au bout, la boule au ventre qui monte.
+1. Remarque les signes : la même question qui revient, aucune décision au bout, la boule au ventre qui revient.
 2. Dis-toi : « Je suis en mode rumination. »
 3. Pose-toi une seule question : « J'avance, ou je tourne en rond ? »
 4. Si tu tournes en rond, ne cherche pas la réponse. Reviens à ce que font tes mains.

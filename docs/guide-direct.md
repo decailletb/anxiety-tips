@@ -86,7 +86,7 @@ L'idée est l'inverse : garder ta vie en route, et laisser la phase passer en ar
 1. Prévois un contact par jour : un appel, un café, un message, une marche avec quelqu'un.
 2. Parle d'autre chose que de tes soucis, au moins une partie du temps.
 3. Tu peux dire simplement : « Je suis dans une phase, j'ai envie de compagnie. » Pas besoin de tout expliquer.
-4. Si être seule est difficile en ce moment, voir [Quand être seule est difficile](#quand-être-seule-est-difficile).
+4. Si être seule est difficile en ce moment, voir la section « Quand être seule est difficile ».
 
 **Quand :** chaque jour de la phase.
 
@@ -102,7 +102,10 @@ L'idée est l'inverse : garder ta vie en route, et laisser la phase passer en ar
 
 **Quand :** pendant, et le soir.
 
-> Deux habitudes complètent ces outils, détaillées dans [Les ruminations](#les-ruminations) : un **rendez-vous soucis** chaque jour, pour ranger les soucis plutôt que de les suivre toute la journée ; et **moins de réassurance et de vérification**, pour que la boucle se desserre.
+> Deux habitudes complètent ces outils. Elles sont détaillées dans [Les ruminations](#les-ruminations).
+>
+> - Un **rendez-vous soucis** chaque jour : tu ranges les soucis au lieu de les suivre toute la journée.
+> - **Moins de réassurance et de vérification** : la boucle se desserre.
 
 **À retenir**
 
@@ -186,7 +189,7 @@ Le but n'est pas que la pensée parte. C'est que tu arrêtes de la suivre. Une p
 3. Si tu as déjà eu la réponse une fois : « J'ai déjà la réponse. Ce qui revient, c'est le doute, pas la question. »
 4. Laisse un peu d'incertitude exister : « Peut-être. On verra. »
 5. Occupe tes mains ou bouge un peu pendant que l'envie redescend.
-6. Un jour calme, dis à tes proches que tu essaies de moins demander, et ce qui t'aide à la place (voir l'encadré « [Pour la personne qui t'accompagne](#quand-être-seule-est-difficile) »).
+6. Un jour calme, dis à tes proches que tu essaies de moins demander, et ce qui t'aide à la place. Voir l'encadré « Pour la personne qui t'accompagne », dans la section « Quand être seule est difficile ».
 
 **Quand :** quand l'envie arrive. Pas besoin d'arrêter d'un coup : un peu moins, c'est déjà mieux.
 
@@ -339,7 +342,7 @@ Le but n'est pas de faire disparaître la sensation. C'est de lui retirer l'éti
 
 Ton ventre réagit à ce qui se passe dans ta tête : c'est normal. Quand la boucle tourne, le corps se tend et la digestion ralentit. Résultat : ça serre, ça noue, l'appétit baisse. Rien d'urgent : c'est une tension, et une tension se détend. **Calmer le corps détend aussi le ventre.**
 
-Pour changer le **sens** que tu donnes à la boule (carte d'identité, « je connais cette sensation »), voir la section « [Une sensation, deux sens](#une-sensation-deux-sens--nausées-et-boule-au-ventre) ». Ici, on passe tranquillement par le **corps**.
+Ici, on passe tranquillement par le **corps**. Pour changer le **sens** que tu donnes à la boule, voir la section « Une sensation, deux sens : nausées et boule au ventre ».
 
 Si une douleur est différente ou inhabituelle, demande à ta sage-femme.
 
@@ -407,20 +410,20 @@ Si une douleur est différente ou inhabituelle, demande à ta sage-femme.
 
 ## La nourriture et le poids, avec douceur
 
-Pendant une phase, la faim se met souvent en veille. Et la tête s'en empare vite : « Je n'ai pas faim. Est-ce que je mange assez ? Est-ce que je vais perdre du poids ? » Cette peur devient une boucle de plus.
+Pendant une phase, la faim se met souvent en pause. Et la tête s'en empare vite : « Je n'ai pas faim. Est-ce que je mange assez ? Est-ce que je vais perdre du poids ? » Cette peur devient une boucle de plus.
 
 Alors on la traite comme les autres ruminations : on ne cherche pas à la faire taire, on arrête de la suivre. Ici, pas de règles, pas de comptes, pas de pesée. Juste des façons plus douces de traverser les moments où manger devient source d'inquiétude.
 
 > Ton poids, c'est ta sage-femme qui le suit. Tu n'as pas à le surveiller seule.
 
-#### « C'est la tension qui met la faim en veille »
+#### « L'anxiété met la faim en pause »
 
 **Pourquoi ça t'aide :** c'est la même piste que pour la boule au ventre. Une faim qui s'éteint devient une sensation **connue et expliquée**, plus une menace.
 
 **Comment :**
 1. Remarque : « Je n'ai pas faim, et ça m'inquiète. »
-2. Dis-toi : « C'est la tension. Elle met la faim en veille. C'est attendu. »
-3. Ajoute : « Ça revient quand la tension redescend. »
+2. Dis-toi : « Je connais cette sensation. L'anxiété met la faim en pause. »
+3. Ajoute : « C'est temporaire. Ça revient quand ça se calme. »
 4. Fais une petite chose simple : une gorgée de ta boisson habituelle, une activité calme.
 
 **Quand :** quand l'inquiétude arrive. Prépare la phrase avant, sur ton téléphone ou un papier.
@@ -471,8 +474,7 @@ Alors on la traite comme les autres ruminations : on ne cherche pas à la faire 
 1. Remarque l'envie : « Ah, l'envie de contrôler. »
 2. Retarde : « Pas maintenant. Plus tard, si j'en ai encore besoin. »
 3. Occupe tes mains ou ton attention : un appel, quelques pas, une activité manuelle.
-4. Rappelle-toi : « C'est ma sage-femme qui suit ça aux consultations. »
-5. Note ta question sur une liste « à demander au prochain rendez-vous ».
+4. Note ta question sur une liste « à demander au prochain rendez-vous ».
 
 **Quand :** quand l'envie arrive. Avant : si ça t'aide, range ce qui facilite la vérification.
 
@@ -480,7 +482,7 @@ Alors on la traite comme les autres ruminations : on ne cherche pas à la faire 
 
 **À retenir**
 
-- Une faim qui s'éteint pendant une phase, c'est la tension : attendu, et passager.
+- Une faim qui s'éteint pendant une phase, c'est l'anxiété qui la met en pause : c'est temporaire.
 - La peur de ne pas manger assez est une rumination : tu la remarques, tu ne la suis pas.
 - Tu proposes, tu n'obliges pas. Assez bien suffit.
 - Ton poids : c'est ta sage-femme qui suit ça, pas toi seule.
@@ -541,7 +543,7 @@ Bonne nouvelle : rester allongée au calme repose déjà. Et une nuit moins bonn
 **Comment :**
 1. Le soir, choisis deux ou trois phrases : « Me reposer, c'est déjà bien. » « Une nuit moins bonne, ça se rattrape. » « J'ai sûrement dormi plus que je ne pense. »
 2. La nuit, ne regarde pas l'heure : tourne le réveil, pose le téléphone loin.
-3. Si la peur de ne pas dormir monte, répète une phrase, puis reviens au mélange de mots.
+3. Si la peur de ne pas dormir revient, répète une phrase, puis reviens au mélange de mots.
 4. Le lendemain, garde tes activités prévues, à un rythme doux, plutôt que de tout organiser autour de la nuit.
 
 **Quand :** avant (préparer), pendant (la nuit), après (le lendemain).
@@ -580,7 +582,7 @@ Avoir du mal à être seule pendant une phase, ce n'est donc **pas un défaut**.
 **Pourquoi ça t'aide :** quand ça tourne, choisir quoi faire devient difficile. Une liste écrite un jour calme décide à ta place, et un temps vide devient un temps occupé.
 
 **Comment :**
-1. Un jour calme, éventuellement avec un proche, écris quelques activités courtes qui prennent les mains ou l'attention : ranger un tiroir, cuisiner simple, dessiner, arroser les plantes, appeler une amie, sortir marcher.
+1. Un jour calme, seule ou avec un proche, écris quelques activités courtes. Choisis-les pour occuper tes mains ou ton attention : ranger un tiroir, cuisiner simple, dessiner, arroser les plantes, appeler une amie, sortir marcher.
 2. Classe-les en deux colonnes : « chez moi » et « dehors ».
 3. Ajoute une playlist « refuge » préparée à l'avance.
 4. Mets la carte à un endroit visible : frigo, téléphone, porte-monnaie.
@@ -684,13 +686,17 @@ Attention au piège : il ne s'agit pas de te surveiller toute la journée. Ça d
 
 **Comment :**
 1. Choisis un moment fixe, par exemple le soir, et un support : carnet ou note sur ton téléphone.
-2. Chaque jour, coche quelques cases simples : sommeil (bien / moyen / difficile), tension ou ventre (calme / un peu / beaucoup), ruminations (peu / moyen / beaucoup), énergie (bonne / moyenne / basse).
-3. Pour l'appétit, seulement : « comme d'habitude », « moins » ou « très peu » (comme dans le journal du site). Rien d'autre sur la nourriture.
+2. Chaque jour, coche quelques cases simples, comme dans le journal du site :
+   - sommeil : bien, moyen ou difficile ;
+   - ruminations : aucune, un peu ou beaucoup ;
+   - boule au ventre : aucune, un peu ou beaucoup ;
+   - énergie : bonne, moyenne ou basse.
+3. Pour l'appétit, seulement : « comme d'habitude », « moins » ou « très peu ». Rien d'autre sur la nourriture.
 4. Ajoute un mot sur la journée : fatigue, rendez-vous, événement.
 5. Remplis-le aussi les bons jours.
 6. Referme. Pas de vérification en dehors de ce moment.
 
-**Quand :** avant, en prévention, en dehors des crises.
+**Quand :** chaque jour, au même moment. Pendant une phase, garde-le court.
 
 #### Relire pour voir les tendances
 
