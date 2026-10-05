@@ -64,7 +64,7 @@
   2. Commencer par les mains : serrer doucement les poings quelques secondes, puis relâcher plus longtemps.
   3. Continuer : épaules (les monter vers les oreilles, relâcher), visage (plisser, relâcher), mâchoire.
   4. Pour les jambes, contracter très peu. **Ne pas pointer les orteils vers le bas** : c'est un mouvement qui peut déclencher une crampe. Préférer ramener doucement les orteils vers soi.
-  5. Inspirer en contractant, expirer en relâchant.
+  5. Inspirer en contractant, expirer en relâchant, sans jamais bloquer le souffle.
   6. Finir par un grand soupir et rester quelques instants dans la détente.
 - **Quand** : avant (au coucher). Pendant (réveil nocturne).
 - **Grossesse** : compatible avec précautions. Contractions légères, jamais fortes. Ne pas contracter le ventre. En cas de crampe : étirer le mollet en ramenant le pied vers soi et masser. Si les crampes dérangent le sommeil : en parler à la sage-femme.
