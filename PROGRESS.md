@@ -24,7 +24,7 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [~] R3 `nourriture-et-poids.md` (qualitatif, grossesse)
 - [~] R4 `sommeil.md` (compatible grossesse)
 - [~] R5 `etre-seule.md`
-- [~] R6 `signaux-precoces-et-trousse-de-crise.md` (journal, patterns, ancrage, respiration douce)
+- [x] R6 `signaux-precoces-et-trousse-de-crise.md` (journal, patterns, ancrage, respiration douce)
 - [~] R7 `ressources-suisse.md` (numéros vérifiés) + `livres.md` (disponibles en Suisse, FR)
 - [ ] R8 Contrôle croisé grossesse sur toutes les fiches
 
