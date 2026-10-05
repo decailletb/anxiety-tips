@@ -12,16 +12,16 @@
 
 Lis une ligne. Fais-la. Passe à la suivante si besoin.
 
-1. **Nomme la vague.** Dis-toi : « C'est de l'anxiété. Ça monte, puis ça redescend. »
-2. **Souffle long.** Inspire doucement par le nez. Souffle lentement par la bouche, plus longtemps. Sans pause entre les deux. Recommence quelques fois.
-3. **Main sur le ventre.** Pose-la juste sous les côtes. Sens sa chaleur. « Je connais cette sensation. »
-4. **Regarde autour de toi.** Nomme cinq choses que tu vois, quatre que tu touches, trois sons.
-5. **Occupe tes mains ou bouge.** Eau fraîche sur les mains, linge à plier, ou quelques pas dehors, tranquillement.
-6. **Appelle ou écris à quelqu'un.** Un message suffit : « Pas top, tu peux m'appeler ? »
-7. **Fais la prochaine petite chose.** Une seule. Puis la suivante.
+1. **Nomme la vague :** « C'est l'anxiété. Elle redescend. »
+2. **Inspire doux, souffle plus long, sans pause.**
+3. **Main sur le ventre :** « Je connais cette sensation. »
+4. **Nomme cinq choses que tu vois.**
+5. **Occupe tes mains, ou marche un peu.**
+6. **Écris à quelqu'un :** « Tu peux m'appeler ? »
+7. **Fais la prochaine petite chose. Une seule.**
 
-Si la tête tourne pendant le souffle, reprends ta respiration normale.
-Si rien ne t'apaise depuis longtemps : [Quand demander de l'aide rapidement](#quand-demander-de-laide-rapidement).
+Si la tête tourne, respire normalement.
+Si rien ne t'apaise depuis longtemps : va à la section « Quand demander de l'aide rapidement », tout en bas du guide.
 
 **Quand tu peux de nouveau lire : choisis un outil ci-dessous.**
 
@@ -231,7 +231,7 @@ L'idée ici : **ne pas gagner le débat, changer de terrain.** Vers le concret, 
 
 Ton ventre réagit à tes émotions : c'est normal. Quand l'alarme s'allume, le corps met la digestion en pause. Résultat : ça serre, ça noue, l'appétit baisse. La bonne nouvelle, c'est que la boucle marche aussi dans l'autre sens : **calmer l'alarme détend aussi le ventre.**
 
-Pour changer le **sens** que tu donnes à la boule (carte d'identité, « je connais cette sensation », surfer la vague), va voir [Le contraste nausées / boule au ventre](#le-contraste-nausées--boule-au-ventre). Ici, on passe par le **corps**.
+Pour changer le **sens** que tu donnes à la boule (carte d'identité, « je connais cette sensation », surfer la vague), voir la section « Le contraste nausées / boule au ventre », plus haut. Ici, on passe par le **corps**.
 
 #### Main sur le ventre et souffle doux
 
@@ -429,7 +429,7 @@ Bonne nouvelle : rester allongée au calme repose déjà. Et la fatigue d'une nu
 **Pourquoi ça t'aide :** en pleine nuit, les pensées catastrophe (« demain je ne tiendrai pas ») entretiennent l'éveil. Des phrases courtes préparées le soir sont plus faciles à retrouver qu'un raisonnement.
 
 **Comment :**
-1. Le soir, choisis deux ou trois phrases : « Me reposer, c'est déjà bien. » « Une nuit moins bonne, ça se rattrape. » « Je dors sûrement plus que je ne le crois. »
+1. Le soir, choisis deux ou trois phrases : « Me reposer, c'est déjà bien. » « Une nuit moins bonne, ça se rattrape. » « J'ai sûrement dormi plus que je ne pense. »
 2. La nuit, ne regarde pas l'heure : tourne le réveil, pose le téléphone loin.
 3. Si la peur de ne pas dormir monte, répète une phrase, puis reviens au souffle doux ou au mélange de mots.
 4. Le lendemain, garde tes activités prévues, à un rythme doux, plutôt que de tout organiser autour de la nuit.
@@ -467,7 +467,7 @@ Avoir du mal à être seule quand l'anxiété monte, ce n'est donc **pas un déf
 
 #### Ta carte « moments seule »
 
-**Pourquoi ça t'aide :** en crise, tu n'arrives pas à choisir quoi faire. Une liste écrite à froid décide à ta place, et un temps vide devient un temps occupé.
+**Pourquoi ça t'aide :** en crise, tu n'arrives pas à choisir quoi faire. Une liste écrite un jour calme décide à ta place, et un temps vide devient un temps occupé.
 
 **Comment :**
 1. Un jour calme, éventuellement avec un proche, écris quelques activités courtes qui prennent les mains ou l'attention : ranger un tiroir, cuisiner simple, dessiner, arroser les plantes, appeler une amie, sortir marcher.
@@ -537,7 +537,7 @@ Avoir du mal à être seule quand l'anxiété monte, ce n'est donc **pas un déf
 >
 > - **Mettez-vous d'accord un jour calme** : lisez ce guide ensemble, choisissez deux ou trois phrases.
 > - **Accueille l'émotion** : « Je vois que c'est dur, là. »
-> - **Offre ta présence plutôt qu'une réponse de plus** : « Je ne vais pas répondre encore une fois, mais je reste avec toi. » « Viens, on s'assoit un moment. »
+> - **Offre ta présence plutôt qu'une réponse de plus** : « Cette question, on l'a déjà vue. Moi, je reste là. » « Viens, on s'assoit un moment. »
 > - **Propose une action** : « On regarde ta carte ? » « On va marcher un peu ? »
 > - **Avant de partir** : un rituel court, une heure de retour, un message prévu.
 > - **Au retour** : « Raconte-moi une chose qui a marché. »
@@ -547,7 +547,7 @@ Avoir du mal à être seule quand l'anxiété monte, ce n'est donc **pas un déf
 **À retenir**
 
 - Avoir du mal à être seule en phase anxieuse, c'est humain, pas un défaut.
-- Prépare tes appuis à froid : carte, lieux refuges, présence à distance.
+- Prépare tes appuis quand ça va : carte, lieux refuges, présence à distance.
 - Reprends confiance par petits moments seule choisis, les jours calmes.
 
 ---
@@ -623,17 +623,37 @@ Attention au piège : il ne s'agit pas de te surveiller toute la journée. Ça e
 
 ## Lectures recommandées
 
-Ces livres sont des **réserves d'exercices**, pas des lectures à finir. Le mode d'emploi : choisis **un** exercice, pratique-le quelques jours un jour calme, puis utilise-le quand la vague arrive.
+Ces livres sont des **réserves d'exercices**, pas des lectures à finir. Le mode d'emploi : choisis **un** exercice, pratique-le quelques jours, quand ça va, puis utilise-le quand la vague arrive.
 
-- **Russ Harris, *Le piège du bonheur*** (Pocket). Le plus concret pour prendre du recul sur les pensées et faire de la place à une sensation. Commence par les exercices sur les pensées (« je remarque que j'ai la pensée que… ») et ceux pour accueillir une sensation dans le corps. [Ex Libris](https://www.exlibris.ch/fr/livres/livres-francais/russ-harris/le-piege-du-bonheur-arretez-de-vouloir-etre-heureux-a-tout-pri/id/9782266353342/)
-- **Kristin Neff, *S'aimer*** (Belfond). Pour remplacer le « je devrais y arriver » par un ton plus doux. Commence par la pause d'auto-compassion et la main posée sur le cœur ou le ventre. [Ex Libris](https://www.exlibris.ch/de/buecher-buch/livres-francais/kristin-neff/saimer-comment-se-reconcilier-avec-soi-meme/id/9782714404961/)
-- **Christopher Germer et Kristin Neff, *Mon cahier d'autocompassion en pleine conscience*** (De Boeck Supérieur). La version courte et pratique, avec des audios guidés. Commence par les pratiques pour les émotions difficiles. [Ex Libris](https://www.exlibris.ch/fr/livres/livres-francais/germer-christopher/mon-cahier-dautocompassion-en-pleine-conscience-comment-appre/id/9782807328723/)
-- **Christophe André, *Méditer, jour après jour*** (L'Iconoclaste). Des leçons courtes et des audios guidés : utile quand tu préfères te laisser guider par une voix. Commence par les audios d'introduction, un jour calme. [Ex Libris](https://www.exlibris.ch/fr/livres/livres-francais/christophe-andre/mediter-jour-apres-jour-25-leons-pour-vivre-en-pleine-consci/id/9782493909282/)
-- **Robert Ladouceur, Lynda Bélanger, Éliane Léger, *Arrêtez de vous faire du souci pour tout et pour rien*** (Odile Jacob). Pour les soucis en boucle et l'incertitude. Commence par le tri entre problème réel et « et si… » ; survole les premiers chapitres, plus explicatifs. [Ex Libris](https://www.exlibris.ch/fr/livres/livres-francais/x/x/id/9782738125781/)
-- **Benjamin Putois et Mélinée Chapoutot, *Libérez-vous de vos insomnies*** (Odile Jacob). Une approche douce du sommeil, fondée sur l'acceptation plutôt que l'effort. [Ex Libris](https://www.exlibris.ch/fr/livres/livres-francais/x/x/id/9782415004897/)
-- **Nancy Bardacke, *Se préparer à la naissance en pleine conscience*** (Le Courrier du Livre). Écrit pour la grossesse, par une sage-femme. Commence par les pratiques d'attention aux sensations du corps. [Payot](https://www.payot.ch/Detail/se_preparer_a_la_naissance_en_pleine_conscience-bardacke_nancy-9782702912690)
+- **Russ Harris, *Le piège du bonheur*** (Pocket). [Ex Libris](https://www.exlibris.ch/fr/livres/livres-francais/russ-harris/le-piege-du-bonheur-arretez-de-vouloir-etre-heureux-a-tout-pri/id/9782266353342/)
+  - Pour : prendre du recul sur les pensées, faire de la place à une sensation.
+  - Commence par : « je remarque que j'ai la pensée que… », puis accueillir une sensation dans le corps.
+- **Kristin Neff, *S'aimer*** (Belfond). [Ex Libris](https://www.exlibris.ch/de/buecher-buch/livres-francais/kristin-neff/saimer-comment-se-reconcilier-avec-soi-meme/id/9782714404961/)
+  - Pour : remplacer le « je devrais y arriver » par un ton plus doux.
+  - Commence par : la pause d'auto-compassion, main sur le cœur ou le ventre.
+- **Christopher Germer et Kristin Neff, *Mon cahier d'autocompassion en pleine conscience*** (De Boeck Supérieur). [Ex Libris](https://www.exlibris.ch/fr/livres/livres-francais/germer-christopher/mon-cahier-dautocompassion-en-pleine-conscience-comment-appre/id/9782807328723/)
+  - Pour : une version courte et pratique, avec des audios guidés.
+  - Commence par : les pratiques pour les émotions difficiles.
+- **Christophe André, *Méditer, jour après jour*** (L'Iconoclaste). [Ex Libris](https://www.exlibris.ch/fr/livres/livres-francais/christophe-andre/mediter-jour-apres-jour-25-leons-pour-vivre-en-pleine-consci/id/9782493909282/)
+  - Pour : te laisser guider par une voix, avec des leçons courtes.
+  - Commence par : les audios d'introduction, un jour calme.
+- **Robert Ladouceur, Lynda Bélanger, Éliane Léger, *Arrêtez de vous faire du souci pour tout et pour rien*** (Odile Jacob). [Ex Libris](https://www.exlibris.ch/fr/livres/livres-francais/x/x/id/9782738125781/)
+  - Pour : les soucis en boucle et l'incertitude.
+  - Commence par : le tri entre problème réel et « et si… ». Survole les premiers chapitres.
+- **Benjamin Putois et Mélinée Chapoutot, *Libérez-vous de vos insomnies*** (Odile Jacob). [Ex Libris](https://www.exlibris.ch/fr/livres/livres-francais/x/x/id/9782415004897/)
+  - Pour : un sommeil abordé en douceur, par l'acceptation plutôt que l'effort.
+- **Nancy Bardacke, *Se préparer à la naissance en pleine conscience*** (Le Courrier du Livre). [Payot](https://www.payot.ch/Detail/se_preparer_a_la_naissance_en_pleine_conscience-bardacke_nancy-9782702912690)
+  - Pour : la grossesse, par une sage-femme.
+  - Commence par : les pratiques d'attention aux sensations du corps.
+  - Le lien mène à l'édition précédente ; la 3e édition (2022) se commande en librairie avec l'ISBN 9782702921456.
 
-**À sauter dans ces livres :** l'exercice du glaçon (Bardacke) ; toute réduction du temps passé au lit sans l'avis de ta sage-femme (livres sur le sommeil) ; l'exercice d'écriture du scénario redouté (Ladouceur) jamais en crise, seulement un jour calme ; le passage sur le poids et l'image du corps (cahier Germer et Neff) reste facultatif. Si un exercice demande de retenir ton souffle longtemps ou de respirer très vite, saute-le aussi.
+**À sauter dans ces livres :**
+
+- L'exercice du glaçon (Bardacke).
+- Toute réduction du temps passé au lit sans l'avis de ta sage-femme (livres sur le sommeil).
+- L'écriture du scénario redouté (Ladouceur) : jamais en crise, seulement un jour calme.
+- Le passage sur le poids et l'image du corps (cahier Germer et Neff) : facultatif.
+- Tout exercice qui demande de retenir ton souffle longtemps ou de respirer très vite.
 
 **À retenir**
 
@@ -647,11 +667,12 @@ Ces livres sont des **réserves d'exercices**, pas des lectures à finir. Le mod
 
 Parfois, les outils ne suffisent pas. C'est normal. Demander de l'aide n'est pas un échec : c'est un outil de plus. Et un proche peut toujours appeler pour toi.
 
-- **Une inquiétude pour ton corps ou ta grossesse** (saignements, douleur dans le bas du ventre, fièvre, une sensation différente de d'habitude qui t'inquiète vraiment) → **la maternité où tu es suivie** (numéro sur tes documents de grossesse), ouverte jour et nuit, ou **ta sage-femme**. Même pour être rassurée : c'est leur rôle.
+- **Une inquiétude pour ton corps ou ta grossesse** (saignements, douleur dans le bas du ventre, fièvre, sensation inhabituelle qui t'inquiète) → **ta maternité**, jour et nuit (numéro sur tes documents de grossesse), ou **ta sage-femme**. Même pour être rassurée.
 - **Tu n'arrives plus à garder ni aliments ni liquides depuis environ une journée**, ou tu te sens très faible en te levant → **la maternité où tu es suivie** ou **ta sage-femme**, sans attendre.
 - **Tu as besoin de parler à quelqu'un, maintenant, à n'importe quelle heure** → **143, La Main Tendue** : téléphone 24 h/24, aussi par chat sur [143.ch](https://www.143.ch/fr). Gratuit, anonyme. Pas besoin que ce soit « grave ».
 - **Un souci de santé qui ne peut pas attendre, mais sans danger immédiat** → d'abord ton médecin habituel ; s'il est injoignable, la **centrale des médecins de garde de ton canton** ([liste par canton](https://www.planetesante.ch/Liens-utiles/Centrales-et-medecins-de-garde)).
 - **Des idées noires, l'impression que tu ne peux plus tenir, ou un danger pour ta vie ou ta santé** → **144**, partout en Suisse, jour et nuit. Tu peux aussi appeler le 143. Dans le doute, appelle : la personne au bout du fil t'aide à évaluer.
+- **Pour des idées noires**, en plus du 143 et du 144, tu peux appeler les **urgences psychiatriques de ton canton** ([liste sur santepsy.ch](https://santepsy.ch/urgences/)).
 - **Pour en parler en journée avec des personnes qui connaissent bien l'anxiété pendant la grossesse** (ce n'est pas une ligne de crise) → **[Periparto Suisse](https://periparto.ch/fr)**, conseil gratuit et confidentiel.
 
 > Un jour calme, note ces numéros dans ton téléphone et sur un papier : 144, 143, ta maternité, ta sage-femme, la garde de ton canton.

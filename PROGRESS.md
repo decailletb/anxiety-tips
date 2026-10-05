@@ -33,7 +33,7 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [x] G2 Sections ruminations, boule au ventre, contraste nausées
 - [x] G3 Sections nourriture/poids, sommeil, être seule
 - [x] G4 Signaux précoces + journal + livres
-- [~] G5 Relecture (relecteur) + corrections
+- [x] G5 Relecture (relecteur) + corrections
 
 ### Phase 3 — Squelette du site (parallèle à phase 2)
 - [~] S1 `docs/decisions.md` (techno, robots, alternatives)
