@@ -53,13 +53,16 @@ const registerSw = import.meta.env.PROD;
         </nav>
       </div>
     </header>
+    <!-- Juste après l'en-tête : atteint tôt au clavier ; affiché fixe en bas d'écran. -->
+    <nav aria-label={isTrousse ? 'Retour' : 'Trousse de crise'}>
+      <CrisisButton back={isTrousse} />
+    </nav>
     <main id="contenu" class="wrap">
       <slot />
     </main>
     <footer class="site-footer wrap">
       <p>Un petit guide personnel. Prends ce qui t’aide, laisse le reste.</p>
     </footer>
-    <CrisisButton back={isTrousse} />
     {
       registerSw && (
         <script is:inline define:vars={{ sw }}>
