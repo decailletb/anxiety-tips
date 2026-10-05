@@ -55,12 +55,12 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [x] M9 Ta trousse de crise
 - [x] M10 Lectures recommandées
 - [x] M11 Quand demander de l'aide
-- [ ] M12 Relecture de tous les modules
+- [~] M12 Relecture de tous les modules
 
 ### Phase 5 — Finitions
 - [ ] F1 Hors ligne testé (trousse au minimum)
 - [ ] F2 Accessibilité (contrastes, cibles, navigation clavier)
-- [ ] F3 Vérification des liens
+- [~] F3 Vérification des liens
 - [ ] F4 Rendu mobile testé (captures)
 - [ ] F5 README complet
 - [ ] F6 Vérification du site publié (noindex sur chaque page)
