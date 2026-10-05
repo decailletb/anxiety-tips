@@ -565,7 +565,7 @@ Attention au piège : il ne s'agit pas de te surveiller toute la journée. Ça e
 **Comment :**
 1. Choisis un moment fixe, par exemple le soir, et un support : carnet ou note sur ton téléphone.
 2. Chaque jour, coche quelques cases simples : sommeil (bien / moyen / difficile), tension ou ventre (calme / un peu / beaucoup), ruminations (peu / moyen / beaucoup), énergie (bonne / moyenne / basse).
-3. Pour l'appétit, seulement : « comme d'habitude », « moins » ou « plus ». Rien d'autre sur la nourriture.
+3. Pour l'appétit, seulement : « comme d'habitude », « moins » ou « très peu » (comme dans le journal du site). Rien d'autre sur la nourriture.
 4. Ajoute un mot sur la journée : fatigue, rendez-vous, événement.
 5. Remplis-le aussi les bons jours.
 6. Referme. Pas de vérification en dehors de ce moment.
