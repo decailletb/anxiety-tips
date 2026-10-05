@@ -58,10 +58,10 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [x] M12 Relecture de tous les modules
 
 ### Phase 5 — Finitions
-- [~] F1 Hors ligne testé (trousse au minimum)
-- [~] F2 Accessibilité (contrastes, cibles, navigation clavier)
+- [x] F1 Hors ligne testé (trousse au minimum)
+- [x] F2 Accessibilité (contrastes, cibles, navigation clavier)
 - [x] F3 Vérification des liens
-- [~] F4 Rendu mobile testé (captures)
+- [x] F4 Rendu mobile testé (captures)
 - [x] F5 README complet
 - [x] F6 Vérification du site publié (noindex sur chaque page)
 - [ ] F7 Rapport final
