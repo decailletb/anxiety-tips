@@ -2,7 +2,7 @@
 
 ## Statut global
 
-- Phase en cours : **5 — finitions** (≈ 85 %)
+- Phase en cours : **terminé** (100 %) — recadrage v2 et thème jour en ligne ; seules les captures restent à rafraîchir (F8)
 - Branche active : `main` (lots sur branches dédiées)
 - Site cible : https://decailletb.github.io/anxiety-tips/
 
@@ -64,7 +64,8 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [x] F4 Rendu mobile testé (captures)
 - [x] F5 README complet
 - [x] F6 Vérification du site publié (noindex sur chaque page)
-- [ ] F7 Rapport final
+- [x] F7 Rapport final
+- [~] F8 Rafraîchir `docs/screenshots/` avec le contenu recadré (les captures actuelles montrent l'ancien contenu)
 
 ### Phase 6 — Recadrage demandé par l'utilisateur
 - [x] C1 Règles + brief `research/cadrage-v2.md` (anxiété non liée à la grossesse ; crise = mode rumination en continuant à fonctionner)
@@ -91,6 +92,37 @@ Aucun.
 
 ## Reprise
 
-- Prochaine action : F1/F2/F4 (test hors ligne, accessibilité, captures mobiles) sur branche `fix/mobile-a11y-polish` (worktree dev-site), puis F7 rapport final. Si la branche n'existe pas : relancer dev-site pour ces tâches.
-- Fichiers : `PROGRESS.md`, `research/*`.
-- Branche active : `main` ; `fix/mobile-a11y-polish` pour F1/F2/F4.
+- Prochaine action : F8 — refaire les captures mobiles (390 px, thème jour + 1–2 en mode nuit) du site publié avec le contenu recadré, remplacer `docs/screenshots/*`, mettre à jour la liste dans `docs/qa-report.md`. Ensuite : rien d'obligatoire (voir « Idées d'amélioration »).
+- Fichiers : `docs/screenshots/`, `docs/qa-report.md`.
+- Branche active : `main`.
+
+## Rapport final
+
+**Site :** https://decailletb.github.io/anxiety-tips/ (non indexé : `noindex, nofollow` vérifié sur les 15 pages publiées + 404, pas de sitemap).
+**Guide :** [docs/guide-direct.md](docs/guide-direct.md).
+
+### Ce qui a été fait
+- Recherche FR + EN : 7 fiches sourcées dans `research/` (ruminations, sensations / boule au ventre, nourriture, sommeil, être seule, signaux précoces, ressources suisses + livres), contrôle croisé sécurité et liens.
+- Livrable 1 : guide complet, relu deux fois, recadré selon le retour de l'utilisateur (`research/cadrage-v2.md`) : l'anxiété n'est pas liée à la grossesse ; une « crise » = un mode où l'on reste bloquée à ruminer en continuant à fonctionner. Trousse de 7 actions orientées « décrocher de la boucle ».
+- Site Astro 7 statique : 10 modules (format En bref / Exercices Pourquoi-Comment-Quand / À retenir / Sources), page Trousse en un tap (bouton fixe sur chaque page), page Aide (numéros suisses vérifiés le 5 octobre 2026), Journal des signaux 100 % local (export/import, vue 4 semaines, grille imprimable), jusqu'à 3 contacts personnels stockés uniquement sur le téléphone.
+- Hors ligne : service worker qui met en cache toutes les pages ; testé sur le site publié.
+- Thème clair « jour » par défaut, mode nuit optionnel ; accessibilité (0 violation axe, cibles ≥ 48 px, contrastes AA) ; espaces insécables françaises.
+- CI : build + vérifications bloquantes (noindex, pas de sitemap, aucune ressource externe, liste hors ligne, liens internes et ancres) avant chaque déploiement.
+- Conventions : commits Angular, aucune attribution (config + hook `commit-msg`), branches par lot fusionnées dans `main`.
+
+### Limites connues
+- Tests navigateur faits avec Chromium uniquement (pas de Safari iOS réel ni de lecteur d'écran).
+- Le journal et les contacts vivent dans le navigateur : effacés si les données du site sont effacées ou en navigation privée (export fichier + grille papier proposés).
+- Un `robots.txt` de site de projet n'est pas lu par les robots ; la non-indexation repose sur la balise meta (voir `docs/decisions.md`). Le repo étant public, son contenu reste lisible sur GitHub.
+- Numéros d'aide vérifiés le 5 octobre 2026 : à revérifier de temps en temps.
+- Quelques sources scientifiques sont citées via résumé (pages éditeur bloquées) ; signalé dans les fiches.
+- Les icônes gardent l'ancien vert sauge.
+- Durée typique d'une phase inconnue : le module « Vivre pendant une phase » reste formulé pour quelques jours comme pour plusieurs semaines.
+
+### Idées d'amélioration
+- Laisser l'utilisatrice réécrire sa trousse directement sur le site (stockage local), en plus de la version par défaut.
+- Rappel doux optionnel pour le « rendez-vous soucis » (notification locale de la PWA).
+- Petit minuteur pour le rendez-vous soucis et pour « laisser passer la vague ».
+- Test sur un vrai iPhone et ajustements Safari si besoin.
+- Icônes aux couleurs du thème jour.
+- Version audio courte de 2–3 exercices (enregistrée par une voix familière).
