@@ -1,45 +1,61 @@
 ---
 title: "Comprendre tes crises"
 order: 1
-summary: "En crise, la logique ne marche plus : c'est normal, et on passe par le corps et l'attention pour traverser la vague."
+summary: "Une crise, c'est un mode où tu restes bloquée à ruminer pendant une phase. Le but n'est pas de gagner contre tes pensées, mais de décrocher et de continuer à vivre."
 ---
 
 ## En bref
 
-En pleine crise, ce que tu sais sur ton anxiété ne t'aide plus. **C'est normal.** L'alarme intérieure fait passer le raisonnement au second plan.
+Une crise, chez toi, c'est un **mode**. Pendant une phase, tu restes bloquée à ruminer. Et pourtant tu continues à fonctionner : travail, quotidien, tout tient.
 
-Alors on ne débat pas avec la peur. On passe **par le corps** : souffle, mains, quelques pas. Et **par l'attention** : ce que tu vois, entends, touches.
+Argumenter avec la rumination, c'est encore ruminer. Chercher la bonne réponse, se rassurer, vérifier : la boucle repart. **C'est pour ça que la logique ne marche pas.** Ce n'est pas un échec de ta part.
 
-Une crise est une vague. Elle monte, plafonne, puis redescend. Ton travail est seulement de la traverser.
+Le but n'est donc pas de faire taire tes pensées. C'est de **ne plus les suivre**, et de revenir à ce que tu fais.
 
-**En crise**, ouvre la [trousse](../../trousse/). **Un jour calme**, lis un seul module et teste un seul exercice.
+Les phases passent. Tu peux les traverser en continuant ta vie.
 
 ## Exercices
 
-### Nommer la vague
+### Repérer le mode rumination
 
-**Pourquoi ça t'aide :** une phrase préparée reste à portée quand le raisonnement ne répond plus. Mettre un nom sur ce qui arrive apaise déjà un peu l'alarme. Et ça te rappelle que la vague a une fin.
+**Pourquoi ça t'aide :** tant que tu es dans la boucle, elle te semble être de la réflexion utile. La repérer et lui donner un nom crée un petit pas de côté. Tu n'es plus dedans, tu la regardes.
 
 **Comment :**
 
-1. Remarque que ça monte.
-2. Dis-toi, à voix basse ou dans ta tête : « C'est l'anxiété. »
-3. Ajoute : « C'est une vague. Elle monte, elle redescend. »
-4. Ne cherche pas d'explication. Le nom suffit.
-5. Passe à la ligne suivante de ta [trousse](../../trousse/).
+1. Remarque les signes : la même question qui revient, aucune décision au bout, la boule au ventre qui monte.
+2. Dis-toi : « Je suis en mode rumination. »
+3. Pose-toi une seule question : « J'avance, ou je tourne en rond ? »
+4. Si tu tournes en rond, ne cherche pas la réponse. Reviens à ce que font tes mains.
+5. Si l'esprit repart, recommence. Sans te juger : c'est normal qu'il reparte.
 
-**Quand :** pendant, dès les premiers signes. Avant, un jour calme : répète la phrase pour qu'elle te soit familière.
+**Quand :** pendant, autant de fois que nécessaire dans la journée. Avant, un jour calme : repère tes signes à toi (une question qui revient souvent, un moment de la journée, une sensation).
+
+### Ne pas répondre à la pensée
+
+**Pourquoi ça t'aide :** une pensée anxieuse n'est pas un problème à résoudre. Quand tu lui réponds, tu lui donnes de l'importance, et elle revient. Quand tu la laisses là sans la suivre, elle perd peu à peu de sa force.
+
+**Comment :**
+
+1. Quand une pensée inquiète arrive, ajoute devant : « J'ai la pensée que… »
+2. Par exemple : « J'ai la pensée que je ne vais pas réussir à manger. »
+3. Ne la discute pas. Ne cherche pas à la contredire.
+4. Laisse-la là, comme un bruit de fond.
+5. Fais la prochaine petite chose de ta journée.
+
+**Quand :** pendant. Un jour calme, entraîne-toi sur une petite pensée, pour que le geste devienne familier.
 
 ## À retenir
 
-- En crise, la logique ne marche pas : ce n'est pas un échec, c'est l'alarme.
-- On passe par le corps et l'attention, pas par l'argument.
-- Une vague monte et redescend. Tu n'as qu'à la traverser.
-- En crise : la trousse. Un jour calme : un module, un exercice. Garde ce qui marche pour toi.
+- Une crise, c'est un mode : tu rumines tout en continuant à fonctionner.
+- Argumenter, se rassurer, vérifier : c'est encore ruminer. Voilà pourquoi la logique ne marche pas.
+- Le but n'est pas de faire taire tes pensées, mais de ne pas les suivre.
+- Les phases passent. Tu peux les traverser en continuant ta vie.
+- Pour les gestes du quotidien, garde ta [trousse](../../trousse/) sous la main.
 
 ## Sources
 
 - [Planète Santé – Comprendre l'anxiété pour mieux la gérer](https://www.planetesante.ch/Magazine/Psycho-et-cerveau/Anxiete-et-crise-psychique/Comprendre-l-anxiete-pour-mieux-la-gerer) (FR)
-- [Commission de la santé mentale du Canada – Astuces pratiques pour réduire l'anxiété](https://commissionsantementale.ca/resource/astuces-pratiques-pour-reduire-lanxiete/) (FR)
-- [Lieberman et al. 2007 – Putting feelings into words](https://collaborate.princeton.edu/en/publications/putting-feelings-into-words-affect-labeling-disrupts-amygdala-act/) (EN)
-- [Therapist Aid – Urge surfing](https://www.therapistaid.com/therapy-worksheet/urge-surfing-handout) (EN)
+- [CSS – Stop ruminating](https://www.css.ch/en/private-customers/my-health/mental-health/stress/stop-ruminating.html) (EN)
+- [American Psychiatric Association – Rumination: a cycle of negative thinking](https://www.psychiatry.org/news-room/apa-blogs/rumination-a-cycle-of-negative-thinking) (EN)
+- [Psychology Tools – Ed Watkins discusses rumination](https://www.psychologytools.com/articles/profile-professor-ed-watkins-discusses-rumination) (EN)
+- [Psychology Today – How cognitive defusion can help with anxiety](https://www.psychologytoday.com/us/blog/understanding-the-anxious-mind/202306/how-cognitive-defusion-can-help-with-anxiety) (EN)
