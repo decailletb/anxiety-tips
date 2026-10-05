@@ -45,15 +45,15 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 
 ### Phase 4 — Modules (rédacteurs en parallèle + relecture)
 - [~] M1 Comprendre tes crises
-- [~] M2 Repérer les signaux précoces
+- [x] M2 Repérer les signaux précoces
 - [~] M3 Pendant la crise
 - [~] M4 Les ruminations
 - [~] M5 La boule au ventre
 - [x] M6 Le sommeil
 - [x] M7 La nourriture, avec douceur
-- [~] M8 Quand être seule est difficile
+- [x] M8 Quand être seule est difficile
 - [~] M9 Ta trousse de crise
-- [~] M10 Lectures recommandées
+- [x] M10 Lectures recommandées
 - [~] M11 Quand demander de l'aide
 - [ ] M12 Relecture de tous les modules
 
