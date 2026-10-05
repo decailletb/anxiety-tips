@@ -88,7 +88,7 @@ Le **repo est public** : le contenu Markdown est lisible sur GitHub de toute fa�
 
 ## 8. Thème : « jour » par défaut, mode nuit en option
 
-- **Clair par défaut, à la demande de l'utilisatrice** : le site s'affiche toujours en thème clair « de jour », **même si le téléphone est en mode sombre** (on ne suit plus `prefers-color-scheme`). Raison : une ambiance lumineuse et douce est plus apaisante pour elle qu'un écran sombre.
+- **Clair par défaut, à la demande de l'utilisateur** : le site s'affiche toujours en thème clair « de jour », **même si le téléphone est en mode sombre** (on ne suit plus `prefers-color-scheme`). Raison : une ambiance lumineuse et douce est jugée plus apaisante qu'un écran sombre.
 - **Palette jour** (`site/src/styles/global.css`) : fond crème lumineux `#fffaf2`, cartes blanches, texte bleu-gris foncé `#22313a`, accents vert d'eau `#1c6b66` / `#e2f4f0` et bleu ciel `#1f5f8f`, bouton « Trousse de crise » pêche douce `#ffd3b6` (texte brun foncé, bordure `#c97a4c` pour rester bien visible sur le fond). Contrastes texte ≥ 4.5:1 (AA) vérifiés, y compris texte secondaire sur les pastilles du journal ; bordure du bouton ≥ 3:1 sur le fond.
 - **Mode nuit = option manuelle** : interrupteur « Mode nuit » dans le pied de page (bouton ≥ 48 px, `aria-pressed`). Le choix est mémorisé dans ce navigateur (`localStorage`, clé `vague-theme`) et appliqué par un script inline de quelques lignes dans `<head>` **avant l'affichage** (pas de flash). Le thème sombre est porté par `html[data-theme="dark"]`.
 - **Sans JavaScript** : thème clair, interrupteur masqué.
