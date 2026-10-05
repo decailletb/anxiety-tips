@@ -565,7 +565,7 @@ Attention au piège : il ne s'agit pas de te surveiller toute la journée. Ça e
 **Comment :**
 1. Choisis un moment fixe, par exemple le soir, et un support : carnet ou note sur ton téléphone.
 2. Chaque jour, coche quelques cases simples : sommeil (bien / moyen / difficile), tension ou ventre (calme / un peu / beaucoup), ruminations (peu / moyen / beaucoup), énergie (bonne / moyenne / basse).
-3. Pour l'appétit, seulement : « comme d'habitude », « moins » ou « plus ». Rien d'autre sur la nourriture.
+3. Pour l'appétit, seulement : « comme d'habitude », « moins » ou « très peu » (comme dans le journal du site). Rien d'autre sur la nourriture.
 4. Ajoute un mot sur la journée : fatigue, rendez-vous, événement.
 5. Remplis-le aussi les bons jours.
 6. Referme. Pas de vérification en dehors de ce moment.
@@ -671,8 +671,8 @@ Parfois, les outils ne suffisent pas. C'est normal. Demander de l'aide n'est pas
 - **Tu n'arrives plus à garder ni aliments ni liquides depuis environ une journée**, ou tu te sens très faible en te levant → **la maternité où tu es suivie** ou **ta sage-femme**, sans attendre.
 - **Tu as besoin de parler à quelqu'un, maintenant, à n'importe quelle heure** → **143, La Main Tendue** : téléphone 24 h/24, aussi par chat sur [143.ch](https://www.143.ch/fr). Gratuit, anonyme. Pas besoin que ce soit « grave ».
 - **Un souci de santé qui ne peut pas attendre, mais sans danger immédiat** → d'abord ton médecin habituel ; s'il est injoignable, la **centrale des médecins de garde de ton canton** ([liste par canton](https://www.planetesante.ch/Liens-utiles/Centrales-et-medecins-de-garde)).
-- **Des idées noires, l'impression que tu ne peux plus tenir, ou un danger pour ta vie ou ta santé** → **144**, partout en Suisse, jour et nuit. Tu peux aussi appeler le 143. Dans le doute, appelle : la personne au bout du fil t'aide à évaluer.
-- **Pour des idées noires**, en plus du 143 et du 144, tu peux appeler les **urgences psychiatriques de ton canton** ([liste sur santepsy.ch](https://santepsy.ch/urgences/)).
+- **Des idées noires, ou l'impression que tu ne peux plus tenir** → le **143**, jour et nuit, ou les **urgences psychiatriques de ton canton** ([liste sur santepsy.ch](https://santepsy.ch/urgences/)).
+- **Un danger pour ta vie ou ta santé, ou l'idée de passer à l'acte** → **144**, partout en Suisse, jour et nuit. Dans le doute, appelle : la personne au bout du fil t'aide à évaluer.
 - **Pour en parler en journée avec des personnes qui connaissent bien l'anxiété pendant la grossesse** (ce n'est pas une ligne de crise) → **[Periparto Suisse](https://periparto.ch/fr)**, conseil gratuit et confidentiel.
 
 > Un jour calme, note ces numéros dans ton téléphone et sur un papier : 144, 143, ta maternité, ta sage-femme, la garde de ton canton.
