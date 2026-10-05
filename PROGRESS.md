@@ -67,9 +67,9 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [ ] F7 Rapport final
 
 ### Phase 6 — Recadrage demandé par l'utilisateur
-- [~] C1 Règles + brief `research/cadrage-v2.md` (anxiété non liée à la grossesse ; crise = mode rumination en continuant à fonctionner)
-- [~] C2 Réécriture guide + modules + trousse + aide (branche `docs/rumination-reframe`)
-- [ ] C3 Relecture du recadrage
+- [x] C1 Règles + brief `research/cadrage-v2.md` (anxiété non liée à la grossesse ; crise = mode rumination en continuant à fonctionner)
+- [x] C2 Réécriture guide + modules + trousse + aide (branche `docs/rumination-reframe`)
+- [~] C3 Relecture du recadrage
 - [~] C4 Thème clair « jour » par défaut, mode nuit optionnel (branche `fix/mobile-a11y-polish`)
 
 ## Décisions
