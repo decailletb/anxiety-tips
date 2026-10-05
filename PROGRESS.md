@@ -22,7 +22,7 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [x] R1 `ruminations.md`
 - [x] R2 `boule-au-ventre-et-sens-des-sensations.md` (inclut contraste nausées / boule au ventre)
 - [x] R3 `nourriture-et-poids.md` (qualitatif, grossesse)
-- [~] R4 `sommeil.md` (compatible grossesse)
+- [x] R4 `sommeil.md` (compatible grossesse)
 - [x] R5 `etre-seule.md`
 - [x] R6 `signaux-precoces-et-trousse-de-crise.md` (journal, patterns, ancrage, respiration douce)
 - [~] R7 `ressources-suisse.md` (numéros vérifiés) + `livres.md` (disponibles en Suisse, FR)
