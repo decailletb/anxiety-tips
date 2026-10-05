@@ -49,8 +49,8 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [~] M3 Pendant la crise
 - [~] M4 Les ruminations
 - [~] M5 La boule au ventre
-- [~] M6 Le sommeil
-- [~] M7 La nourriture, avec douceur
+- [x] M6 Le sommeil
+- [x] M7 La nourriture, avec douceur
 - [~] M8 Quand être seule est difficile
 - [~] M9 Ta trousse de crise
 - [~] M10 Lectures recommandées
