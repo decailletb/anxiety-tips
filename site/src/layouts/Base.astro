@@ -1,13 +1,20 @@
 ---
 import '../styles/global.css';
 import { url } from '../lib/url';
+import CrisisButton from '../components/CrisisButton.astro';
 
 interface Props {
   title: string;
   description?: string;
+  // true sur la page trousse : le bouton fixe devient « Retour ».
+  isTrousse?: boolean;
 }
 
-const { title, description = 'Des outils simples pour traverser les moments d’anxiété.' } = Astro.props;
+const {
+  title,
+  description = 'Des outils simples pour traverser les moments d’anxiété.',
+  isTrousse = false,
+} = Astro.props;
 const siteName = 'Traverser la vague';
 const fullTitle = title === siteName ? title : `${title} · ${siteName}`;
 ---
@@ -44,5 +51,6 @@ const fullTitle = title === siteName ? title : `${title} · ${siteName}`;
     <footer class="site-footer wrap">
       <p>Un petit guide personnel. Prends ce qui t’aide, laisse le reste.</p>
     </footer>
+    <CrisisButton back={isTrousse} />
   </body>
 </html>

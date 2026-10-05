@@ -268,6 +268,97 @@ a {
   font-size: 0.95rem;
 }
 
+/* Bouton « Trousse de crise » : fixe, en bas à droite (zone du pouce) */
+.crisis-btn {
+  position: fixed;
+  right: max(1rem, env(safe-area-inset-right, 0px));
+  bottom: calc(1rem + env(safe-area-inset-bottom, 0px));
+  z-index: 10;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  min-height: var(--cta-height);
+  min-width: 12rem;
+  padding: 0 1.5rem;
+  justify-content: center;
+  background: var(--cta-bg);
+  color: var(--cta-text);
+  font-size: 1.15rem;
+  font-weight: 650;
+  text-decoration: none;
+  border-radius: 999px;
+  box-shadow: 0 6px 20px rgb(0 0 0 / 0.18);
+}
+.crisis-btn svg {
+  width: 1.5em;
+  height: 1.5em;
+  flex: none;
+}
+.crisis-btn:focus-visible {
+  outline-offset: 4px;
+}
+@media (max-width: 22em) {
+  .crisis-btn {
+    left: 1rem;
+    right: 1rem;
+  }
+}
+
+/* Page trousse : une action par carte, très gros */
+.trousse h1 {
+  font-size: 1.3rem;
+  color: var(--muted);
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+}
+.trousse ol,
+.trousse ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.trousse li {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 6px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.25rem;
+  font-size: 1.75rem;
+  line-height: 1.3;
+  font-weight: 600;
+}
+.trousse li + li {
+  margin-top: 1rem;
+}
+.trousse p {
+  font-size: 1.25rem;
+}
+.trousse .help-link {
+  margin-top: 2.5rem;
+  font-size: 1rem;
+}
+.trousse .help-link a {
+  display: inline-block;
+  min-height: var(--tap);
+  padding: 0.7rem 0;
+  color: var(--muted);
+}
+
+/* Numéros d'aide : gros liens tactiles */
+.aide a[href^="tel:"] {
+  display: inline-block;
+  min-height: var(--tap);
+  min-width: var(--tap);
+  padding: 0.35rem 0.9rem;
+  margin-right: 0.25rem;
+  background: var(--accent-soft);
+  color: var(--accent);
+  border-radius: var(--radius);
+  font-size: 1.4rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   html {
     scroll-behavior: smooth;

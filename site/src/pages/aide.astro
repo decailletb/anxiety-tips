@@ -1,0 +1,15 @@
+---
+import { getEntry, render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+
+const entry = await getEntry('pages', 'aide');
+if (!entry) throw new Error('src/content/pages/aide.md est introuvable');
+const { Content } = await render(entry);
+---
+
+<Base title={entry.data.title}>
+  <div class="aide">
+    <h1>{entry.data.title}</h1>
+    <Content />
+  </div>
+</Base>
