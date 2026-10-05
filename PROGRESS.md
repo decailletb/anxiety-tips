@@ -19,14 +19,14 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [x] P0.6 Fusion `chore/project-setup` → main, push
 
 ### Phase 1 — Recherche (`research/`, chercheurs en parallèle)
-- [ ] R1 `ruminations.md`
-- [ ] R2 `boule-au-ventre-et-sens-des-sensations.md` (inclut contraste nausées / boule au ventre)
-- [ ] R3 `nourriture-et-poids.md` (qualitatif, grossesse)
-- [ ] R4 `sommeil.md` (compatible grossesse)
-- [ ] R5 `etre-seule.md`
-- [ ] R6 `signaux-precoces-et-trousse-de-crise.md` (journal, patterns, ancrage, respiration douce)
-- [ ] R7 `ressources-suisse.md` (numéros vérifiés) + `livres.md` (disponibles en Suisse, FR)
-- [ ] R8 Contrôle croisé grossesse sur toutes les fiches
+- [x] R1 `ruminations.md`
+- [x] R2 `boule-au-ventre-et-sens-des-sensations.md` (inclut contraste nausées / boule au ventre)
+- [x] R3 `nourriture-et-poids.md` (qualitatif, grossesse)
+- [x] R4 `sommeil.md` (compatible grossesse)
+- [x] R5 `etre-seule.md`
+- [x] R6 `signaux-precoces-et-trousse-de-crise.md` (journal, patterns, ancrage, respiration douce)
+- [~] R7 `ressources-suisse.md` (numéros vérifiés) + `livres.md` (disponibles en Suisse, FR)
+- [ ] R8 Contrôle croisé grossesse sur toutes les fiches + vérifier liens non ouverts (R2 : PDF Russ Harris, Shortform, Lieberman 2007)
 
 ### Phase 2 — Livrable 1 (`docs/guide-direct.md`)
 - [ ] G1 Plan + trousse de crise + section aide
@@ -36,8 +36,8 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [ ] G5 Relecture (relecteur) + corrections
 
 ### Phase 3 — Squelette du site (parallèle à phase 2)
-- [ ] S1 `docs/decisions.md` (techno, robots, alternatives)
-- [ ] S2 Astro init dans `site/`, layout, thème doux, mode sombre, noindex
+- [~] S1 `docs/decisions.md` (techno, robots, alternatives)
+- [~] S2 Astro init dans `site/`, layout, thème doux, mode sombre, noindex
 - [ ] S3 Bouton fixe + page trousse de crise
 - [ ] S4 Workflow GitHub Actions → Pages, premier déploiement vérifié
 - [ ] S5 Service worker + manifest (hors ligne)
@@ -83,4 +83,4 @@ Aucun.
 
 - Prochaine action : lancer R1–R7 (chercheurs, branche `docs/research`) et S1–S2 (dev-site, branche `feat/site-skeleton`) en parallèle.
 - Fichiers : `PROGRESS.md`, `research/*`.
-- Branche active : `main` (lots sur branches dédiées).
+- Branche active : `docs/research` (recherche) ; `feat/site-skeleton` (site, worktree). Si une fiche research/ manque ou est incomplète, relancer le chercheur correspondant.
