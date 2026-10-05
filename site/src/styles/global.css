@@ -819,13 +819,23 @@ textarea {
   .grid-scroll {
     overflow: visible;
   }
+  .print-sheet {
+    page: grille;
+  }
+  .print-intro {
+    margin-bottom: 0.5rem;
+  }
   .paper-grid {
-    font-size: 9.5pt;
+    font-size: 9pt;
+    line-height: 1.15;
   }
   .paper-grid th,
   .paper-grid td {
     border-color: #555;
-    padding: 0.1rem 0.3rem;
+    padding: 0.05rem 0.3rem;
+  }
+  .paper-grid .note-row td {
+    height: 3.5rem;
   }
   .paper-grid .day-col {
     width: 11%;
@@ -836,4 +846,9 @@ textarea {
 }
 @page {
   margin: 12mm;
+}
+/* La grille papier tient sur une page A4 en paysage */
+@page grille {
+  size: A4 landscape;
+  margin: 10mm;
 }
