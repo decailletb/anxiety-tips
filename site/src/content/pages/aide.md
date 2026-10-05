@@ -11,8 +11,8 @@ Parfois, les outils ne suffisent pas. C'est normal. Demander de l'aide n'est pas
 
 ## Ton corps ou ta grossesse
 
-- **Une inquiétude pour ton corps ou ta grossesse** (saignements, douleur dans le bas du ventre, fièvre, sensation inhabituelle qui t'inquiète) : appelle **la maternité où tu es suivie**, jour et nuit (numéro sur tes documents de grossesse), ou **ta sage-femme**. Même pour être rassurée.
-- **Tu n'arrives plus à garder ni aliments ni liquides depuis environ une journée**, ou tu te sens très faible en te levant : **la maternité où tu es suivie** ou **ta sage-femme**, sans attendre.
+- **Une inquiétude pour ton corps ou ta grossesse** : saignements, douleur dans le bas du ventre, fièvre, sensation inhabituelle qui t'inquiète. Appelle **la maternité où tu es suivie**, jour et nuit, ou **ta sage-femme**. Le numéro est sur tes documents de grossesse. Même pour être rassurée, c'est leur rôle.
+- **Tu n'arrives plus à garder ni aliments ni liquides depuis environ une journée**, ou tu te sens très faible en te levant. Appelle **la maternité où tu es suivie** ou **ta sage-femme**, sans attendre.
 
 ## Un souci de santé qui ne peut pas attendre
 
@@ -20,13 +20,13 @@ D'abord ton médecin habituel. S'il est injoignable, la **centrale des médecins
 
 ## Si tu ne peux plus tenir
 
-- **Des idées noires, l'impression que tu ne peux plus tenir, ou un danger pour ta vie ou ta santé** : **[144](tel:144)**, partout en Suisse, jour et nuit. Tu peux aussi appeler le [143](tel:143).
+- **Des idées noires, ou l'impression que tu ne peux plus tenir** : le [143](tel:143), jour et nuit. Ou les **urgences psychiatriques de ton canton** ([liste sur santepsy.ch](https://santepsy.ch/urgences/)).
+- **Un danger pour ta vie ou ta santé, ou l'idée de passer à l'acte** : le **[144](tel:144)**, partout en Suisse, jour et nuit.
 - Dans le doute, appelle : la personne au bout du fil t'aide à évaluer.
-- Pour des idées noires, tu peux aussi appeler les **urgences psychiatriques de ton canton** ([liste sur santepsy.ch](https://santepsy.ch/urgences/)).
 
 ## Pour en parler, en journée
 
-**[Periparto Suisse](https://periparto.ch/fr)** : des personnes qui connaissent bien l'anxiété pendant la grossesse. Conseil gratuit et confidentiel. Ce n'est pas une ligne de crise.
+**[Periparto Suisse](https://periparto.ch/fr)** : des personnes qui connaissent bien l'anxiété pendant la grossesse. Conseil gratuit et confidentiel, certains jours de la semaine. Ce n'est pas une ligne de crise.
 
 ## Tes contacts
 
