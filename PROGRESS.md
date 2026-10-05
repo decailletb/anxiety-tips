@@ -2,8 +2,8 @@
 
 ## Statut global
 
-- Phase en cours : **0 — démarrage** (≈ 5 %)
-- Branche active : `chore/project-setup`
+- Phase en cours : **1 — recherche** + **3 — squelette site** (≈ 8 %)
+- Branche active : `main` (lots sur branches dédiées)
 - Site cible : https://decailletb.github.io/anxiety-tips/
 
 Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
@@ -16,7 +16,7 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [x] P0.3 Config sans attribution + hook commit-msg ; commit de test vérifié
 - [x] P0.4 Sous-agents `.claude/agents/` (chercheur, redacteur, dev-site, relecteur)
 - [x] P0.5 PROGRESS.md
-- [~] P0.6 Fusion `chore/project-setup` → main, push
+- [x] P0.6 Fusion `chore/project-setup` → main, push
 
 ### Phase 1 — Recherche (`research/`, chercheurs en parallèle)
 - [ ] R1 `ruminations.md`
@@ -81,6 +81,6 @@ Aucun.
 
 ## Reprise
 
-- Prochaine action : fusionner `chore/project-setup` dans `main`, push, puis lancer la phase 1 (R1–R7 en parallèle) et S1–S2 en parallèle.
+- Prochaine action : lancer R1–R7 (chercheurs, branche `docs/research`) et S1–S2 (dev-site, branche `feat/site-skeleton`) en parallèle.
 - Fichiers : `PROGRESS.md`, `research/*`.
-- Branche active : `chore/project-setup`.
+- Branche active : `main` (lots sur branches dédiées).
