@@ -9,7 +9,7 @@ Ce fichier suffit à un agent neuf pour reprendre le travail. Lire ensuite `PROG
 1. Lire ce fichier, puis `PROGRESS.md` (sections « Statut », « Tâches », « Reprise »).
 2. `git status`, `git log --oneline -15`, `git branch -a`, `git fetch`.
 3. Se placer sur la branche active indiquée dans « Reprise » (sinon `main`).
-4. Vérifier que le hook est actif : `git config core.hooksPath .githooks`.
+4. Vérifier la config locale : `git config core.hooksPath .githooks` et `git config push.autoSetupRemote true` (sinon un `git push` sans upstream échoue).
 5. Terminer ou refaire la tâche marquée « en cours ». Puis continuer le plan **sans poser de question** à l'utilisateur (sauf blocage réel : accès, permission, décision irréversible).
 
 ## 2. Gestion des sessions (coupure possible à tout moment)

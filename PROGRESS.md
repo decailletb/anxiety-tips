@@ -60,9 +60,9 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 ### Phase 5 — Finitions
 - [ ] F1 Hors ligne testé (trousse au minimum)
 - [ ] F2 Accessibilité (contrastes, cibles, navigation clavier)
-- [~] F3 Vérification des liens
+- [x] F3 Vérification des liens
 - [ ] F4 Rendu mobile testé (captures)
-- [ ] F5 README complet
+- [x] F5 README complet
 - [ ] F6 Vérification du site publié (noindex sur chaque page)
 - [ ] F7 Rapport final
 
