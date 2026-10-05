@@ -1,0 +1,60 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { url } from '../../lib/url';
+
+export async function getStaticPaths() {
+  const modules = (await getCollection('modules')).sort((a, b) => a.data.order - b.data.order);
+  return modules.map((entry, i) => ({
+    params: { id: entry.id },
+    props: { entry, prev: modules[i - 1], next: modules[i + 1] },
+  }));
+}
+
+const { entry, prev, next } = Astro.props;
+const { Content, headings } = await render(entry);
+
+// Sommaire court seulement pour les modules longs (3 sections ## ou plus).
+const sections = headings.filter((h) => h.depth === 2);
+const showToc = sections.length >= 3;
+---
+
+<Base title={entry.data.title} description={entry.data.summary}>
+  <article>
+    <h1>{entry.data.title}</h1>
+    {
+      showToc && (
+        <nav class="toc" aria-label="Dans ce module">
+          <p>Dans ce module</p>
+          <ul>
+            {sections.map((h) => (
+              <li>
+                <a href={`#${h.slug}`}>{h.text}</a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      )
+    }
+    <Content />
+  </article>
+
+  <nav class="pager" aria-label="Modules">
+    {
+      prev && (
+        <a class="prev" href={url(`modules/${prev.id}/`)} rel="prev">
+          <small>Module précédent</small>
+          <span>← {prev.data.title}</span>
+        </a>
+      )
+    }
+    {
+      next && (
+        <a class="next" href={url(`modules/${next.id}/`)} rel="next">
+          <small>Module suivant</small>
+          <span>{next.data.title} →</span>
+        </a>
+      )
+    }
+  </nav>
+</Base>

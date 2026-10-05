@@ -1,0 +1,25 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import { url } from '../lib/url';
+
+const modules = (await getCollection('modules')).sort((a, b) => a.data.order - b.data.order);
+---
+
+<Base title="Traverser la vague">
+  <h1>Traverser la vague</h1>
+  <p class="lead">Des outils simples, à utiliser quand l’anxiété monte. Un module à la fois, à ton rythme.</p>
+
+  <ol class="module-list">
+    {
+      modules.map((m) => (
+        <li>
+          <a class="module-card" href={url(`modules/${m.id}/`)}>
+            <strong>{m.data.title}</strong>
+            <span>{m.data.summary}</span>
+          </a>
+        </li>
+      ))
+    }
+  </ol>
+</Base>

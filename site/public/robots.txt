@@ -1,0 +1,7 @@
+# Fichier volontairement neutre : NE PAS ajouter de "Disallow".
+# Un Disallow empêcherait les robots de lire la balise meta "noindex"
+# présente sur chaque page. Détails : docs/decisions.md, section 4.
+# Note : sur un site de projet GitHub Pages, ce fichier n'est pas lu
+# (les robots lisent seulement /robots.txt à la racine de l'hôte).
+User-agent: *
+Allow: /

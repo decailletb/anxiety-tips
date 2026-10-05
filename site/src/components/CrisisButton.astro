@@ -1,0 +1,28 @@
+---
+import { url } from '../lib/url';
+
+interface Props {
+  // Sur la page trousse elle-même, le bouton devient « Retour ».
+  back?: boolean;
+}
+
+const { back = false } = Astro.props;
+---
+
+{
+  back ? (
+    <a class="crisis-btn" href={url()}>
+      <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M15 5l-7 7 7 7" />
+      </svg>
+      <span>Retour</span>
+    </a>
+  ) : (
+    <a class="crisis-btn" href={url('trousse/')}>
+      <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z" />
+      </svg>
+      <span>Trousse de crise</span>
+    </a>
+  )
+}
