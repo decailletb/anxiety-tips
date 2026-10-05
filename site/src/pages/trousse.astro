@@ -2,6 +2,7 @@
 import { getEntry, render } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import { url } from '../lib/url';
+import MyContacts from '../components/MyContacts.astro';
 
 const entry = await getEntry('pages', 'trousse');
 if (!entry) throw new Error('src/content/pages/trousse.md est introuvable');
@@ -12,6 +13,7 @@ const { Content } = await render(entry);
   <div class="trousse">
     <h1>{entry.data.title}</h1>
     <Content />
+    <MyContacts editable />
     <p class="help-link"><a href={url('aide/')}>Quand demander de l’aide</a></p>
   </div>
 </Base>
