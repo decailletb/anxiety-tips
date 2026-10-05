@@ -29,11 +29,11 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [x] R8 Contrôle croisé grossesse sur toutes les fiches + vérifier liens non ouverts (R2 : PDF Russ Harris, Shortform, Lieberman 2007)
 
 ### Phase 2 — Livrable 1 (`docs/guide-direct.md`)
-- [~] G1 Plan + trousse de crise + section aide
-- [~] G2 Sections ruminations, boule au ventre, contraste nausées
-- [~] G3 Sections nourriture/poids, sommeil, être seule
-- [~] G4 Signaux précoces + journal + livres
-- [ ] G5 Relecture (relecteur) + corrections
+- [x] G1 Plan + trousse de crise + section aide
+- [x] G2 Sections ruminations, boule au ventre, contraste nausées
+- [x] G3 Sections nourriture/poids, sommeil, être seule
+- [x] G4 Signaux précoces + journal + livres
+- [~] G5 Relecture (relecteur) + corrections
 
 ### Phase 3 — Squelette du site (parallèle à phase 2)
 - [~] S1 `docs/decisions.md` (techno, robots, alternatives)
