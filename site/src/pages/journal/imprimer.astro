@@ -1,0 +1,64 @@
+---
+import Base from '../../layouts/Base.astro';
+import { url } from '../../lib/url';
+import { questions } from '../../lib/journal';
+
+const days = [1, 2, 3, 4, 5, 6, 7];
+---
+
+<Base title="Grille de la semaine" description="Une grille papier de 7 jours pour le journal des signaux.">
+  <div class="print-sheet">
+    <p class="no-print"><a href={url('journal/')}>← Retour au journal</a></p>
+    <h1>Ma semaine</h1>
+    <p class="print-intro">
+      Une case par ligne, chaque jour. Pas besoin de tout remplir. Regarde une fois par semaine, pas plus :
+      observer, pas surveiller.
+    </p>
+    <p class="no-print">
+      Utilise « Imprimer » dans le menu de ton navigateur (ou le bouton ci-dessous). La grille tient sur une page en
+      paysage.
+    </p>
+    <p class="no-print" data-needs-js hidden>
+      <button type="button" class="btn" data-print>Imprimer</button>
+    </p>
+
+    <div class="grid-scroll">
+      <table class="paper-grid">
+        <caption class="visually-hidden">Grille de 7 jours : une case à cocher par réponse et par jour</caption>
+        <thead>
+          <tr>
+            <th scope="col">Jour</th>
+            {days.map(() => <th scope="col" class="day-col"><span class="date-line">……/……</span></th>)}
+          </tr>
+        </thead>
+        {
+          questions.map((q) => (
+            <tbody>
+              <tr class="q-row">
+                <th scope="rowgroup" colspan={days.length + 1}>{q.legend}</th>
+              </tr>
+              {q.options.map((o) => (
+                <tr>
+                  <th scope="row" class="opt">{o.label}</th>
+                  {days.map(() => (
+                    <td><span class="box" aria-hidden="true"></span></td>
+                  ))}
+                </tr>
+              ))}
+            </tbody>
+          ))
+        }
+        <tbody>
+          <tr class="q-row">
+            <th scope="rowgroup" colspan={days.length + 1}>Une note</th>
+          </tr>
+          <tr class="note-row">
+            <th scope="row" class="opt"><span class="visually-hidden">Note</span></th>
+            {days.map(() => <td></td>)}
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <script is:inline src={url('local.js')} defer></script>
+</Base>

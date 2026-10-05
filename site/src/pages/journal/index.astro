@@ -1,0 +1,97 @@
+---
+import Base from '../../layouts/Base.astro';
+import { url } from '../../lib/url';
+import { questions, NOTE_MAX } from '../../lib/journal';
+---
+
+<Base title="Mon journal" description="Un petit journal des signaux précoces, gardé uniquement sur ton téléphone.">
+  <div class="journal">
+    <h1>Mon journal</h1>
+    <p class="lead">Une minute par jour pour repérer tes signaux, tôt et en douceur.</p>
+    <p class="privacy-note">
+      <strong>Tout reste sur ce téléphone.</strong> Rien n’est envoyé nulle part : pas de compte, pas de serveur.
+    </p>
+
+    <noscript>
+      <p class="notice">
+        Le journal a besoin de JavaScript pour enregistrer tes réponses sur ce téléphone. Tu peux utiliser
+        la <a href={url('journal/imprimer/')}>grille papier à imprimer</a> à la place.
+      </p>
+    </noscript>
+    <p class="notice" data-storage-error hidden>
+      Ce navigateur ne permet pas d’enregistrer (navigation privée ?). Tu peux utiliser la
+      <a href={url('journal/imprimer/')}>grille papier à imprimer</a>.
+    </p>
+
+    <form id="journal-form" class="journal-form no-print" data-needs-js hidden>
+      <div class="field">
+        <label for="journal-date">Jour</label>
+        <input id="journal-date" name="date" type="date" required />
+      </div>
+
+      {
+        questions.map((q) => (
+          <fieldset class="choice" data-question={q.id} data-short={q.short}>
+            <legend>{q.legend}</legend>
+            <div class="chips">
+              {q.options.map((o) => (
+                <label class="chip">
+                  <input type="radio" name={q.id} value={o.value} data-tone={String(o.tone)} />
+                  <span>{o.label}</span>
+                </label>
+              ))}
+            </div>
+          </fieldset>
+        ))
+      }
+
+      <div class="field">
+        <label for="journal-note">Une note, si tu veux</label>
+        <textarea id="journal-note" name="note" rows="2" maxlength={NOTE_MAX}></textarea>
+      </div>
+
+      <div class="actions">
+        <button type="submit" class="btn btn-primary">Enregistrer</button>
+        <p class="status" role="status" aria-live="polite"></p>
+      </div>
+    </form>
+
+    <section class="weeks" aria-labelledby="weeks-title" data-needs-js hidden>
+      <h2 id="weeks-title">Mes dernières semaines</h2>
+      <p class="gentle">Regarde une fois par semaine, pas plus : observer, pas surveiller.</p>
+      <p class="legend-note">
+        Les couleurs sont seulement un repère : <span class="dot tone-0"></span> plutôt calme,
+        <span class="dot tone-1"></span> un peu, <span class="dot tone-2"></span> plus difficile. Les mots disent tout.
+      </p>
+      <ol class="days" id="journal-days"></ol>
+      <p class="no-print">
+        <button type="button" class="btn" data-print>Imprimer mes dernières semaines</button>
+      </p>
+    </section>
+
+    <section class="journal-data no-print" aria-labelledby="data-title">
+      <h2 id="data-title">Sur papier</h2>
+      <p>
+        <a class="btn btn-link" href={url('journal/imprimer/')}>Imprimer une grille vierge</a>
+      </p>
+
+      <div data-needs-js hidden>
+        <h2>Mes données</h2>
+        <p>
+          Tes réponses sont gardées dans ce navigateur seulement. Si tu effaces les données du navigateur, elles
+          disparaissent : tu peux les enregistrer dans un fichier de temps en temps.
+        </p>
+        <div class="data-actions">
+          <button type="button" class="btn" data-export>Enregistrer dans un fichier</button>
+          <label class="btn file-btn">
+            Reprendre depuis un fichier
+            <input type="file" accept="application/json,.json" data-import />
+          </label>
+          <button type="button" class="btn btn-quiet" data-clear>Tout effacer</button>
+        </div>
+        <p class="status" data-data-status role="status" aria-live="polite"></p>
+      </div>
+    </section>
+  </div>
+  <script is:inline src={url('local.js')} defer></script>
+</Base>
