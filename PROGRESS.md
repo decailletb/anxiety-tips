@@ -58,12 +58,12 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [x] M12 Relecture de tous les modules
 
 ### Phase 5 — Finitions
-- [ ] F1 Hors ligne testé (trousse au minimum)
-- [ ] F2 Accessibilité (contrastes, cibles, navigation clavier)
+- [~] F1 Hors ligne testé (trousse au minimum)
+- [~] F2 Accessibilité (contrastes, cibles, navigation clavier)
 - [x] F3 Vérification des liens
-- [ ] F4 Rendu mobile testé (captures)
+- [~] F4 Rendu mobile testé (captures)
 - [x] F5 README complet
-- [ ] F6 Vérification du site publié (noindex sur chaque page)
+- [x] F6 Vérification du site publié (noindex sur chaque page)
 - [ ] F7 Rapport final
 
 ## Décisions
@@ -83,6 +83,6 @@ Aucun.
 
 ## Reprise
 
-- Prochaine action : modules en rédaction (branche `docs/site-modules`, fichiers `site/src/content/modules/*.md`, `site/src/content/pages/{trousse,aide}.md`) ; S5/S6 sur `feat/offline-and-journal` (worktree). Puis M12 relecture.
+- Prochaine action : F1/F2/F4 (test hors ligne, accessibilité, captures mobiles) sur branche `fix/mobile-a11y-polish` (worktree dev-site), puis F7 rapport final. Si la branche n'existe pas : relancer dev-site pour ces tâches.
 - Fichiers : `PROGRESS.md`, `research/*`.
-- Branche active : `docs/site-modules`.
+- Branche active : `main` ; `fix/mobile-a11y-polish` pour F1/F2/F4.
