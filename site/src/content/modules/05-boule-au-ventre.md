@@ -21,7 +21,7 @@ Ce qui change, ce n'est pas la sensation. C'est **ce que tu lui fais dire**.
 
 Bonne nouvelle : tu as **déjà** la compétence. Il s'agit juste de transférer ce mode « connu, expliqué, ça passe » à la boule.
 
-> **Ton filet de sécurité :** si une douleur est différente de ta boule habituelle, nouvelle ou inhabituelle, appelle ta sage-femme ou ta maternité. C'est le suivi normal de grossesse. Une vérification suffit, pas besoin de vérifier en boucle. Voir aussi [Quand demander de l'aide](../../aide/).
+> **Ton filet de sécurité :** une douleur différente de ta boule habituelle ? Nouvelle, forte, ou avec d'autres signes ? Appelle ta sage-femme ou ta maternité. C'est le suivi normal de grossesse. Une vérification suffit, pas besoin de vérifier en boucle. Voir aussi [Quand demander de l'aide](../../aide/).
 
 ## Exercices
 
@@ -67,7 +67,9 @@ Bonne nouvelle : tu as **déjà** la compétence. Il s'agit juste de transférer
 5. Si la tête tourne, reprends ta respiration normale.
 6. Continue quelques minutes, puis reviens à ce que tu faisais.
 
-**Quand :** pendant ; aussi avant un repas. Si une chaleur douce te fait du bien : une bouillotte **tiède** dans sa housse, par-dessus un vêtement, sous les côtes ou dans le bas du dos, pas directement sur le ventre arrondi.
+**Quand :** pendant ; aussi avant un repas.
+
+Tu aimes la chaleur douce ? Une bouillotte **tiède** dans sa housse, par-dessus un vêtement. Sous les côtes ou dans le bas du dos, pas sur le ventre arrondi. En cas de doute, demande à ta sage-femme.
 
 ### Surfer la vague
 
@@ -89,6 +91,7 @@ Bonne nouvelle : tu as **déjà** la compétence. Il s'agit juste de transférer
 - Tu sais déjà vivre un ventre désagréable sans t'inquiéter : tu as cette compétence.
 - Connue, nommée, avec une fin : la boule perd son étiquette « danger ».
 - Main, souffle doux, quelques pas : le corps se calme même si la tête n'écoute pas.
+
 ## Sources
 
 - [APS Observer – Interoception](https://www.psychologicalscience.org/observer/interoception-how-we-understand-our-bodys-inner-sensations) (EN)

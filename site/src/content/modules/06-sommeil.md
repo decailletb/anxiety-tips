@@ -20,7 +20,7 @@ Bonne nouvelle : rester allongée au calme repose déjà. Une nuit difficile n'e
 
 **Comment :**
 
-1. En début de soirée, assieds-toi avec un carnet, ailleurs que dans ton lit.
+1. En début de soirée, prends un carnet et installe-toi ailleurs que dans ton lit.
 2. Écris chaque souci en une ligne.
 3. À côté, note un petit pas possible, ou « à demander à quelqu'un », ou « pas de solution ce soir ».
 4. Ajoute deux ou trois phrases de nuit, par exemple : « Me reposer, c'est déjà bien. » « Une nuit moins bonne, ça se rattrape. »
@@ -36,8 +36,8 @@ Bonne nouvelle : rester allongée au calme repose déjà. Une nuit difficile n'e
 **Comment :**
 
 1. Lumière éteinte, choisis un mot neutre et assez long, par exemple « BALCON ».
-2. Prends sa première lettre. Pense à un mot qui commence par elle, « bouteille », et imagine-le un instant.
-3. Passe à un autre mot sans lien, « baleine », puis « bonnet ». Imagine-les à leur tour.
+2. Pars de la première lettre. Trouve un mot qui commence par elle, « bouteille », et vois-le un instant dans ta tête.
+3. Enchaîne avec un mot qui n'a rien à voir, « baleine », puis « bonnet ». Vois-les à leur tour.
 4. Quand tu en as assez, passe à la lettre suivante.
 5. Si un mot ramène un souci, laisse-le tomber et prends le suivant.
 6. Si l'esprit repart, reviens au mot, sans te juger.
@@ -52,7 +52,7 @@ Bonne nouvelle : rester allongée au calme repose déjà. Une nuit difficile n'e
 
 1. Au lit, lumière éteinte, installe-toi confortablement.
 2. Ne regarde pas l'heure : tourne le réveil, pose le téléphone loin.
-3. Garde les yeux ouverts dans le noir. Lâche l'idée de « devoir » dormir.
+3. Laisse tes yeux ouverts dans le noir. Tu n'as plus à « réussir » à dormir.
 4. Dis-toi doucement : « Je reste juste éveillée. Le sommeil viendra quand il sera prêt. »
 5. Ne lutte pas : tu arrêtes simplement de chercher le sommeil.
 
@@ -72,7 +72,9 @@ Bonne nouvelle : rester allongée au calme repose déjà. Une nuit difficile n'e
 
 **Quand :** pendant. Pas de chronomètre : le repère, c'est « quand ça tourne trop ». Si tu es très fatiguée ou mal installée, tu peux aussi rester allongée au calme.
 
-> Le lendemain, garde tes activités prévues, à un rythme doux. Pour le confort physique (position, coussins, crampes, remontées acides) ou si tes nuits restent difficiles, parles-en à ta sage-femme ou à ton/ta gynécologue.
+> Le lendemain, garde tes activités prévues, à un rythme doux.
+>
+> Confort physique (position, coussins, crampes, remontées acides) ou nuits qui restent difficiles : parles-en à ta sage-femme ou à ton/ta gynécologue.
 
 ## À retenir
 

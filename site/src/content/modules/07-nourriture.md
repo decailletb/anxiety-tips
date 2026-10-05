@@ -29,7 +29,7 @@ Ici, pas de règles, pas de comptes. Juste des façons plus douces de traverser 
 
 ### Assez bien, pas parfait
 
-**Pourquoi ça t'aide :** l'anxiété transforme vite l'assiette en examen. Retirer la note enlève du carburant aux ruminations.
+**Pourquoi ça t'aide :** en phase anxieuse, chaque assiette peut vite ressembler à un examen. Sans note à obtenir, les ruminations ont moins de prise.
 
 **Comment :**
 
@@ -47,7 +47,7 @@ Ici, pas de règles, pas de comptes. Juste des façons plus douces de traverser 
 
 **Comment :**
 
-1. Un jour calme, repère quelques aliments simples, doux pour l'estomac, que tu aimes et qui sont vite prêts. Le tout-prêt est tout à fait valable.
+1. Un jour calme, repère quelques aliments que tu aimes, simples, doux pour l'estomac et vite prêts. Le tout-prêt est tout à fait valable.
 2. En phase anxieuse, **propose** une petite chose à ton corps, sans obliger, sans devoir finir.
 3. Si c'est possible, partage ce moment avec quelqu'un, appelle un proche, ou mets une musique agréable. Parle d'autre chose que de nourriture.
 4. Si ça ne passe pas, n'insiste pas. Repropose un peu plus tard.
@@ -57,26 +57,28 @@ Ici, pas de règles, pas de comptes. Juste des façons plus douces de traverser 
 
 ### Lâcher la vérification
 
-**Pourquoi ça t'aide :** te regarder, chercher sur internet ou redemander « c'est normal ? » soulage un instant, puis relance l'inquiétude. Moins tu vérifies, plus l'inquiétude s'apaise avec le temps.
+**Pourquoi ça t'aide :** monter sur la balance, te regarder, chercher sur internet ou redemander « c'est normal ? » soulage un instant. Puis l'inquiétude revient. Moins tu vérifies, plus elle s'apaise avec le temps.
+
+Tu n'as pas à te peser toi-même : le suivi du poids pendant la grossesse, c'est le rôle de ta sage-femme ou de ton/ta gynécologue.
 
 **Comment :**
 
 1. Remarque l'envie : « Ah, l'envie de contrôler. »
 2. Retarde : « Pas maintenant. Plus tard, si j'en ai encore besoin. »
 3. Occupe tes mains ou ton attention : un appel, quelques pas, une activité manuelle.
-4. Rappelle-toi : « C'est ma sage-femme qui suit ça. »
+4. Rappelle-toi : « C'est ma sage-femme qui suit ça, aux consultations. »
 5. Note ta question sur une liste « à demander au prochain rendez-vous ».
 
-**Quand :** pendant, quand l'envie arrive.
+**Quand :** pendant, quand l'envie arrive. Avant : si ça t'aide, range ce qui facilite la vérification.
 
-> Face à la pensée « si je ne mange pas, je vais nuire au bébé », pas besoin de répondre. Utilise « J'ai la pensée que… » (module [Les ruminations](../04-ruminations/)), puis confie la question à ton suivi de grossesse.
+> Face à la pensée « si je ne mange pas, je vais perdre du poids » ou « je vais nuire au bébé », pas besoin de répondre. Utilise « J'ai la pensée que… » (module [Les ruminations](../04-ruminations/)), puis confie la question à ton suivi de grossesse.
 
 ## À retenir
 
 - Une faim qui s'éteint en phase anxieuse, c'est l'alarme : attendu, et passager.
 - Tu proposes, tu n'obliges pas. Assez bien suffit.
 - Appétit et poids : ta sage-femme ou ton/ta gynécologue suit ça, pas toi seule.
-- Si tu n'arrives plus du tout à garder ce que tu manges ou bois, regarde la page [Demander de l'aide](../../aide/).
+- Si tu n'arrives plus du tout à garder ce que tu manges ou bois, regarde la page [Quand demander de l'aide](../../aide/).
 
 ## Sources
 

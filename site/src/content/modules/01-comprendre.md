@@ -6,15 +6,19 @@ summary: "En crise, la logique ne marche plus : c'est normal, et on passe par le
 
 ## En bref
 
-En pleine crise, ce que tu sais sur ton anxiété ne t'aide plus : **c'est normal**, l'alarme intérieure fait passer le raisonnement au second plan. Alors on ne débat pas avec la peur, on passe **par le corps** (souffle, mains, quelques pas) et **par l'attention** (ce que tu vois, entends, touches).
+En pleine crise, ce que tu sais sur ton anxiété ne t'aide plus. **C'est normal.** L'alarme intérieure fait passer le raisonnement au second plan.
 
-Une crise est une vague : elle monte, plafonne, puis redescend, et ton travail est seulement de la traverser. **En crise**, ouvre la [trousse](../../trousse/) en un tap ; **un jour calme**, lis un seul module et teste un seul exercice.
+Alors on ne débat pas avec la peur. On passe **par le corps** : souffle, mains, quelques pas. Et **par l'attention** : ce que tu vois, entends, touches.
+
+Une crise est une vague. Elle monte, plafonne, puis redescend. Ton travail est seulement de la traverser.
+
+**En crise**, ouvre la [trousse](../../trousse/). **Un jour calme**, lis un seul module et teste un seul exercice.
 
 ## Exercices
 
 ### Nommer la vague
 
-**Pourquoi ça t'aide :** une phrase toute faite marche quand le raisonnement ne marche plus. Mettre un nom sur ce qui arrive apaise déjà un peu l'alarme, et te rappelle que la vague a une fin.
+**Pourquoi ça t'aide :** une phrase préparée reste à portée quand le raisonnement ne répond plus. Mettre un nom sur ce qui arrive apaise déjà un peu l'alarme. Et ça te rappelle que la vague a une fin.
 
 **Comment :**
 

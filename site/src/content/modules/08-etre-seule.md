@@ -17,7 +17,8 @@ Avoir du mal à être seule quand l'anxiété monte, ce n'est **pas un défaut**
 **Pourquoi ça t'aide :** en crise, choisir quoi faire est difficile. Une liste écrite un jour calme décide à ta place, et un temps vide devient un temps occupé.
 
 **Comment :**
-1. Un jour calme, éventuellement avec un proche, écris quelques activités courtes qui occupent les mains ou l'attention : ranger un tiroir, cuisiner simple, dessiner, appeler une amie.
+
+1. Un jour calme, seule ou avec un proche, écris quelques activités courtes. Choisis-les pour occuper tes mains ou ton attention : ranger un tiroir, cuisiner simple, dessiner, appeler une amie.
 2. Fais deux colonnes : « chez moi » et « dehors ». Dans « dehors », note deux ou trois lieux refuges proches : café, bibliothèque, parc, marché.
 3. Ajoute une playlist « refuge » préparée à l'avance.
 4. Mets la carte où tu la vois : frigo, téléphone, porte-monnaie.
@@ -27,9 +28,10 @@ Avoir du mal à être seule quand l'anxiété monte, ce n'est **pas un défaut**
 
 ### Une présence à distance
 
-**Pourquoi ça t'aide :** souvent, ce qui manque n'est pas une conversation, mais une présence. Une voix ou un visage en arrière-plan redonne un appui à ton attention.
+**Pourquoi ça t'aide :** souvent, tu n'as pas besoin de parler. Tu as besoin de sentir quelqu'un près de toi. Une voix ou un visage en fond donne à ton attention un point où se poser.
 
 **Comment :**
+
 1. Un jour calme, convenez avec deux ou trois proches d'un signal simple : « Je suis dans un moment, tu peux m'envoyer un mot ? »
 2. Appel bref : parlez d'autre chose que de l'angoisse, d'un détail de la journée.
 3. Ou appel vidéo, téléphone posé : chacun fait sa tâche, presque sans parler.
@@ -43,6 +45,7 @@ Avoir du mal à être seule quand l'anxiété monte, ce n'est **pas un défaut**
 **Pourquoi ça t'aide :** le moment où l'autre part est souvent celui où l'angoisse décolle. Un rituel toujours identique rend ce passage prévisible.
 
 **Comment :**
+
 1. Au départ : un câlin, une phrase toujours la même, l'heure approximative du retour.
 2. Juste après la porte, lance tout de suite la première action prévue : musique, carte, sortie.
 3. Garde à portée un objet doux qui « porte » la présence de l'autre : pull, plaid léger, coussin.
@@ -55,6 +58,7 @@ Avoir du mal à être seule quand l'anxiété monte, ce n'est **pas un défaut**
 **Pourquoi ça t'aide :** éviter toute solitude soulage sur le moment, mais entretient la peur. Des moments courts et choisis te donnent des preuves : « je peux être seule, et ça va ».
 
 **Comment :**
+
 1. Un jour où l'anxiété est basse, choisis un moment seule court et réaliste.
 2. Prévois ce que tu feras pendant, et quand ça se termine.
 3. Pendant, laisse l'inconfort être là sans appeler tout de suite. Utilise ta carte.
@@ -63,14 +67,7 @@ Avoir du mal à être seule quand l'anxiété monte, ce n'est **pas un défaut**
 
 **Quand :** avant, les jours calmes. En pleine crise forte, pas d'exercice : utilise la présence à distance ou la [trousse](../../trousse/).
 
-## À retenir
-
-- Avoir du mal à être seule en phase anxieuse, c'est humain, pas un défaut.
-- Prépare tes appuis quand ça va : carte, lieux refuges, présence à distance.
-- Un rituel simple rend les départs plus doux.
-- Reprends confiance par petits moments seule choisis, les jours calmes.
-
-> ### Pour la personne qui t'accompagne
+> **Pour la personne qui t'accompagne**
 >
 > Ce qui aide le plus, c'est ta **présence**, pas des certitudes répétées. Redire « tout ira bien » calme quelques minutes, puis le doute revient.
 >
@@ -82,6 +79,13 @@ Avoir du mal à être seule quand l'anxiété monte, ce n'est **pas un défaut**
 > - **Au retour** : « Raconte-moi une chose qui a marché. »
 > - **À éviter** : répondre dix fois à la même question, promettre que rien n'arrivera jamais, dire « c'est rien ».
 > - Et prends soin de toi aussi.
+
+## À retenir
+
+- Avoir du mal à être seule en phase anxieuse, c'est humain, pas un défaut.
+- Prépare tes appuis quand ça va : carte, lieux refuges, présence à distance.
+- Un rituel simple rend les départs plus doux.
+- Reprends confiance par petits moments seule choisis, les jours calmes.
 
 ## Sources
 

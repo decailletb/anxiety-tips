@@ -30,10 +30,11 @@ En crise, tu n'arrives pas à choisir quoi faire. Une trousse écrite à l'avanc
 
 **Comment :**
 
-1. Sur ton téléphone, ajoute la page [trousse](../../trousse/) à ton écran d'accueil ou en favori.
-2. Recopie ta version avec tes mots dans une note du téléphone.
-3. Si tu aimes le papier, garde aussi une copie dans ton porte-monnaie ou sur le frigo.
-4. Relis-la de temps en temps quand tout va bien, pour qu'elle te devienne familière.
+1. Sur ton téléphone, ouvre la page [trousse](../../trousse/). Dans le menu du navigateur, choisis « Ajouter à l'écran d'accueil » (sur iPhone : bouton de partage, puis « Sur l'écran d'accueil »).
+2. Elle s'ouvre alors en un tap, même sans connexion.
+3. Recopie ta version avec tes mots dans une note du téléphone.
+4. Si tu aimes le papier, garde aussi une copie dans ton porte-monnaie ou sur le frigo.
+5. Relis-la de temps en temps quand tout va bien, pour qu'elle te devienne familière.
 
 **Quand :** avant (préparer), pendant (l'ouvrir).
 
@@ -43,9 +44,9 @@ En crise, tu n'arrives pas à choisir quoi faire. Une trousse écrite à l'avanc
 
 **Comment :**
 
-1. Un jour calme, choisis deux ou trois personnes que tu peux contacter quand ça monte.
-2. Si tu veux, convenez ensemble d'un message simple : « Tu peux m'appeler ? »
-3. Ajoute leurs noms et numéros sur la page [trousse](../../trousse/), ainsi que ta sage-femme et ta maternité.
+1. Un jour calme, choisis jusqu'à trois contacts à joindre quand ça monte : une proche, ta sage-femme, ta maternité.
+2. Avec tes proches, si tu veux, convenez d'un message simple : « Tu peux m'appeler ? »
+3. Ajoute leurs noms et numéros sur la page [trousse](../../trousse/).
 4. Ces contacts restent uniquement sur ton téléphone : ils ne sont envoyés nulle part.
 5. Ils apparaissent aussi sur la page [Quand demander de l'aide](../../aide/).
 
@@ -56,7 +57,7 @@ En crise, tu n'arrives pas à choisir quoi faire. Une trousse écrite à l'avanc
 - Ta trousse se prépare un jour calme, avec tes mots.
 - Peu de lignes, une action par ligne, un verbe en tête.
 - Sur ton téléphone, à un tap, avec tes contacts.
-- Après chaque phase, garde ce qui a aidé, enlève le reste. Pour aller plus loin, vois les [signaux précoces](../02-signaux-precoces/).
+- Après chaque phase, garde ce qui a aidé, enlève le reste. Pour aller plus loin : le module [Repérer les signaux précoces](../02-signaux-precoces/).
 
 ## Sources
 

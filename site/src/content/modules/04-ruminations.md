@@ -75,7 +75,7 @@ Ici, pas de débat avec la pensée. On **change de terrain** : vers le concret, 
 
 - Tu n'as pas besoin de gagner le débat avec la pensée.
 - Repère « ça tourne », puis change de terrain : concret, mains, sens, plus tard.
-- Chaque retour compte, même si la pensée revient.
+- Chaque fois que tu reviens, ça compte. Même si la pensée repart.
 
 ## Sources
 

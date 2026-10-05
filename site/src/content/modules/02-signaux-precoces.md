@@ -19,8 +19,14 @@ On ne se surveille pas toute la journée. On observe **un court moment, toujours
 **Comment :**
 1. Ouvre le [journal](../../journal/). Tu préfères le papier ? Imprime la [grille](../../journal/imprimer/).
 2. Choisis un moment fixe, par exemple le soir, toujours le même.
-3. Coche en quelques secondes : sommeil, ruminations, boule au ventre, appétit (comme d'habitude, moins, plus), énergie, « seule aujourd'hui ».
-4. Si tu veux, ajoute un mot dans la note : fatigue, rendez-vous, événement.
+3. Touche une réponse par ligne, en quelques secondes :
+   - Sommeil : bien, moyen ou difficile.
+   - Ruminations : aucune, un peu ou beaucoup.
+   - Boule au ventre : aucune, un peu ou beaucoup.
+   - Appétit : comme d'habitude, moins ou très peu.
+   - Énergie : bonne, moyenne ou basse.
+   - Seule aujourd'hui ? Oui ou non.
+4. Si tu veux, ajoute un mot dans « Une note » : fatigue, rendez-vous, événement.
 5. Remplis-le aussi les bons jours. Ce sont eux qui servent de repère.
 6. Referme. Pas de nouveau coup d'œil avant le lendemain.
 
@@ -34,7 +40,7 @@ On ne se surveille pas toute la journée. On observe **un court moment, toujours
 
 **Comment :**
 1. Choisis un jour de la semaine, à un moment calme.
-2. Ouvre la vue des 4 dernières semaines dans le [journal](../../journal/).
+2. Dans le [journal](../../journal/), ouvre « Mes dernières semaines ».
 3. Repère une période plus difficile, puis regarde les jours d'avant.
 4. Demande-toi : « Qu'est-ce qui avait bougé ? » Par exemple un sommeil plus léger, un ventre serré au réveil, des pensées qui tournent le soir.
 5. Note les signaux qui reviennent, puis referme sans analyser plus loin.

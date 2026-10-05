@@ -1,7 +1,7 @@
 ---
 title: "Pendant la crise"
 order: 3
-summary: "Quatre outils simples pour le moment où ça monte : nommer, souffler doux, revenir aux sens, bouger et demander une présence."
+summary: "Quatre outils simples pour le moment où ça monte : nommer et souffler doux, revenir aux sens, occuper ton corps, demander une présence."
 ---
 
 ## En bref
