@@ -23,10 +23,10 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [x] R2 `boule-au-ventre-et-sens-des-sensations.md` (inclut contraste nausées / boule au ventre)
 - [~] R3 `nourriture-et-poids.md` (qualitatif, grossesse)
 - [~] R4 `sommeil.md` (compatible grossesse)
-- [~] R5 `etre-seule.md`
+- [x] R5 `etre-seule.md`
 - [x] R6 `signaux-precoces-et-trousse-de-crise.md` (journal, patterns, ancrage, respiration douce)
 - [~] R7 `ressources-suisse.md` (numéros vérifiés) + `livres.md` (disponibles en Suisse, FR)
-- [ ] R8 Contrôle croisé grossesse sur toutes les fiches
+- [ ] R8 Contrôle croisé grossesse sur toutes les fiches + vérifier liens non ouverts (R2 : PDF Russ Harris, Shortform, Lieberman 2007)
 
 ### Phase 2 — Livrable 1 (`docs/guide-direct.md`)
 - [ ] G1 Plan + trousse de crise + section aide
