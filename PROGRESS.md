@@ -44,17 +44,17 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [~] S6 Journal des signaux (localStorage) + version imprimable
 
 ### Phase 4 — Modules (rédacteurs en parallèle + relecture)
-- [~] M1 Comprendre tes crises
+- [x] M1 Comprendre tes crises
 - [x] M2 Repérer les signaux précoces
-- [~] M3 Pendant la crise
+- [x] M3 Pendant la crise
 - [x] M4 Les ruminations
 - [x] M5 La boule au ventre
 - [x] M6 Le sommeil
 - [x] M7 La nourriture, avec douceur
 - [x] M8 Quand être seule est difficile
-- [~] M9 Ta trousse de crise
+- [x] M9 Ta trousse de crise
 - [x] M10 Lectures recommandées
-- [~] M11 Quand demander de l'aide
+- [x] M11 Quand demander de l'aide
 - [ ] M12 Relecture de tous les modules
 
 ### Phase 5 — Finitions
