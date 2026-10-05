@@ -10,7 +10,7 @@ Tu es développeur·se web front-end orienté accessibilité. Lis d'abord `CLAUD
 - Astro statique, **zéro JS** sauf : service worker (hors ligne) et journal local (localStorage, rien envoyé ailleurs).
 - Mobile d'abord, utilisable d'une main : cibles tactiles ≥ 48 px, grande typo (≥ 18 px corps), beaucoup d'espace, contraste WCAG AA minimum.
 - Bouton « Trousse de crise » **fixe** en bas d'écran sur toutes les pages (zone du pouce), 1 tap.
-- Couleurs douces, mode sombre via `prefers-color-scheme`, `prefers-reduced-motion` respecté, aucune animation agressive.
+- Thème clair « jour » par défaut (demande de l'utilisateur), même si le téléphone est en sombre ; mode nuit seulement via l'interrupteur manuel (voir `docs/decisions.md` section 8). `prefers-reduced-motion` respecté, aucune animation agressive.
 - Polices système uniquement. Aucune ressource externe, aucun analytics, aucun traqueur.
 - `<meta name="robots" content="noindex, nofollow">` sur **chaque** page, pas de sitemap. `robots.txt` sans Disallow.
 - PWA : `manifest.webmanifest` + service worker qui pré-cache au minimum la trousse de crise, l'accueil, le CSS ; stratégie cache-first pour pages visitées.
