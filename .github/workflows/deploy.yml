@@ -44,6 +44,9 @@ jobs:
       - name: Check no-indexing and external resources
         run: npm run check:dist
 
+      - name: Check internal links
+        run: npm run check:links
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v5
         with:
