@@ -664,6 +664,49 @@ Avoir du mal à être seule pendant une phase, ce n'est donc **pas un défaut**.
 
 ---
 
+## Ton entraînement quotidien
+
+L'idée vient du fitness neuro-émotionnel (Astrid Deballon) : s'entraîner chaque jour, comme pour un muscle. C'est une approche de coaching, sans études propres. Ce qui suit n'est pas son programme : on n'en garde que l'idée d'entraînement, et des gestes simples qui ont un appui indépendant.
+
+Tu t'entraînes **quand ça va**, cinq minutes par jour. Pendant une phase, la logique ne marche pas, mais les habitudes, si : les gestes déjà connus reviennent presque tout seuls.
+
+#### Ta routine de 5 minutes
+
+**Pourquoi ça t'aide :** pendant une phase, tu n'as rien à inventer. Tu refais ce que tu connais. Accrochée à une habitude existante, la routine s'oublie moins.
+
+**Comment :**
+1. Choisis un moment fixe, juste après une habitude : par exemple, après le café du matin.
+2. Debout, pieds au sol : sens ton poids descendre. Expire lentement, sans pause ni souffle retenu.
+3. Une main sur le cœur, une main sur le ventre. Sens la chaleur de tes mains.
+4. Un mot pour ce qui est là : « Fatigue est là. » Sans chercher pourquoi.
+5. Ton souvenir-ressource, une minute.
+6. Une intention simple pour la journée : « Une chose à la fois. »
+
+Un jour oublié ? Tu reprends le lendemain. Essaie sept jours de suite, et note un mot chaque soir dans la case « Une note » du journal du site.
+
+**Quand :** avant, chaque jour, surtout quand ça va. Pendant une phase : la même routine, ou juste une étape.
+
+#### Ton souvenir-ressource
+
+**Pourquoi ça t'aide :** revivre un bon souvenir précis peut adoucir la réponse au stress. C'est une image, pas un raisonnement. Le préparer d'avance t'évite de le chercher au mauvais moment.
+
+**Comment :**
+1. Un jour calme, choisis un ou deux souvenirs agréables et précis : « ce matin-là, sur la terrasse », pas « mes vacances ».
+2. Retrouve des détails : ce que tu voyais, entendais, sentais.
+3. Note-les en quelques mots dans ton téléphone.
+4. Pendant une phase, relis ta note et laisse venir le souvenir une trentaine de secondes.
+5. Si rien ne vient, ou si ça rend triste, lâche-le sans forcer. Passe à la main sur le cœur ou à l'ancrage debout.
+
+**Quand :** avant (préparer, pratiquer dans ta routine), pendant (une courte pause).
+
+**À retenir**
+
+- Tu t'entraînes quand ça va, pour que les gestes viennent tout seuls pendant une phase.
+- Cinq minutes, au même moment, accrochées à une habitude.
+- Un souvenir qui ne vient pas, tu le lâches. Un jour oublié, tu reprends.
+
+---
+
 ## Repérer les signaux précoces
 
 Le déclencheur d'une phase reste souvent inconnu. Mais l'**entrée dans le mode rumination**, elle, se repère : de petits changements discrets, souvent les mêmes d'une phase à l'autre. Les voir tôt, c'est pouvoir sortir tes outils tôt.
@@ -885,6 +928,15 @@ Le contenu de ce guide est une reformulation libre. Les liens ci-dessous permett
 - [Psycom – Troubles anxieux](https://www.psycom.org/sinformer/la-sante-mentale/les-troubles-psy/anxiete-phobies-et-toc/) (FR)
 - [Pittsburgh OCD & Anxiety – Partners and reassurance seeking](https://pittsburghocdtreatment.com/for-partners-and-family-how-to-respond-to-reassurance-seeking-without-feeding-ocd/) (EN)
 - [Psychology Today – Break the reassurance cycle](https://www.psychologytoday.com/us/blog/liberate-yourself/202105/help-anxious-loved-one-break-the-reassurance-cycle) (EN)
+
+### Ton entraînement quotidien
+
+- [Le programme Fitness Neuro-Émotionnel – Academy Astrid D.](https://academy.astriddeballon.com/programme-fitness-neuro-emotionnel) (FR) – source de l'idée d'entraînement quotidien
+- [Aligné(e), Astrid Deballon – Éditions Larousse](https://www.editions-larousse.fr/livre/alignee-9782036082694/) (FR)
+- [BPS Research Digest – The calming power of reminiscing about happy times (Speer & Delgado)](https://www.bps.org.uk/research-digest/new-evidence-shows-calming-power-reminiscing-about-happy-times) (EN)
+- [Chen et al. 2015 – Remembrance of happy things past (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4347421/) (EN)
+- [PsyPost – Self-soothing touch reduces cortisol (Dreisoerner et al. 2021)](https://www.psypost.org/receiving-a-hug-or-engaging-in-self-soothing-touch-reduces-cortisol-levels-following-a-stressful-experience/) (EN)
+- [NHS – Breathing exercises for stress](https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/) (EN)
 
 ### Repérer les signaux précoces
 
