@@ -101,7 +101,7 @@ Aucun.
 
 - Prochaine action : F8 — refaire les captures mobiles (390 px, thème jour + 1–2 en mode nuit) du site publié avec le contenu recadré, remplacer `docs/screenshots/*`, mettre à jour la liste dans `docs/qa-report.md`. Ensuite : rien d'obligatoire (voir « Idées d'amélioration »).
 - Fichiers : `docs/screenshots/`, `docs/qa-report.md`.
-- Branche active : `main`.
+- Branche active : `docs/refresh-screenshots`.
 
 ## Rapport final
 
