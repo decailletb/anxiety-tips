@@ -75,8 +75,8 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 
 ### Phase 7 — Demande : fitness neuro-émotionnel (Astrid Deballon)
 - [x] N1 Recherche sourcée + verdict d'utilité (`research/fitness-neuro-emotionnel.md`)
-- [~] N2 Si utile : module 11 « inspiré de » (pas présenté comme un suivi réel par l'autrice), personnalisé au profil, compatible grossesse
-- [ ] N3 Relecture + fusion + déploiement
+- [x] N2 Si utile : module 11 « inspiré de » (pas présenté comme un suivi réel par l'autrice), personnalisé au profil, compatible grossesse
+- [x] N3 Relecture + fusion + déploiement
 
 ## Décisions
 
@@ -99,9 +99,9 @@ Aucun.
 
 ## Reprise
 
-- Prochaine action : N1 (recherche fitness neuro-émotionnel, chercheur), puis N2/N3. Ensuite F8 — refaire les captures mobiles (390 px, thème jour + 1–2 en mode nuit) du site publié avec le contenu recadré, remplacer `docs/screenshots/*`, mettre à jour la liste dans `docs/qa-report.md`. Ensuite : rien d'obligatoire (voir « Idées d'amélioration »).
+- Prochaine action : F8 — refaire les captures mobiles (390 px, thème jour + 1–2 en mode nuit) du site publié avec le contenu recadré, remplacer `docs/screenshots/*`, mettre à jour la liste dans `docs/qa-report.md`. Ensuite : rien d'obligatoire (voir « Idées d'amélioration »).
 - Fichiers : `docs/screenshots/`, `docs/qa-report.md`.
-- Branche active : `docs/neuro-emotional-fitness`.
+- Branche active : `main`.
 
 ## Rapport final
 
@@ -111,7 +111,7 @@ Aucun.
 ### Ce qui a été fait
 - Recherche FR + EN : 7 fiches sourcées dans `research/` (ruminations, sensations / boule au ventre, nourriture, sommeil, être seule, signaux précoces, ressources suisses + livres), contrôle croisé sécurité et liens.
 - Livrable 1 : guide complet, relu deux fois, recadré selon le retour de l'utilisateur (`research/cadrage-v2.md`) : l'anxiété n'est pas liée à la grossesse ; une « crise » = un mode où l'on reste bloquée à ruminer en continuant à fonctionner. Trousse de 7 actions orientées « décrocher de la boucle ».
-- Site Astro 7 statique : 10 modules (format En bref / Exercices Pourquoi-Comment-Quand / À retenir / Sources), page Trousse en un tap (bouton fixe sur chaque page), page Aide (numéros suisses vérifiés le 5 octobre 2026), Journal des signaux 100 % local (export/import, vue 4 semaines, grille imprimable), jusqu'à 3 contacts personnels stockés uniquement sur le téléphone.
+- Site Astro 7 statique : 11 modules (dont « Ton entraînement quotidien », inspiré du fitness neuro-émotionnel) (format En bref / Exercices Pourquoi-Comment-Quand / À retenir / Sources), page Trousse en un tap (bouton fixe sur chaque page), page Aide (numéros suisses vérifiés le 5 octobre 2026), Journal des signaux 100 % local (export/import, vue 4 semaines, grille imprimable), jusqu'à 3 contacts personnels stockés uniquement sur le téléphone.
 - Hors ligne : service worker qui met en cache toutes les pages ; testé sur le site publié.
 - Thème clair « jour » par défaut, mode nuit optionnel ; accessibilité (0 violation axe, cibles ≥ 48 px, contrastes AA) ; espaces insécables françaises.
 - CI : build + vérifications bloquantes (noindex, pas de sitemap, aucune ressource externe, liste hors ligne, liens internes et ancres) avant chaque déploiement.
