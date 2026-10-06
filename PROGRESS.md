@@ -65,7 +65,7 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [x] F5 README complet
 - [x] F6 Vérification du site publié (noindex sur chaque page)
 - [x] F7 Rapport final
-- [~] F8 Rafraîchir `docs/screenshots/` avec le contenu recadré (les captures actuelles montrent l'ancien contenu)
+- [x] F8 Rafraîchir `docs/screenshots/` avec le contenu recadré (les captures actuelles montrent l'ancien contenu)
 
 ### Phase 6 — Recadrage demandé par l'utilisateur
 - [x] C1 Règles + brief `research/cadrage-v2.md` (anxiété non liée à la grossesse ; crise = mode rumination en continuant à fonctionner)
@@ -99,9 +99,9 @@ Aucun.
 
 ## Reprise
 
-- Prochaine action : F8 — refaire les captures mobiles (390 px, thème jour + 1–2 en mode nuit) du site publié avec le contenu recadré, remplacer `docs/screenshots/*`, mettre à jour la liste dans `docs/qa-report.md`. Ensuite : rien d'obligatoire (voir « Idées d'amélioration »).
+- Prochaine action : rien d'obligatoire ; voir « Idées d'amélioration ».
 - Fichiers : `docs/screenshots/`, `docs/qa-report.md`.
-- Branche active : `docs/refresh-screenshots`.
+- Branche active : `main`.
 
 ## Rapport final
 
