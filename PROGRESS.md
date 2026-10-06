@@ -71,7 +71,12 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [x] C1 Règles + brief `research/cadrage-v2.md` (anxiété non liée à la grossesse ; crise = mode rumination en continuant à fonctionner)
 - [x] C2 Réécriture guide + modules + trousse + aide (branche `docs/rumination-reframe`)
 - [x] C3 Relecture du recadrage
-- [~] C4 Thème clair « jour » par défaut, mode nuit optionnel (branche `fix/mobile-a11y-polish`)
+- [x] C4 Thème clair « jour » par défaut, mode nuit optionnel (branche `fix/mobile-a11y-polish`)
+
+### Phase 7 — Demande : fitness neuro-émotionnel (Astrid Deballon)
+- [~] N1 Recherche sourcée + verdict d'utilité (`research/fitness-neuro-emotionnel.md`)
+- [ ] N2 Si utile : module 11 « inspiré de » (pas présenté comme un suivi réel par l'autrice), personnalisé au profil, compatible grossesse
+- [ ] N3 Relecture + fusion + déploiement
 
 ## Décisions
 
@@ -93,9 +98,9 @@ Aucun.
 
 ## Reprise
 
-- Prochaine action : F8 — refaire les captures mobiles (390 px, thème jour + 1–2 en mode nuit) du site publié avec le contenu recadré, remplacer `docs/screenshots/*`, mettre à jour la liste dans `docs/qa-report.md`. Ensuite : rien d'obligatoire (voir « Idées d'amélioration »).
+- Prochaine action : N1 (recherche fitness neuro-émotionnel, chercheur), puis N2/N3. Ensuite F8 — refaire les captures mobiles (390 px, thème jour + 1–2 en mode nuit) du site publié avec le contenu recadré, remplacer `docs/screenshots/*`, mettre à jour la liste dans `docs/qa-report.md`. Ensuite : rien d'obligatoire (voir « Idées d'amélioration »).
 - Fichiers : `docs/screenshots/`, `docs/qa-report.md`.
-- Branche active : `main`.
+- Branche active : `docs/neuro-emotional-fitness`.
 
 ## Rapport final
 
