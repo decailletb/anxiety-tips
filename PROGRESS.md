@@ -74,14 +74,15 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 - [x] C4 Thème clair « jour » par défaut, mode nuit optionnel (branche `fix/mobile-a11y-polish`)
 
 ### Phase 7 — Demande : fitness neuro-émotionnel (Astrid Deballon)
-- [~] N1 Recherche sourcée + verdict d'utilité (`research/fitness-neuro-emotionnel.md`)
-- [ ] N2 Si utile : module 11 « inspiré de » (pas présenté comme un suivi réel par l'autrice), personnalisé au profil, compatible grossesse
+- [x] N1 Recherche sourcée + verdict d'utilité (`research/fitness-neuro-emotionnel.md`)
+- [~] N2 Si utile : module 11 « inspiré de » (pas présenté comme un suivi réel par l'autrice), personnalisé au profil, compatible grossesse
 - [ ] N3 Relecture + fusion + déploiement
 
 ## Décisions
 
 | Date | Décision | Raison |
 |---|---|---|
+| 2026-10-06 | Fitness neuro-émotionnel : « partiellement utile » → module 11 « Ton entraînement quotidien », présenté comme INSPIRÉ de la méthode (pas un suivi par l'autrice) ; seulement les ingrédients à appui indépendant + format quotidien ; souvenir-ressource préparé à l'avance et abandonné s'il ne prend pas | Coaching sans étude propre ; honnêteté envers l'utilisatrice et l'autrice |
 | 2026-10-05 | Runs de déploiement bloqués (job `deploy` sans runner ~40 min) : annulés puis relancés via `gh workflow run deploy.yml --ref main` → OK | Incident côté runners GitHub, aucune règle bloquante dans l'environnement `github-pages` |
 | 2026-10-05 | Recadrage : grossesse = filtre de sécurité seulement ; crise = mode rumination, pas d'urgence ; Periparto et Bardacke retirés ; nouvelle trousse orientée « décrocher » | Retour de l'utilisateur |
 | 2026-10-05 | Thème clair « jour » par défaut, sombre en option manuelle | Retour de l'utilisateur |
