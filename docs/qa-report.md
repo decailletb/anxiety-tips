@@ -82,16 +82,18 @@ Date : 2026-10-05. Branche : `fix/mobile-a11y-polish`.
 
 ## Captures (`docs/screenshots/`)
 
-Build de la branche, 390 px sauf mention contraire :
-- **Jour** : accueil, trousse, aide, journal, pastilles du journal, modules 03, 05 (tableau), 07, 08 (encadré).
-- **Jour à 360 px** : accueil, module 05.
-- **Nuit** : accueil, module 05, pastilles du journal.
+Refaites le 2026-10-06 sur le **site publié** (https://decailletb.github.io/anxiety-tips/), contenu recadré (« mode rumination », thème jour par défaut, module 11). Chromium, service worker bloqué (contenu frais vérifié : la trousse contient « mode rumination »), écran visible (pas la page entière), facteur 2, PNG compressés (< 60 Ko chacun). Les anciennes captures ont été supprimées.
+
+390 × 844 sauf mention contraire :
+- **Jour** : `accueil-390-jour.png`, `accueil-390-jour-bas.png` (bas de la liste, module 11 visible), `trousse-390-jour.png`, `aide-390-jour.png`, `journal-390-jour.png`, `m01-390-jour.png`, `m03-390-jour.png`, `m04-390-jour.png`, `m05-390-jour.png` (tableau « Même sensation, autre sens »), `m07-390-jour.png`, `m11-390-jour.png`.
+- **Nuit** (interrupteur manuel, `vague-theme=dark`) : `accueil-390-nuit.png`, `trousse-390-nuit.png`.
+- **Jour à 360 × 780** : `trousse-360-jour.png`.
 
 ## Limites connues
 
 - Chromium seulement : Safari iOS et Firefox Android n'ont pas été testés sur un vrai téléphone.
 - axe ne remplace pas un test avec lecteur d'écran (VoiceOver, TalkBack).
-- Captures du site publié : prises avant fusion, donc sans ces corrections. Celles du dossier viennent du build de la branche.
+- Captures du dossier `docs/screenshots/` : refaites le 2026-10-06 sur le site publié (contenu recadré, thème jour).
 - Les icônes (`favicon.svg`, PNG) gardent le vert sauge de l'ancien thème.
 - Les consignes de l'agent site (`.claude/agents/dev-site.md`) parlent encore de « mode sombre via `prefers-color-scheme` ». À aligner sur la décision de la section 8.
 - Contenu : aucun problème de rendu lié au Markdown lui-même. Le tableau du module 05 et l'encadré du module 08 rendent bien avec le nouveau CSS, sans modification du texte.

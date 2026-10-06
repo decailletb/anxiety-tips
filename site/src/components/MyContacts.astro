@@ -21,7 +21,7 @@ const slots = [0, 1, 2];
     editable ? (
       <>
         <p class="contacts-empty" data-contacts-empty data-needs-js hidden>
-          Tu peux garder ici 1 à 3 personnes à appeler en un geste : ta sage-femme, ta maternité, une proche.
+          Tu peux garder ici 1 à 3 personnes à appeler en un geste : une proche, ta sage-femme, ton médecin.
         </p>
         <details class="contacts-edit" data-needs-js hidden>
           <summary>Ajouter ou modifier mes contacts</summary>
@@ -49,7 +49,7 @@ const slots = [0, 1, 2];
       </>
     ) : (
       <p class="contacts-empty" data-contacts-empty data-needs-js hidden>
-        Tu peux enregistrer tes propres contacts (sage-femme, maternité, une proche) dans la{' '}
+        Tu peux enregistrer tes propres contacts (une proche, ta sage-femme, ton médecin) dans la{' '}
         <a href={url('trousse/')}>trousse de crise</a>.
       </p>
     )
