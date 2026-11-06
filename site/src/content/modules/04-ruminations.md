@@ -102,6 +102,7 @@ Les phases passent. Tu peux les traverser en continuant ta vie.
 - « J'avance, ou je tourne en rond ? » Si tu tournes, change de terrain.
 - Se rassurer, analyser, vérifier : c'est encore la boucle.
 - Chaque fois que tu reviens, ça compte. Même si la pensée repart.
+- Pour accueillir la boucle avec un sourire, et oser y repenser quand ça va : [Quand ça revient, avec légèreté](../12-quand-ca-revient/).
 
 ## Sources
 

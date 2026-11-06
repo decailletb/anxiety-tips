@@ -81,9 +81,9 @@ Légende : `[ ]` à faire · `[~]` en cours · `[x]` fait · `[!]` bloqué
 ### Phase 8 — Demande : « quand ça revient, avec légèreté »
 Cadrage utilisateur (2026-11-06) : quand ça va, elle évite de repenser aux phases et d'en parler (peur de déclencher) ; en phase, la logique disparaît. Ton : humour doux. Pont : phrase-repère courte + message à soi-même écrit quand ça va. Placement : module 12 + liens (trousse, ruminations, entraînement) + guide.
 - [x] L1 Fiche de recherche `research/legerete-et-evitement.md`
-- [~] L2 Module 12 + composant local « phrase-repère / message à toi » (trousse + module)
-- [ ] L3 Liens depuis modules 04, 09, 11 + guide Markdown
-- [ ] L4 Relecture, build, fusion, déploiement
+- [x] L2 Module 12 + composant local « phrase-repère / message à toi » (trousse + module)
+- [x] L3 Liens depuis modules 04, 09, 11 + guide Markdown
+- [~] L4 Relecture, build, fusion, déploiement
 
 ## Décisions
 
@@ -106,7 +106,7 @@ Aucun.
 
 ## Reprise
 
-- Prochaine action : Phase 8 (L2 en cours : composant MyMessage écrit, module à rédiger).
+- Prochaine action : Phase 8 (L4 en cours : relecture + test navigateur du message local, puis fusion).
 - Fichiers : `docs/screenshots/`, `docs/qa-report.md`.
 - Branche active : `docs/lightness-module`.
 

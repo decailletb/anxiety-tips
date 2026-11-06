@@ -707,6 +707,65 @@ Un jour oublié ? Tu reprends le lendemain. Essaie sept jours de suite, et note 
 
 ---
 
+## Quand ça revient, avec légèreté
+
+Quand ça va, tu sais relativiser. Puis la boucle revient, et la logique disparaît : ce que tu sais un jour normal reste comme rangé dans une autre pièce, et la boucle prend la place pour raisonner. Alors on mise sur de la **légèreté** quand ça revient (des mots courts préparés d'avance) et sur **moins d'évitement** quand ça va. La règle : rire avec toi, jamais de toi.
+
+#### Un surnom tendre pour la boucle
+
+**Pourquoi ça t'aide :** un surnom fait de la boucle un personnage connu. Tu la reconnais au lieu de débattre. Un sourire gentil apaise mieux qu'un argument sérieux.
+
+**Comment :**
+1. Un jour où ça va, choisis un surnom affectueux : un comité d'alerte trop zélé, une radio qui passe toujours le même tube.
+2. Quand elle revient : « Salut, toi. Je t'ai reconnu. Merci de veiller, je m'en occupe. »
+3. Reviens à ce que font tes mains.
+
+**Quand :** avant (choisir), pendant (l'utiliser). S'il ne fait pas sourire un jour, dis-le quand même, sans forcer.
+
+#### Changer la bande-son
+
+**Pourquoi ça t'aide :** changer la forme de la pensée la rend moins sérieuse, sans entrer dans le débat.
+
+**Comment :**
+1. Résume la pensée en une phrase courte.
+2. Fais-la dire par une autre voix (commentateur sportif, personnage de dessin animé) ou chante-la.
+3. « Ça m'allège, ou ça me pique ? » Si ça pique : main sur le ventre, et ta phrase-repère.
+
+**Quand :** pendant. Un jour de grande fatigue, laisse le jeu de côté.
+
+#### Ta phrase-repère et ton message pour toi
+
+**Pourquoi ça t'aide :** dans la boucle, un raisonnement ne passe plus. Une phrase très courte, rodée d'avance, revient comme un refrain. Un message écrit un jour où ça va transporte ton bon regard jusqu'au moment où tu en as besoin.
+
+**Comment :**
+1. Choisis une seule phrase courte, vraie et douce : « Je connais cette boucle. Je continue. »
+2. Pendant quelques jours, dis-la en ouvrant une porte ou en te lavant les mains.
+3. Écris aussi un court message à toi dans la boucle, comme à une amie : « Je sais que c'est pénible. Tu as déjà traversé des phases. Fais la prochaine petite chose. » Sans « tu exagères » ni promesse.
+4. Garde les deux dans « Mon message pour moi », sur la page trousse du site (seulement sur ton téléphone).
+5. Dans la boucle : dis la phrase une ou deux fois, relis le message, puis fais une chose concrète.
+
+**Quand :** avant (écrire, roder), pendant (dire, relire), après (retoucher).
+
+#### Quand ça va : penser n'est pas déclencher
+
+**Pourquoi ça t'aide :** éviter d'y repenser soulage sur le moment, mais une pensée repoussée revient plus fort, et l'évitement garde le sujet menaçant. De petits contacts répétés, les jours où ça va, apprennent que c'est supportable.
+
+**Comment :**
+1. Un souvenir de phase arrive ? « C'est un souvenir. Je suis aujourd'hui. » Nomme trois choses autour de toi, continue.
+2. Écris un petit escalier : lire une page de ce guide, écrire une phrase sur la dernière phase, en dire une phrase à un proche, parler dix minutes de ce qui t'aide.
+3. Avant une marche, écris ta prédiction (« ça va lancer une phase »). Le soir et deux jours après, note ce qui s'est passé. « J'ai appris que… »
+4. Pour en parler : côte à côte, avec le surnom, en disant ce qui t'aide (écouter, être là, répondre une fois). Arrête-toi quand l'essentiel est dit.
+
+**Quand :** les jours où ça va, jamais pendant une phase. Lis, constate, referme : pas d'analyse du passé. Une phase qui tombe le même jour qu'une marche est une coïncidence possible, pas une preuve.
+
+**À retenir**
+
+- Dans la boucle, tes mots courts préparés d'avance prennent le relais de la logique.
+- Rire avec toi, jamais de toi. Si ça pique, passe à la douceur.
+- Quand ça va, des petits pas vers le sujet. Penser n'est pas déclencher.
+
+---
+
 ## Repérer les signaux précoces
 
 Le déclencheur d'une phase reste souvent inconnu. Mais l'**entrée dans le mode rumination**, elle, se repère : de petits changements discrets, souvent les mêmes d'une phase à l'autre. Les voir tôt, c'est pouvoir sortir tes outils tôt.
@@ -937,6 +996,16 @@ Le contenu de ce guide est une reformulation libre. Les liens ci-dessous permett
 - [Chen et al. 2015 – Remembrance of happy things past (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4347421/) (EN)
 - [PsyPost – Self-soothing touch reduces cortisol (Dreisoerner et al. 2021)](https://www.psypost.org/receiving-a-hug-or-engaging-in-self-soothing-touch-reduces-cortisol-levels-following-a-stressful-experience/) (EN)
 - [NHS – Breathing exercises for stress](https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/) (EN)
+
+### Quand ça revient, avec légèreté
+
+- [Kugler & Kuhbandner 2015 – That's not funny! But it should be (Frontiers in Psychology)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.01296/full) (EN)
+- [Samson & Gross 2012 – Humour as emotion regulation (Archive ouverte UNIGE)](https://archive-ouverte.unige.ch/unige:98021) (EN)
+- [Wang, Hagger & Chatzisarantis 2020 – Ironic effects of thought suppression (JCU)](https://researchonline.jcu.edu.au/60795/) (EN)
+- [CISSS de l'Outaouais – Exposition aux situations anxiogènes (PDF)](https://cisss-outaouais.gouv.qc.ca/wp-content/uploads/2024/12/Exposition-aux-situations-anxiogenes-TAG-Fiche-C7.pdf) (FR)
+- [LaFreniere & Newman 2020 – Exposing worry's deceit (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7233480) (EN)
+- [Eysenck et al. 2007 – Anxiety and cognitive performance (PDF)](https://tu-dresden.de/mn/psychologie/allgpsy/ressourcen/dateien/lehre/pruefungsliteratur_KN_2013/Eysenck-2007.pdf?lang=de) (EN)
+- [Greater Good in Action (UC Berkeley) – Self-compassionate letter](https://ggia.berkeley.edu/practice/self_compassionate_letter) (EN)
 
 ### Repérer les signaux précoces
 
