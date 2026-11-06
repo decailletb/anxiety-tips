@@ -1,0 +1,46 @@
+---
+// « Mon message pour moi » : une phrase-repère courte + un message écrit un jour où ça va,
+// à relire quand la boucle revient. Gardés uniquement sur ce téléphone (localStorage).
+// Aucun texte personnel n'est jamais dans le code ni dans le repo. Affichage par public/local.js.
+import { url } from '../lib/url';
+---
+
+<section class="my-message" aria-labelledby="my-message-title">
+  <h2 id="my-message-title">Mon message pour moi</h2>
+  <noscript>
+    <p class="notice">Ton message s’affiche ici quand JavaScript est activé.</p>
+  </noscript>
+  <div class="message-show" data-message-show hidden>
+    <p class="message-phrase" data-message-phrase></p>
+    <p class="message-text" data-message-text></p>
+  </div>
+  <p class="message-empty" data-message-empty data-needs-js hidden>
+    Un jour où ça va, écris ici ta phrase-repère et quelques mots pour toi. Tu les retrouveras quand la boucle
+    reviendra. Idées dans le module <a href={url('modules/12-quand-ca-revient/')}>Quand ça revient, avec légèreté</a>.
+  </p>
+  <details class="contacts-edit" data-needs-js hidden>
+    <summary>Écrire ou modifier mon message</summary>
+    <form id="message-form" class="contacts-form">
+      <p class="privacy-note">Enregistré seulement sur ce téléphone. Rien n’est envoyé nulle part.</p>
+      <div class="field">
+        <label for="message-phrase">Ma phrase-repère (courte)</label>
+        <input
+          id="message-phrase"
+          name="phrase"
+          type="text"
+          maxlength="80"
+          autocomplete="off"
+          placeholder="Ah, revoilà mon vieux disque rayé."
+        />
+      </div>
+      <div class="field">
+        <label for="message-text">Mon message, écrit un jour où ça va</label>
+        <textarea id="message-text" name="text" rows="6" maxlength="600" autocomplete="off"></textarea>
+      </div>
+      <div class="actions">
+        <button type="submit" class="btn btn-primary">Enregistrer</button>
+        <p class="status" role="status" aria-live="polite"></p>
+      </div>
+    </form>
+  </details>
+</section>

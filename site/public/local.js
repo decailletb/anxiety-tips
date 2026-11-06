@@ -1,4 +1,4 @@
-// Journal des signaux et contacts personnels : 100 % local.
+// Journal des signaux, contacts personnels et message pour moi : 100 % local.
 // Tout est gardé dans le localStorage de ce navigateur. Aucune requête réseau, aucun envoi.
 // Un seul fichier pour les pages /journal/, /journal/imprimer/, /trousse/ et /aide/ :
 // chaque partie ne s'active que si ses éléments existent dans la page.
@@ -7,6 +7,7 @@
 
   var JOURNAL_KEY = 'vague-journal-v1';
   var CONTACTS_KEY = 'vague-contacts-v1';
+  var MESSAGE_KEY = 'vague-message-v1';
   var DAYS_SHOWN = 28;
   var MAX_CONTACTS = 3;
 
@@ -368,4 +369,54 @@
     });
   }
   if (document.querySelector('[data-contacts-list]')) renderContacts();
+
+  // ======================================================================
+  // Mon message pour moi (trousse) : phrase-repère + message, écrits un jour où ça va
+  // ======================================================================
+  function readMessage() {
+    var m = load(MESSAGE_KEY, null);
+    if (!m || typeof m !== 'object') return { phrase: '', text: '' };
+    return {
+      phrase: typeof m.phrase === 'string' ? m.phrase.slice(0, 80) : '',
+      text: typeof m.text === 'string' ? m.text.slice(0, 600) : '',
+    };
+  }
+  function renderMessage() {
+    var m = readMessage();
+    var any = !!(m.phrase || m.text);
+    document.querySelectorAll('[data-message-show]').forEach(function (box) {
+      box.hidden = !any;
+      var p = box.querySelector('[data-message-phrase]');
+      var t = box.querySelector('[data-message-text]');
+      p.textContent = m.phrase;
+      p.hidden = !m.phrase;
+      t.textContent = m.text;
+      t.hidden = !m.text;
+    });
+    document.querySelectorAll('[data-message-empty]').forEach(function (n) {
+      n.hidden = any;
+    });
+  }
+  var messageForm = document.getElementById('message-form');
+  if (messageForm) {
+    var mm = readMessage();
+    messageForm.elements.phrase.value = mm.phrase;
+    messageForm.elements.text.value = mm.text;
+    messageForm.addEventListener('submit', function (ev) {
+      ev.preventDefault();
+      var st = messageForm.querySelector('.status');
+      var data = {
+        phrase: messageForm.elements.phrase.value.trim().slice(0, 80),
+        text: messageForm.elements.text.value.trim().slice(0, 600),
+      };
+      if (!save(MESSAGE_KEY, data)) {
+        st.textContent = 'Impossible d’enregistrer dans ce navigateur.';
+        return;
+      }
+      renderMessage();
+      st.textContent =
+        data.phrase || data.text ? 'Ton message est gardé sur ce téléphone.' : 'Message effacé.';
+    });
+  }
+  if (document.querySelector('[data-message-show]')) renderMessage();
 })();

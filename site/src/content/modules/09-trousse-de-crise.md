@@ -47,6 +47,19 @@ Quand tu tournes en rond, choisir quoi faire est difficile. Une trousse prépar�
 
 **Quand :** avant (préparer), pendant (l'ouvrir).
 
+### Ton message pour toi
+
+**Pourquoi ça t'aide :** dans la boucle, la logique se met en veille. Une phrase courte et quelques mots écrits par toi, un jour où ça va, prennent le relais. Pas besoin de réfléchir : juste de lire.
+
+**Comment :**
+
+1. Un jour où ça va, ouvre la page [trousse](../../trousse/) et touche « Écrire ou modifier mon message ».
+2. Écris ta phrase-repère : quelques mots, vrais et doux.
+3. Écris un court message pour toi dans la boucle, comme à une amie.
+4. Ils s'affichent sous les sept lignes. Ils restent uniquement sur ton téléphone.
+
+**Quand :** avant (écrire), pendant (relire). Idées et exemples dans le module [Quand ça revient, avec légèreté](../12-quand-ca-revient/).
+
 ### Ajouter tes contacts
 
 **Pourquoi ça t'aide :** pendant une phase, garder un lien avec quelqu'un allège. Avec des contacts déjà enregistrés, écrire ou appeler se fait en un geste.
@@ -65,7 +78,7 @@ Quand tu tournes en rond, choisir quoi faire est difficile. Une trousse prépar�
 
 - Sept lignes pour décrocher de la boucle et revenir à ta journée.
 - Prépare-la un jour calme, avec tes mots.
-- Garde-la à un tap, sur l'écran d'accueil, avec tes contacts.
+- Garde-la à un tap, sur l'écran d'accueil, avec ton message pour toi et tes contacts.
 - Tu n'as pas à faire taire tes pensées. Juste à ne pas les suivre.
 - Pour repérer une phase qui commence : le module [Repérer les signaux précoces](../02-signaux-precoces/).
 

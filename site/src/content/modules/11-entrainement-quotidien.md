@@ -107,6 +107,7 @@ Essaie ta routine **sept jours de suite**, au même moment. Pas besoin de bien f
 - Ton souvenir-ressource se prépare un jour calme. S'il ne vient pas, tu le lâches.
 - Ton souffle reste doux, tes gestes aussi. Rien d'intense.
 - Un jour oublié n'efface rien. Tu reprends le lendemain.
+- Ta phrase-repère se rode aussi quand ça va : voir [Quand ça revient, avec légèreté](../12-quand-ca-revient/).
 
 ## Sources
 
