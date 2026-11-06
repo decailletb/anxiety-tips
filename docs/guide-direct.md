@@ -709,7 +709,9 @@ Un jour oublié ? Tu reprends le lendemain. Essaie sept jours de suite, et note 
 
 ## Quand ça revient, avec légèreté
 
-Quand ça va, tu sais relativiser. Puis la boucle revient, et la logique disparaît : ce que tu sais un jour normal reste comme rangé dans une autre pièce, et la boucle prend la place pour raisonner. Alors on mise sur de la **légèreté** quand ça revient (des mots courts préparés d'avance) et sur **moins d'évitement** quand ça va. La règle : rire avec toi, jamais de toi.
+Quand ça va, tu sais relativiser. Puis la boucle revient, et la logique disparaît. Ce que tu sais un jour normal reste comme rangé dans une autre pièce. Et la boucle prend la place qui sert à raisonner.
+
+Alors on mise sur de la **légèreté** quand ça revient (des mots courts préparés d'avance) et sur **moins d'évitement** quand ça va. La règle : rire avec toi, jamais de toi.
 
 #### Un surnom tendre pour la boucle
 
@@ -717,10 +719,10 @@ Quand ça va, tu sais relativiser. Puis la boucle revient, et la logique dispara
 
 **Comment :**
 1. Un jour où ça va, choisis un surnom affectueux : un comité d'alerte trop zélé, une radio qui passe toujours le même tube.
-2. Quand elle revient : « Salut, toi. Je t'ai reconnu. Merci de veiller, je m'en occupe. »
+2. Quand elle revient : « Salut, toi. Je te reconnais. Merci de veiller, je m'en occupe. »
 3. Reviens à ce que font tes mains.
 
-**Quand :** avant (choisir), pendant (l'utiliser). S'il ne fait pas sourire un jour, dis-le quand même, sans forcer.
+**Quand :** avant (choisir), pendant (l'utiliser). S'il ne fait pas sourire un jour, dis-le quand même, sans forcer. S'il sonne moqueur, change-le.
 
 #### Changer la bande-son
 
@@ -752,11 +754,11 @@ Quand ça va, tu sais relativiser. Puis la boucle revient, et la logique dispara
 
 **Comment :**
 1. Un souvenir de phase arrive ? « C'est un souvenir. Je suis aujourd'hui. » Nomme trois choses autour de toi, continue.
-2. Écris un petit escalier : lire une page de ce guide, écrire une phrase sur la dernière phase, en dire une phrase à un proche, parler dix minutes de ce qui t'aide.
+2. Écris un petit escalier, du plus facile au moins facile : lire une page de ce guide, écrire une phrase sur la dernière phase, en dire une phrase à un proche, parler dix minutes de ce qui t'aide. Refais une marche plusieurs fois avant la suivante.
 3. Avant une marche, écris ta prédiction (« ça va lancer une phase »). Le soir et deux jours après, note ce qui s'est passé. « J'ai appris que… »
 4. Pour en parler : côte à côte, avec le surnom, en disant ce qui t'aide (écouter, être là, répondre une fois). Arrête-toi quand l'essentiel est dit.
 
-**Quand :** les jours où ça va, jamais pendant une phase. Lis, constate, referme : pas d'analyse du passé. Une phase qui tombe le même jour qu'une marche est une coïncidence possible, pas une preuve.
+**Quand :** les jours où ça va, pas pendant une phase. Lis, constate, referme : pas d'analyse du passé. Si une marche est trop haute, redescends d'une marche. Une phase qui tombe le même jour qu'une marche est une coïncidence possible, pas une preuve.
 
 **À retenir**
 

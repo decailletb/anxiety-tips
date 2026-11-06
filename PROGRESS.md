@@ -83,12 +83,13 @@ Cadrage utilisateur (2026-11-06) : quand ça va, elle évite de repenser aux pha
 - [x] L1 Fiche de recherche `research/legerete-et-evitement.md`
 - [x] L2 Module 12 + composant local « phrase-repère / message à toi » (trousse + module)
 - [x] L3 Liens depuis modules 04, 09, 11 + guide Markdown
-- [~] L4 Relecture, build, fusion, déploiement
+- [x] L4 Relecture, build, fusion, déploiement
 
 ## Décisions
 
 | Date | Décision | Raison |
 |---|---|---|
+| 2026-11-06 | Module 12 « Quand ça revient, avec légèreté » + bloc local « Mon message pour moi » (phrase-repère + message, localStorage `vague-message-v1`) sur la trousse ; humour « rire avec toi, jamais de toi » ; mémoire dépendante de l'état présentée comme une image seulement | Demande utilisateur ; preuves modestes (voir research/legerete-et-evitement.md) |
 | 2026-10-06 | Fitness neuro-émotionnel : « partiellement utile » → module 11 « Ton entraînement quotidien », présenté comme INSPIRÉ de la méthode (pas un suivi par l'autrice) ; seulement les ingrédients à appui indépendant + format quotidien ; souvenir-ressource préparé à l'avance et abandonné s'il ne prend pas | Coaching sans étude propre ; honnêteté envers l'utilisatrice et l'autrice |
 | 2026-10-05 | Runs de déploiement bloqués (job `deploy` sans runner ~40 min) : annulés puis relancés via `gh workflow run deploy.yml --ref main` → OK | Incident côté runners GitHub, aucune règle bloquante dans l'environnement `github-pages` |
 | 2026-10-05 | Recadrage : grossesse = filtre de sécurité seulement ; crise = mode rumination, pas d'urgence ; Periparto et Bardacke retirés ; nouvelle trousse orientée « décrocher » | Retour de l'utilisateur |
@@ -106,9 +107,9 @@ Aucun.
 
 ## Reprise
 
-- Prochaine action : Phase 8 (L4 en cours : relecture + test navigateur du message local, puis fusion).
+- Prochaine action : rien d'obligatoire ; voir « Idées d'amélioration ».
 - Fichiers : `docs/screenshots/`, `docs/qa-report.md`.
-- Branche active : `docs/lightness-module`.
+- Branche active : `main`.
 
 ## Rapport final
 

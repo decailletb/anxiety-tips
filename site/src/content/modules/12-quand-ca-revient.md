@@ -6,12 +6,14 @@ summary: "Accueillir la boucle avec un sourire tendre quand elle revient, et ose
 
 ## En bref
 
-Quand ça va, tu sais relativiser. Tu as tout compris. Puis la boucle revient, et la logique disparaît. Ce n'est pas que tu oublies. C'est un peu comme si ce que tu sais un jour normal restait rangé dans une autre pièce. Et la boucle prend toute la place dans ta tête : il en reste peu pour raisonner.
+Quand ça va, tu sais relativiser. Tu as tout compris. Puis la boucle revient, et la logique disparaît.
+
+Ce n'est pas que tu oublies. C'est un peu comme si ce que tu sais un jour normal restait rangé dans une autre pièce. Et la boucle prend toute la place dans ta tête : il en reste peu pour raisonner.
 
 Alors on ne mise pas sur la logique. On mise sur deux choses :
 
 - **De la légèreté** quand ça revient : un sourire tendre, des mots courts préparés d'avance, écrits par toi un jour où ça va.
-- **Moins d'évitement** quand ça va : repenser à une phase ou en parler ne la déclenche pas. Éviter d'y penser, en revanche, la garde menaçante.
+- **Moins d'évitement** quand ça va : repenser à une phase ou en parler, ce n'est pas la déclencher. Éviter d'y penser, en revanche, garde le sujet menaçant.
 
 La règle de l'humour ici : **rire avec toi, jamais de toi.** Ce que tu vis est réel. On change juste le ton de la conversation avec la boucle.
 
@@ -24,11 +26,11 @@ La règle de l'humour ici : **rire avec toi, jamais de toi.** Ce que tu vis est 
 **Comment :**
 
 1. Un jour où ça va, choisis un surnom qui te fait sourire **avec affection**. Un petit comité d'alerte trop zélé. Une radio qui passe toujours le même tube. Un chien de garde qui aboie aux feuilles mortes.
-2. Choisis ta phrase d'accueil : « Salut, toi. Je t'ai reconnu. »
+2. Choisis ta phrase d'accueil : « Salut, toi. Je te reconnais. »
 3. Quand la boucle revient, dis-la dans ta tête. Puis : « Merci de veiller. Je m'en occupe. »
 4. Reviens à ce que font tes mains.
 
-**Quand :** avant (choisir le surnom), pendant (l'utiliser). Si un jour il ne te fait pas sourire, dis-le quand même, sans forcer le sourire. C'est le cousin du « titre de l'histoire » du module [Les ruminations](../04-ruminations/).
+**Quand :** avant (choisir le surnom), pendant (l'utiliser). Si un jour il ne te fait pas sourire, dis-le quand même, sans forcer le sourire. S'il commence à sonner moqueur, change-le pour un nom plus doux. C'est le cousin du « titre de l'histoire » du module [Les ruminations](../04-ruminations/).
 
 ### Changer la bande-son
 
@@ -53,7 +55,7 @@ La règle de l'humour ici : **rire avec toi, jamais de toi.** Ce que tu vis est 
 1. Un jour où ça va, choisis **une seule** phrase de quelques mots, vraie et douce. Par exemple :
    - « Je connais cette boucle. Je continue. »
    - « Ah, revoilà mon vieux disque rayé. »
-   - « Salut, toi. Je t'ai reconnu. »
+   - « Salut, toi. Je te reconnais. »
 2. Pendant quelques jours, dis-la en faisant un geste de tous les jours : en ouvrant une porte, en te lavant les mains.
 3. Écris-la dans « Mon message pour moi », sur la page [trousse](../../trousse/). Elle s'affiche en grand.
 4. Quand la boucle revient : dis-la une ou deux fois, à voix basse. Puis fais tout de suite une chose concrète.
@@ -71,17 +73,19 @@ La règle de l'humour ici : **rire avec toi, jamais de toi.** Ce que tu vis est 
 2. Commence par : « Je sais que c'est pénible en ce moment. »
 3. Ajoute ce que tu sais un jour normal : « Tu as déjà traversé des phases. Elles sont passées. » Un clin d'œil aussi, si tu veux : « Tu connais la fin de cet épisode. »
 4. Termine par une ou deux petites actions : « Bois un verre d'eau. Écris à quelqu'un. Fais la prochaine petite chose. »
-5. Relis-le. Est-il chaleureux ? Enlève les « tu exagères », « il faudrait », « arrête ». Ils font reproche.
+5. Relis-le. Est-il chaleureux ? Enlève les « tu exagères », « il faudrait », « arrête ». Ils sonnent comme un reproche.
 6. Écris-le dans « Mon message pour moi », sur la page [trousse](../../trousse/). Il reste seulement sur ton téléphone.
 7. Quand la boucle revient, relis-le lentement, sur le ton de cette amie. Puis fais l'action écrite.
 
-**Quand :** avant (écrire), pendant (relire), après une phase (retoucher ce qui n'a pas aidé). Évite les promesses comme « tout ira bien » : elles peuvent sonner faux. Préfère des phrases vraies. Si écrire rend un peu triste au début, c'est fréquent : écris moins, plus doucement.
+**Quand :** avant (écrire), pendant (relire), après une phase (retoucher ce qui n'a pas aidé).
+
+Évite les promesses comme « tout ira bien » : elles peuvent sonner faux. Préfère des phrases vraies. Si écrire rend un peu triste au début, c'est fréquent : écris moins, plus doucement.
 
 ## Quand ça va
 
 Quand ça va, il est tentant de ne surtout pas y repenser, pour ne pas « réveiller » une phase. C'est compréhensible. Mais repousser une pensée la fait revenir plus fort, plus tard. Et l'évitement garde intacte l'idée que ce sujet est dangereux.
 
-Le but ici n'est pas de ruminer exprès. C'est de vérifier, à petites doses, que penser n'est pas déclencher.
+Le but ici n'est pas de ruminer exprès. C'est de constater, à petites doses, que penser n'est pas déclencher.
 
 ### Laisser passer le souvenir d'une phase
 
@@ -149,7 +153,7 @@ Le but ici n'est pas de ruminer exprès. C'est de vérifier, à petites doses, q
 - Dans la boucle, la logique se met en veille. Tes mots courts, préparés quand ça va, prennent le relais.
 - Rire avec toi, jamais de toi. Si ça pique, passe à la douceur.
 - Une phrase-repère, un message pour toi : gardés sur la [trousse](../../trousse/), à un tap.
-- Repenser à une phase n'en déclenche pas une. Penser n'est pas déclencher.
+- Penser n'est pas déclencher. Tes notes « prédiction contre réalité » te le montrent, petit à petit.
 - Quand ça va, des petits pas vers le sujet. Pendant une phase, ta trousse habituelle.
 
 ## Sources

@@ -22,7 +22,7 @@
 - Pourquoi adapté au profil : la boucle revient par phases avec le même scénario. Le personnage rend le moment reconnaissable (« ah, c'est lui ») sans débat, et le ton tendre évite de se juger. C'est de l'humour « positif », le type qui apaise.
 - Étapes :
   1. Quand ça va, choisir un surnom qui fait sourire **avec affection** (pas un nom qui rabaisse).
-  2. Lui trouver une phrase d'accueil : « Salut, toi. Je t'ai reconnu. »
+  2. Lui trouver une phrase d'accueil : « Salut, toi. Je te reconnais. »
   3. Dans la boucle : la dire, puis « Merci de veiller, je m'en occupe. »
   4. Revenir à ce que font tes mains.
   5. Si le surnom ne fait plus sourire un jour, le dire quand même, sans forcer le sourire.
@@ -172,7 +172,7 @@
 
 ## Formulations courtes proposées
 
-- « Salut, toi. Je t'ai reconnu. »
+- « Salut, toi. Je te reconnais. »
 - « Ça m'allège, ou ça me pique ? »
 - « C'est un souvenir. Je suis aujourd'hui. »
 - « Penser n'est pas déclencher. »
