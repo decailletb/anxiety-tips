@@ -826,6 +826,35 @@ textarea {
   font-size: 1rem;
 }
 
+/* Mon message pour moi (trousse) */
+.my-message h2 {
+  margin-top: 2.5rem;
+}
+.message-show {
+  background: var(--accent-soft);
+  border-left: 5px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+}
+.trousse .my-message .message-phrase {
+  margin: 0;
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+.trousse .my-message .message-text {
+  margin: 0.75rem 0 0;
+  font-size: 1.1rem;
+  white-space: pre-line;
+}
+.trousse .my-message p {
+  font-size: 1rem;
+}
+textarea {
+  min-height: 8rem;
+  resize: vertical;
+}
+
 /* ---------- Impression ---------- */
 @media print {
   :root,
@@ -853,6 +882,7 @@ textarea {
   .notice,
   .theme-toggle,
   .privacy-note,
+  .my-message,
   .my-contacts {
     display: none !important;
   }
